@@ -1,0 +1,804 @@
+=====================================================================
+== G:\SteamLibrary\steamapps\common\DayZServer\DayZServer_x64.exe
+== DayZServer_x64.exe -noBattlEye -config=serverDZ.cfg -port=2302 "-profiles=G:\SteamLibrary\steamapps\common\DayZServer\ServerProfiles" -cpuCount=4 -nosplash -noPause "-mod=@CF;@Dabs Framework;@Namalsk Island;@Namalsk Survival;@VPPAdminTools;@VPPAdminTools Ru Translate"
+=====================================================================
+Exe timestamp: 2026/08/15 12:57:52
+Current time:  2026/08/17 00:41:10
+Version 1.29.163709
+=====================================================================
+
+ 0:41:10.52  ENGINE    (W): Process affinity forced to f
+ 0:41:14.691 ENGINE    (W): No module info used, trying to identify -> 0x2EFD0000
+ 0:41:14.692 ENGINE    (W): Adjusting job system settings to have at least one job worker thread.
+ 0:41:14.860 [Inputs] Loading inputs default "bin/constants.xml"
+ 0:41:14.863 [Inputs] Loading inputs default "bin/specific.xml"
+ 0:41:14.865 [Inputs] Loading inputs default "nst/ns_dayz/scripts/Data/Inputs.xml"
+ 0:41:14.865 [Inputs] Loading inputs default "VPPAdminTools/data/modded_Inputs.xml"
+ 0:41:14.866 [Inputs] Loading inputs cfg "G:\SteamLibrary\steamapps\common\DayZServer\ServerProfiles\Users\Survivor\Server.core.xml"
+ 0:41:14.870 [Inputs] Exporting inputs cfg "G:\SteamLibrary\steamapps\common\DayZServer\ServerProfiles\Users\Survivor\Server.core.xml"
+ 0:41:17.00  ANIMATION (E): Can't load @VPPAdminTools Ru Translate/Anims/cfg/skeletons.anim.xml
+ 0:41:17.00  ANIMATION (E): Failed to open file, line 0, column 0
+ 0:41:17.00  ANIMATION (E): Can't load @VPPAdminTools/Anims/cfg/skeletons.anim.xml
+ 0:41:17.00  ANIMATION (E): Failed to open file, line 0, column 0
+ 0:41:17.00  ANIMATION (E): Can't load @Namalsk Survival/Anims/cfg/skeletons.anim.xml
+ 0:41:17.00  ANIMATION (E): Failed to open file, line 0, column 0
+ 0:41:17.00  ANIMATION (E): Can't load @Namalsk Island/Anims/cfg/skeletons.anim.xml
+ 0:41:17.00  ANIMATION (E): Failed to open file, line 0, column 0
+ 0:41:17.00  ANIMATION (E): Can't load @Dabs Framework/Anims/cfg/skeletons.anim.xml
+ 0:41:17.00  ANIMATION (E): Failed to open file, line 0, column 0
+ 0:41:17.00  ANIMATION (E): Can't load @CF/Anims/cfg/skeletons.anim.xml
+ 0:41:17.00  ANIMATION (E): Failed to open file, line 0, column 0
+ 0:41:17.00  ANIMATION (E): Can't load sakhal/Anims/cfg/skeletons.anim.xml
+ 0:41:17.00  ANIMATION (E): Failed to open file, line 0, column 0
+ 0:41:24.190 Hostname of server: "SVOBODA DayZ"
+ 0:41:24.810 NETWORK      : Network simulation
+ 0:41:24.810  Loading landscape 'namalsk'
+ 0:41:24.810   WORLD        : Create entity type 'Land_pas_amps_solo'
+ 0:41:24.810    ENTITY    (E): Type 'HouseType' must be inherited from class 'PASReceiverType'
+ 0:41:24.911   ENTITY       : Load entity type 'land_seb_garage'
+ 0:41:24.911    ENTITY    (W): Door 'doorstwin1' is missing geometry components for selection 'doorstwin1', check model+config
+ 0:41:24.915   ENTITY       : Load entity type 'Land_Container_1Aoh'
+ 0:41:24.915    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+ 0:41:24.917   WORLD        : Create entity type 'Land_radio_panelpas'
+ 0:41:24.917    ENTITY    (E): Type 'HouseType' must be inherited from class 'PASBroadcasterType'
+ 0:41:24.928   ENTITY       : Load entity type 'Land_Factory_Small'
+ 0:41:24.928    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+ 0:41:24.928    ENTITY    (W): Door 'DoorsTwin2' is missing geometry components for selection 'DoorsTwin2', check model+config
+ 0:41:24.946   ENTITY       : Load entity type 'Land_Container_1Bo'
+ 0:41:24.946    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+ 0:41:24.946    ENTITY    (W): Door 'DoorsTwin2' is missing geometry components for selection 'DoorsTwin2', check model+config
+ 0:41:24.947   ENTITY       : Load entity type 'land_budova2_winter'
+ 0:41:24.947    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+ 0:41:24.974   ENTITY       : Load entity type 'Land_Container_1Mo'
+ 0:41:24.974    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+ 0:41:24.974    ENTITY    (W): Door 'DoorsTwin2' is missing geometry components for selection 'DoorsTwin2', check model+config
+ 0:41:24.976   ENTITY       : Load entity type 'land_budova1_winter'
+ 0:41:24.976    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+ 0:41:24.993   WORLD        : Create entity type 'Land_radio_panelbig'
+ 0:41:24.993    ENTITY    (E): Type 'HouseType' must be inherited from class 'StaticTransmitterType'
+ 0:41:25.15    ENTITY       : Load entity type 'land_vys_budova_p1'
+ 0:41:25.15     ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+ 0:41:25.16     ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+ 0:41:25.17     ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+ 0:41:25.31    ENTITY       : Load entity type 'Land_Mil_Barracks3'
+ 0:41:25.31     ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+ 0:41:25.33    ENTITY       : Load entity type 'land_budova3'
+ 0:41:25.33     ENTITY    (W): Door 'doorstwin1' is missing geometry components for selection 'doorstwin1', check model+config
+ 0:41:25.39    ENTITY       : Load entity type 'Land_Mil_Barracks1'
+ 0:41:25.39     ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+ 0:41:25.113   ENTITY       : Load entity type 'Land_Garage_Small'
+ 0:41:25.113    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+ 0:41:25.128   ENTITY       : Load entity type 'Land_Mil_Barracks5'
+ 0:41:25.128    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+ 0:41:25.219   ENTITY       : Load entity type 'Land_Workshop2'
+ 0:41:25.219    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+ 0:41:25.237   ENTITY       : Load entity type 'Land_Wreck_S1023_Beige'
+ 0:41:25.237    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+ 0:41:25.286   ENTITY       : Load entity type 'Land_Wreck_S1023_Blue'
+ 0:41:25.286    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+ 0:41:25.286   ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater_still.p3d)
+ 0:41:25.357   ENTITY       : Load entity type 'Land_CementWorks_Hall2_Brick'
+ 0:41:25.357    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+ 0:41:25.370   ENTITY       : Load entity type 'Land_Workshop3'
+ 0:41:25.370    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+ 0:41:25.370    ENTITY    (W): Door 'DoorsTwin2' is missing geometry components for selection 'DoorsTwin2', check model+config
+ 0:41:25.388   ENTITY       : Load entity type 'Land_Workshop4'
+ 0:41:25.388    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+ 0:41:25.422   ENTITY       : Load entity type 'Land_Workshop1'
+ 0:41:25.422    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+ 0:41:25.451   ENTITY       : Load entity type 'Land_Airfield_Small_Control'
+ 0:41:25.451    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+ 0:41:25.452    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+ 0:41:25.453    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+ 0:41:25.453    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+ 0:41:25.463   ENTITY    (W): Unknown object class 'pond' (dz\water_sakhal\ice_lake\sakhal_50x50_ice_lake_clear.p3d)
+ 0:41:25.511   ENTITY       : Load entity type 'Land_Office2'
+ 0:41:25.511    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+ 0:41:25.511    ENTITY    (W): Door 'DoorsTwin2' is missing geometry components for selection 'DoorsTwin2', check model+config
+ 0:41:25.511    ENTITY    (W): Door 'DoorsTwin3' is missing geometry components for selection 'DoorsTwin3', check model+config
+ 0:41:25.511    ENTITY    (W): Door 'DoorsTwin4' is missing geometry components for selection 'DoorsTwin4', check model+config
+ 0:41:25.511    ENTITY    (W): Door 'DoorsTwin5' is missing geometry components for selection 'DoorsTwin5', check model+config
+ 0:41:25.528   ENTITY       : Load entity type 'Land_City_Hospital'
+ 0:41:25.528    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+ 0:41:25.559   ENTITY       : Load entity type 'Land_Office1'
+ 0:41:25.559    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+ 0:41:25.560    ENTITY    (W): Door 'DoorsTwin2' is missing geometry components for selection 'DoorsTwin2', check model+config
+ 0:41:25.560    ENTITY    (W): Door 'DoorsTwin3' is missing geometry components for selection 'DoorsTwin3', check model+config
+ 0:41:25.560    ENTITY    (W): Door 'DoorsTwin4' is missing geometry components for selection 'DoorsTwin4', check model+config
+ 0:41:25.560    ENTITY    (W): Door 'DoorsTwin5' is missing geometry components for selection 'DoorsTwin5', check model+config
+ 0:41:25.560    ENTITY    (W): Door 'DoorsTwin6' is missing geometry components for selection 'DoorsTwin6', check model+config
+ 0:41:25.560    ENTITY    (W): Door 'DoorsTwin7' is missing geometry components for selection 'DoorsTwin7', check model+config
+ 0:41:25.582   ENTITY       : Load entity type 'Land_Container_1Moh'
+ 0:41:25.582    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+ 0:41:25.610   ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+ 0:41:25.665   ENTITY       : Load entity type 'Land_Garage_Row_Small'
+ 0:41:25.666    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+ 0:41:25.666    ENTITY    (W): Door 'DoorsTwin2' is missing geometry components for selection 'DoorsTwin2', check model+config
+ 0:41:25.666    ENTITY    (W): Door 'DoorsTwin3' is missing geometry components for selection 'DoorsTwin3', check model+config
+ 0:41:25.782   ENTITY       : Load entity type 'Land_City_Store_WithStairs'
+ 0:41:25.782    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+ 0:41:25.782    ENTITY    (W): Door 'DoorsTwin2' is missing geometry components for selection 'DoorsTwin2', check model+config
+ 0:41:25.782    ENTITY    (W): Door 'DoorsTwin3' is missing geometry components for selection 'DoorsTwin3', check model+config
+ 0:41:25.782    ENTITY    (W): Door 'DoorsTwin4' is missing geometry components for selection 'DoorsTwin4', check model+config
+ 0:41:25.782    ENTITY    (W): Door 'DoorsTwin5' is missing geometry components for selection 'DoorsTwin5', check model+config
+ 0:41:25.787   ENTITY       : Load entity type 'land_vor_apartment_high_2'
+ 0:41:25.787    ENTITY    (W): Door 'doorstwin1' is missing geometry components for selection 'doorstwin1', check model+config
+ 0:41:25.801   ENTITY       : Load entity type 'Land_Tenement_Small'
+ 0:41:25.801    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+ 0:41:25.801    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+ 0:41:25.801    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+ 0:41:25.801    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+ 0:41:25.801    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+ 0:41:25.801    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+ 0:41:25.801    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+ 0:41:25.871   ENTITY       : Load entity type 'Land_House_2W04'
+ 0:41:25.871    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+ 0:41:25.881   ENTITY       : Load entity type 'Land_House_1W08_Brown'
+ 0:41:25.881    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+ 0:41:25.882    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+ 0:41:25.882    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+ 0:41:25.940   ENTITY    (W): Unknown object class 'pond' (dz\water_sakhal\ice_lake\sakhal_50x50_ice_lake_clear.p3d)
+ 0:41:25.984   ENTITY       : Load entity type 'Land_Tenement_Big'
+ 0:41:25.984    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+ 0:41:25.984    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+ 0:41:25.984    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+ 0:41:25.986    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+ 0:41:25.986    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+ 0:41:25.986    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+ 0:41:25.987    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+ 0:41:25.987    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+ 0:41:25.987    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+ 0:41:28.875  SCRIPT    (W): scripts/3_Game/undergroundarealoader.c:138 | SpawnAllTriggerCarriers | [WARNING] :: [UndergroundAreaLoader GetData()] :: file not found in MISSION folder, your path is $mission:cfgundergroundtriggers.json Attempting DATA folder
+ 0:41:28.875  SCRIPT    (W): scripts/3_Game/undergroundarealoader.c:138 | SpawnAllTriggerCarriers | [WARNING] :: [UndergroundAreaLoader GetData()] ::file not found in DATA folder, your path is dz/worlds/namalsk/ce/cfgundergroundtriggers.json
+ 0:41:28.938 [CE][Hive] :: Initializing OFFLINE
+ 0:41:28.938 [StorageDirs] :: Selected storage directory: G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\
+ 0:41:28.938 [CE][Hive] :: Loading core data ... 
+ 0:41:28.950 [CE][CoreData] :: 8 root classes, 0 defaults, 0 updaters...
+ 0:41:28.961 [CE][offlineDB] :: Conversion of characters started.
+ 0:41:28.967 [CE][offlineDB] :: Processing 0 players.
+ 0:41:28.967 [CE][offlineDB] :: Conversion of characters successfully completed.
+ 0:41:29.68   ENTITY       : Load entity type 'Land_House_2W02'
+ 0:41:29.68    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+ 0:41:29.91   ENTITY    (W): Unknown object class 'pond' (dz\water_sakhal\ice_lake\sakhal_50x50_ice_lake_clear.p3d)
+ 0:41:29.109 [CE][Hive] :: Loading map data ... 
+ 0:41:35.302 [CE][TypeSetup] :: 601 classes setuped...
+ 0:41:37.960 [CE][RegisterBind] :: 0 classes binded...
+ 0:41:37.961 [CE][RegisterConfig] :: 11950 config classes registered, 0 sub-counters...
+ 0:41:37.961 [CE][Hive] :: Loading map data ... 
+ 0:41:38.63  [CE][LoadPrototype] :: loaded 256 prototypes
+ 0:41:38.63    404 containers, 7415 points
+ 0:41:38.63    1 dispatches, 1 proxies
+ 0:41:38.63  !!! [CE][LoadPrototype] 1 groups have wrong points...
+ 0:41:38.63  [CE][LoadPrototype] :: last group name: land_frozen_person...
+ 0:41:38.77  [CE][LoadPrototype] :: loaded 0 prototypes
+ 0:41:38.77    38 containers, 66 points
+ 0:41:38.77    0 dispatches, 0 proxies
+ 0:41:38.77  [CE][LoadPrototype] :: last group name: StoneLoc38...
+ 0:41:38.141 [CE][LoadMap] "Group" :: loaded 1445 groups, groups failed: 0, largest group range: 36.4
+ 0:41:38.142 [CE][LoadMap] "Dirt" :: loaded 0 groups, groups failed: 0, largest group range: 36.4
+ 0:41:38.148 [CE][Links] found 472 total links between groups, of 1445
+ 0:41:38.148 [CE][LoadClusters] "Cluster" :: Loading files...
+ 0:41:38.171 [CE][LoadClusters] :: file: "mapgroupcluster.xml", 1 types, 2418 instances
+ 0:41:38.173 [CE][Storage] ver:0 stamp:0, valid:NO, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\types.bin"
+ 0:41:38.173 [CE][Storage] ver:0 stamp:0, valid:NO, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\types.001"
+ 0:41:38.173 [CE][Storage] ver:0 stamp:0, valid:NO, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\types.002"
+ 0:41:38.198 [CE][offlineDB] :: Loaded 23 dynamic events 177 total types.
+ 0:41:38.244 !!! [CE][offlineDB] :: Type 'ChristmasTree' will be ignored. (Not spawnable. (Scope is not public?))
+ 0:41:38.279 [CE][DE][SPAWNS] :: Total positions: 711
+ 0:41:38.279 [CE][DE][GROUPS] :: Total eventgroups defined: 0, Eventgroups in use: 0
+ 0:41:38.280 [CE][Storage] ver:0 stamp:0, valid:NO, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\events.bin"
+ 0:41:38.280 [CE][Storage] ver:0 stamp:0, valid:NO, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\events.001"
+ 0:41:38.280 [CE][Storage] ver:0 stamp:0, valid:NO, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\events.002"
+ 0:41:38.281 [CE][Storage] ver:0 stamp:0, valid:NO, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_000.bin"
+ 0:41:38.281 [CE][Storage] ver:0 stamp:0, valid:NO, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_000.001"
+ 0:41:38.281 [CE][Storage] ver:0 stamp:0, valid:NO, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_000.002"
+ 0:41:38.281 [CE][Storage] ver:0 stamp:0, valid:NO, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_001.bin"
+ 0:41:38.281 [CE][Storage] ver:0 stamp:0, valid:NO, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_001.001"
+ 0:41:38.281 [CE][Storage] ver:0 stamp:0, valid:NO, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_001.002"
+ 0:41:38.282 [CE][Storage] ver:0 stamp:0, valid:NO, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_002.bin"
+ 0:41:38.282 [CE][Storage] ver:0 stamp:0, valid:NO, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_002.001"
+ 0:41:38.282 [CE][Storage] ver:0 stamp:0, valid:NO, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_002.002"
+ 0:41:38.282 [CE][Storage] ver:0 stamp:0, valid:NO, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_003.bin"
+ 0:41:38.282 [CE][Storage] ver:0 stamp:0, valid:NO, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_003.001"
+ 0:41:38.282 [CE][Storage] ver:0 stamp:0, valid:NO, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_003.002"
+ 0:41:38.282 [CE][Storage] ver:0 stamp:0, valid:NO, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_004.bin"
+ 0:41:38.282 [CE][Storage] ver:0 stamp:0, valid:NO, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_004.001"
+ 0:41:38.282 [CE][Storage] ver:0 stamp:0, valid:NO, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_004.002"
+ 0:41:38.282 [CE][Storage] ver:0 stamp:0, valid:NO, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_005.bin"
+ 0:41:38.282 [CE][Storage] ver:0 stamp:0, valid:NO, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_005.001"
+ 0:41:38.282 [CE][Storage] ver:0 stamp:0, valid:NO, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_005.002"
+ 0:41:38.282 [CE][Storage] ver:0 stamp:0, valid:NO, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_006.bin"
+ 0:41:38.282 [CE][Storage] ver:0 stamp:0, valid:NO, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_006.001"
+ 0:41:38.283 [CE][Storage] ver:0 stamp:0, valid:NO, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_006.002"
+ 0:41:38.283 [CE][Storage] ver:0 stamp:0, valid:NO, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_007.bin"
+ 0:41:38.283 [CE][Storage] ver:0 stamp:0, valid:NO, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_007.001"
+ 0:41:38.283 [CE][Storage] ver:0 stamp:0, valid:NO, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_007.002"
+ 0:41:38.283 [CE][Storage] ver:0 stamp:0, valid:NO, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_008.bin"
+ 0:41:38.283 [CE][Storage] ver:0 stamp:0, valid:NO, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_008.001"
+ 0:41:38.283 [CE][Storage] ver:0 stamp:0, valid:NO, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_008.002"
+ 0:41:38.283 [CE][Storage] ver:0 stamp:0, valid:NO, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_009.bin"
+ 0:41:38.284 [CE][Storage] ver:0 stamp:0, valid:NO, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_009.001"
+ 0:41:38.284 [CE][Storage] ver:0 stamp:0, valid:NO, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_009.002"
+ 0:41:38.284 [CE][Storage] ver:0 stamp:0, valid:NO, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_010.bin"
+ 0:41:38.284 [CE][Storage] ver:0 stamp:0, valid:NO, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_010.001"
+ 0:41:38.284 [CE][Storage] ver:0 stamp:0, valid:NO, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_010.002"
+ 0:41:38.284 [CE][Storage] ver:0 stamp:0, valid:NO, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_011.bin"
+ 0:41:38.284 [CE][Storage] ver:0 stamp:0, valid:NO, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_011.001"
+ 0:41:38.284 [CE][Storage] ver:0 stamp:0, valid:NO, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_011.002"
+ 0:41:38.285 [CE][Storage] ver:0 stamp:0, valid:NO, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\building.bin"
+ 0:41:38.285 [CE][Storage] ver:0 stamp:0, valid:NO, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\building.001"
+ 0:41:38.285 [CE][Storage] ver:0 stamp:0, valid:NO, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\building.002"
+ 0:41:38.285 [CE][Storage] ver:0 stamp:0, valid:NO, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\vehicles.bin"
+ 0:41:38.285 [CE][Storage] ver:0 stamp:0, valid:NO, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\vehicles.001"
+ 0:41:38.285 [CE][Storage] ver:0 stamp:0, valid:NO, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\vehicles.002"
+ 0:41:38.285 [CE][Hive] :: Empty storage folder, reinitializing ... 
+ 0:41:38.286 [CE][Hive] :: Initializing ... 
+ 0:41:38.288 [CE][InitializeMap] :: initialized: 0
+ 0:41:38.288 [CE][Hive] :: Initializing spawners ... 
+ 0:41:38.335  ENTITY    (W): Unknown object class 'pond' (dz\water_sakhal\ice_lake\sakhal_50x50_ice_lake_clear.p3d)
+ 0:41:38.342  ENTITY    (W): Unknown object class 'pond' (dz\water_sakhal\ice_lake\sakhal_50x50_ice_lake_clear.p3d)
+ 0:41:38.401  ENTITY       : Load entity type 'Land_Garage_Row_Big'
+ 0:41:38.401   ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+ 0:41:38.401   ENTITY    (W): Door 'DoorsTwin2' is missing geometry components for selection 'DoorsTwin2', check model+config
+ 0:41:38.401   ENTITY    (W): Door 'DoorsTwin3' is missing geometry components for selection 'DoorsTwin3', check model+config
+ 0:41:38.401   ENTITY    (W): Door 'DoorsTwin4' is missing geometry components for selection 'DoorsTwin4', check model+config
+ 0:41:38.447  ENTITY       : Load entity type 'Land_Ruin_HouseBig1_NoIvy_Half'
+ 0:41:38.447   ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+ 0:41:38.463  ENTITY       : Load entity type 'land_camp_house_winter'
+ 0:41:38.463   ENTITY    (W): Door 'Doors2' is missing geometry components for selection 'Doors2', check model+config
+ 0:41:38.550  ENTITY    (W): Unknown object class 'pond' (dz\water_sakhal\ice_lake\sakhal_50x50_ice_lake_clear.p3d)
+ 0:41:38.574  ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+ 0:41:38.574  ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+ 0:41:38.574  ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+ 0:41:38.608 [CE][LootRespawner] (PRIDummy) :: Item [0] causing search overtime: "TetracyclineAntibiotics"
+ 0:41:38.616 [CE][LootRespawner] (PRIDummy) :: Item [0] is hard to place, performance drops: "NBCBootsYellow"
+ 0:41:38.684  ENTITY       : Load entity type 'Land_Ruin_HouseBig3_NoIvy_Half'
+ 0:41:38.684   ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+ 0:41:38.818  ENTITY       : Load entity type 'Land_Ruin_HouseBig2_NoIvy'
+ 0:41:38.818   ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+ 0:41:38.818   ENTITY    (W): Door 'DoorsTwin2' is missing geometry components for selection 'DoorsTwin2', check model+config
+ 0:41:38.965 [CE][LootRespawner] (PRIDummy) :: Item [1] is hard to place, performance drops: "NBCHoodYellow"
+ 0:41:38.996 [CE][LootRespawner] (PRIDummy) :: Item [2] is hard to place, performance drops: "ParamedicPants_Blue"
+ 0:41:39.01  !!! [CE][Point] Removing 4177.679688, 8071.848633 from land_datsun01T
+ 0:41:39.13   ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+ 0:41:39.13   ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+ 0:41:39.25  [CE][LootRespawner] (PRIDummy) :: Item [3] is hard to place, performance drops: "NBCPantsYellow"
+ 0:41:39.99  !!! [CE][Point] Removing 6162.589844, 10878.765625 from land_hut_old01
+ 0:41:39.144  ENTITY    (W): Unknown object class 'pond' (dz\water_sakhal\ice_lake\sakhal_50x50_ice_lake_clear.p3d)
+ 0:41:39.195  ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+ 0:41:39.211  ENTITY    (W): Unknown object class 'pond' (dz\water_sakhal\ice_lake\sakhal_50x50_ice_lake_clear.p3d)
+ 0:41:39.231  ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+ 0:41:39.232  ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+ 0:41:39.232  ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+ 0:41:39.232  ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+ 0:41:39.238 [CE][LootRespawner] (PRIDummy) :: Item [4] is hard to place, performance drops: "DownJacket_Orange"
+ 0:41:39.278  WORLD        : Create entity type 'BaseRadio'
+ 0:41:39.278   ENTITY    (E): Type 'Inventory_BaseType' must be inherited from class 'ItemTransmitterType'
+ 0:41:39.280 [CE][LootRespawner] (PRIDummy) :: Item [5] is hard to place, performance drops: "BaseRadio"
+ 0:41:39.347 [CE][LootRespawner] (PRIDummy) :: Item [6] is hard to place, performance drops: "TrackSuitPants_Green"
+ 0:41:39.349 [CE][LootRespawner] (PRIDummy) :: Item [7] is hard to place, performance drops: "TrackSuitPants_Green"
+ 0:41:39.382 [CE][LootRespawner] (PRIDummy) :: Item [8] is hard to place, performance drops: "Jeans_Green"
+ 0:41:39.394 [CE][LootRespawner] (PRIDummy) :: Item [9] is hard to place, performance drops: "HuntingVest"
+ 0:41:39.394 [CE][LootRespawner] (PRIDummy) :: Item [10] is hard to place, performance drops: "HuntingVest"
+ 0:41:39.394 [CE][LootRespawner] (PRIDummy) :: Item [11] is hard to place, performance drops: "HuntingVest"
+ 0:41:39.394 [CE][LootRespawner] (PRIDummy) :: Item [12] is hard to place, performance drops: "HuntingVest"
+ 0:41:39.395 [CE][LootRespawner] (PRIDummy) :: Item [13] is hard to place, performance drops: "HuntingVest"
+ 0:41:39.404  WORLD        : Create entity type 'Megaphone'
+ 0:41:39.404   ENTITY    (E): Type 'Inventory_BaseType' must be inherited from class 'ItemMegaphoneType'
+ 0:41:39.458  WORLD        : Create entity type 'Headtorch_Grey'
+ 0:41:39.458   ENTITY    (E): Type 'Inventory_BaseType' must be inherited from class 'ClothingType'
+ 0:41:39.495 [CE][LootRespawner] (PRIDummy) :: Item [14] is hard to place, performance drops: "Blouse_Blue"
+ 0:41:39.608  ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+ 0:41:39.608  ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+ 0:41:39.609  ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+ 0:41:39.613  ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+ 0:41:39.613  ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+ 0:41:39.617 [CE][LootRespawner] (PRIDummy) :: Item [15] is hard to place, performance drops: "Broom"
+ 0:41:39.620 [CE][LootRespawner] (PRIDummy) :: Item [16] is hard to place, performance drops: "Broom"
+ 0:41:39.640 [CE][LootRespawner] (PRIDummy) :: Item [17] is hard to place, performance drops: "PressVest_LightBlue"
+ 0:41:39.640 [CE][LootRespawner] (PRIDummy) :: Item [18] is hard to place, performance drops: "PressVest_LightBlue"
+ 0:41:39.640 [CE][LootRespawner] (PRIDummy) :: Item [19] is hard to place, performance drops: "PressVest_LightBlue"
+ 0:41:39.644 [CE][LootRespawner] (PRIDummy) :: Item [20] is hard to place, performance drops: "CombinationLock"
+ 0:41:39.663 [CE][LootRespawner] (PRIDummy) :: Item [1] causing search overtime: "StartKitIV"
+ 0:41:39.664 [CE][LootRespawner] (PRIDummy) :: Item [21] is hard to place, performance drops: "WomanSuit_LightGrey"
+ 0:41:39.700 [CE][LootRespawner] (PRIDummy) :: Item [22] is hard to place, performance drops: "BearTrap"
+ 0:41:39.700 [CE][LootRespawner] (PRIDummy) :: Item [23] is hard to place, performance drops: "BearTrap"
+ 0:41:39.705 [CE][LootRespawner] (PRIDummy) :: Item [24] is hard to place, performance drops: "TrackSuitJacket_Red"
+ 0:41:39.710 [CE][LootRespawner] (PRIDummy) :: Item [25] is hard to place, performance drops: "BomberJacket_Olive"
+ 0:41:39.722 [CE][LootRespawner] (PRIDummy) :: Item [26] is hard to place, performance drops: "HuntingBag"
+ 0:41:39.725 [CE][LootRespawner] (PRIDummy) :: Item [27] is hard to place, performance drops: "HuntingBag"
+ 0:41:39.725 [CE][LootRespawner] (PRIDummy) :: Item [28] is hard to place, performance drops: "HuntingBag"
+ 0:41:39.745 [CE][LootRespawner] (PRIDummy) :: Item [29] is hard to place, performance drops: "Jeans_Black"
+ 0:41:39.752 [CE][LootRespawner] (PRIDummy) :: Item [30] is hard to place, performance drops: "PolicePants"
+ 0:41:39.764 [CE][LootRespawner] (PRIDummy) :: Item [31] is hard to place, performance drops: "LongHorn"
+ 0:41:39.886 [CE][LootRespawner] (PRIDummy) :: Item [32] is hard to place, performance drops: "Hoodie_Brown"
+ 0:41:39.895 [CE][LootRespawner] (PRIDummy) :: Item [33] is hard to place, performance drops: "FryingPan"
+ 0:41:39.917 [CE][LootRespawner] (PRIDummy) :: Item [34] is hard to place, performance drops: "PartyTent_Brown"
+ 0:41:39.917 [CE][LootRespawner] (PRIDummy) :: Item [35] is hard to place, performance drops: "PartyTent_Brown"
+ 0:41:39.923 [CE][LootRespawner] (PRIDummy) :: Item [36] is hard to place, performance drops: "PartyTent_Brown"
+ 0:41:39.966 [CE][LootRespawner] (PRIDummy) :: Item [2] causing search overtime: "BloodTestKit"
+ 0:41:39.968 [CE][LootRespawner] (PRIDummy) :: Item [3] causing search overtime: "BloodTestKit"
+ 0:41:39.968 [CE][LootRespawner] (PRIDummy) :: Item [4] causing search overtime: "BloodTestKit"
+ 0:41:39.995 [CE][LootRespawner] (PRIDummy) :: Item [37] is hard to place, performance drops: "GorkaEJacket_Autumn"
+ 0:41:39.995 [CE][LootRespawner] (PRIDummy) :: Item [38] is hard to place, performance drops: "GorkaEJacket_Autumn"
+ 0:41:40.03  [CE][LootRespawner] (PRIDummy) :: Item [39] is hard to place, performance drops: "Iceaxe"
+ 0:41:40.03  [CE][LootRespawner] (PRIDummy) :: Item [40] is hard to place, performance drops: "Iceaxe"
+ 0:41:40.29  [CE][LootRespawner] (PRIDummy) :: Item [41] is hard to place, performance drops: "TaloonBag_Orange"
+ 0:41:40.70  [CE][LootRespawner] (PRIDummy) :: Item [5] causing search overtime: "dzn_blueprint_lehs"
+ 0:41:40.132 [CE][LootRespawner] (PRIDummy) :: Item [42] is hard to place, performance drops: "JoggingShoes_Black"
+ 0:41:40.135 [CE][LootRespawner] (PRIDummy) :: Item [43] is hard to place, performance drops: "HuntingVest_Winter"
+ 0:41:40.135 [CE][LootRespawner] (PRIDummy) :: Item [44] is hard to place, performance drops: "HuntingVest_Winter"
+ 0:41:40.137 [CE][LootRespawner] (PRIDummy) :: Item [45] is hard to place, performance drops: "HuntingVest_Winter"
+ 0:41:40.137 [CE][LootRespawner] (PRIDummy) :: Item [46] is hard to place, performance drops: "HuntingVest_Winter"
+ 0:41:40.138 [CE][LootRespawner] (PRIDummy) :: Item [47] is hard to place, performance drops: "MountainBag_Orange"
+ 0:41:40.202 [CE][LootRespawner] (PRIDummy) :: Item [48] is hard to place, performance drops: "Bandana_Greenpattern"
+ 0:41:40.212 [CE][LootRespawner] (PRIDummy) :: Item [49] is hard to place, performance drops: "ManSuit_Blue"
+ 0:41:40.221 [CE][LootRespawner] (PRIDummy) :: Item [50] is hard to place, performance drops: "HikingBoots_Black"
+ 0:41:40.222 [CE][LootRespawner] (PRIDummy) :: Item [51] is hard to place, performance drops: "HikingBoots_Black"
+ 0:41:40.233 [CE][LootRespawner] (PRIDummy) :: Item [52] is hard to place, performance drops: "dzn_ghilliebushragtandark"
+ 0:41:40.233 [CE][LootRespawner] (PRIDummy) :: Item [53] is hard to place, performance drops: "dzn_ghilliebushragtandark"
+ 0:41:40.255 [CE][LootRespawner] (PRIDummy) :: Item [54] is hard to place, performance drops: "Jeans_BlueDark"
+ 0:41:40.269 [CE][LootRespawner] (PRIDummy) :: Item [55] is hard to place, performance drops: "Mosin9130"
+ 0:41:40.279 [CE][LootRespawner] (PRIDummy) :: Item [56] is hard to place, performance drops: "Shemag_Brown"
+ 0:41:40.279 [CE][LootRespawner] (PRIDummy) :: Item [57] is hard to place, performance drops: "Shemag_Brown"
+ 0:41:40.300 [CE][LootRespawner] (PRIDummy) :: Item [58] is hard to place, performance drops: "TaloonBag_Green"
+ 0:41:40.301 [CE][LootRespawner] (PRIDummy) :: Item [59] is hard to place, performance drops: "TrackSuitPants_Black"
+ 0:41:40.363 [CE][LootRespawner] (PRIDummy) :: Item [60] is hard to place, performance drops: "GorkaEJacket_PautRev"
+ 0:41:40.394 [CE][LootRespawner] (PRIDummy) :: Item [61] is hard to place, performance drops: "Shemag_Red"
+ 0:41:40.394 [CE][LootRespawner] (PRIDummy) :: Item [62] is hard to place, performance drops: "Shemag_Red"
+ 0:41:40.397 [CE][LootRespawner] (PRIDummy) :: Item [63] is hard to place, performance drops: "TShirt_Blue"
+ 0:41:40.398 [CE][LootRespawner] (PRIDummy) :: Item [64] is hard to place, performance drops: "TShirt_Blue"
+ 0:41:40.399 [CE][LootRespawner] (PRIDummy) :: Item [65] is hard to place, performance drops: "TShirt_Blue"
+ 0:41:40.399 [CE][LootRespawner] (PRIDummy) :: Item [66] is hard to place, performance drops: "TShirt_Blue"
+ 0:41:40.436 !!! [CE][Point] Removing 5032.167480, 8197.083984 from land_wrecked_ural_onside
+ 0:41:40.437 [CE][LootRespawner] (PRIDummy) :: Item [67] is hard to place, performance drops: "ChickenFeather"
+ 0:41:40.440  ENTITY    (W): Unknown object class 'pond' (dz\water_sakhal\ice_lake\sakhal_50x50_ice_lake_clear.p3d)
+ 0:41:40.450 [CE][LootRespawner] (PRIDummy) :: Item [68] is hard to place, performance drops: "HunterPants_Brown"
+ 0:41:40.471 [CE][LootRespawner] (PRIDummy) :: Item [69] is hard to place, performance drops: "Hoodie_Red"
+ 0:41:40.474 [CE][LootRespawner] (PRIDummy) :: Item [70] is hard to place, performance drops: "Tripod"
+ 0:41:40.475 [CE][LootRespawner] (PRIDummy) :: Item [71] is hard to place, performance drops: "Tripod"
+ 0:41:40.479 [CE][LootRespawner] (PRIDummy) :: Item [72] is hard to place, performance drops: "SlingBag_Brown"
+ 0:41:40.509 [CE][LootRespawner] (PRIDummy) :: Item [73] is hard to place, performance drops: "Sweater_Gray"
+ 0:41:40.509 [CE][LootRespawner] (PRIDummy) :: Item [74] is hard to place, performance drops: "Sweater_Gray"
+ 0:41:40.514 [CE][LootRespawner] (PRIDummy) :: Item [75] is hard to place, performance drops: "Hoodie_Green"
+ 0:41:40.514 [CE][LootRespawner] (PRIDummy) :: Item [76] is hard to place, performance drops: "Hoodie_Green"
+ 0:41:40.523  ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+ 0:41:40.523  ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+ 0:41:40.523  ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+ 0:41:40.523  ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+ 0:41:40.531 [CE][LootRespawner] (PRIDummy) :: Item [77] is hard to place, performance drops: "Bandana_CamoPattern"
+ 0:41:40.599 [CE][LootRespawner] (PRIDummy) :: Item [78] is hard to place, performance drops: "CZ550"
+ 0:41:40.599 [CE][LootRespawner] (PRIDummy) :: Item [79] is hard to place, performance drops: "CZ550"
+ 0:41:40.613  WORLD        : Create entity type 'personalradio'
+ 0:41:40.613   ENTITY    (E): Type 'Inventory_BaseType' must be inherited from class 'ItemTransmitterType'
+ 0:41:40.664 [CE][LootRespawner] (PRIDummy) :: Item [80] is hard to place, performance drops: "Bandana_BlackPattern"
+ 0:41:40.668 [CE][LootRespawner] (PRIDummy) :: Item [81] is hard to place, performance drops: "BalaclavaMask_Blue"
+ 0:41:40.669 [CE][LootRespawner] (PRIDummy) :: Item [82] is hard to place, performance drops: "BalaclavaMask_Blue"
+ 0:41:40.685 [CE][LootRespawner] (PRIDummy) :: Item [83] is hard to place, performance drops: "DirtBikeHelmet_Red"
+ 0:41:40.709  ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+ 0:41:40.715  ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+ 0:41:40.801 [CE][LootRespawner] (PRIDummy) :: Item [6] causing search overtime: "SalineBag"
+ 0:41:40.835  ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+ 0:41:40.835  ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+ 0:41:40.835  ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+ 0:41:40.835  ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+ 0:41:40.862 [CE][LootRespawner] (PRIDummy) :: Item [84] is hard to place, performance drops: "WoodenPlank"
+ 0:41:40.864 [CE][LootRespawner] (PRIDummy) :: Item [85] is hard to place, performance drops: "WoodenPlank"
+ 0:41:40.865 [CE][LootRespawner] (PRIDummy) :: Item [86] is hard to place, performance drops: "WoodenPlank"
+ 0:41:40.869 [CE][LootRespawner] (PRIDummy) :: Item [87] is hard to place, performance drops: "WoodenPlank"
+ 0:41:40.871 [CE][LootRespawner] (PRIDummy) :: Item [88] is hard to place, performance drops: "WoodenPlank"
+ 0:41:40.872 [CE][LootRespawner] (PRIDummy) :: Item [89] is hard to place, performance drops: "WoodenPlank"
+ 0:41:40.903 [CE][LootRespawner] (PRIDummy) :: Item [90] is hard to place, performance drops: "WomanSuit_White"
+ 0:41:40.937 !!! [CE][Point] Removing 5608.094727, 11072.156250 from land_ala_warehouse_small
+ 0:41:40.937 [CE][LootRespawner] (PRIDummy) :: Item [91] is hard to place, performance drops: "Matchbox"
+ 0:41:40.949 !!! [CE][Point] Removing 4379.224609, 8121.900391 from land_wrecked_ural
+ 0:41:40.950 [CE][LootRespawner] (PRIDummy) :: Item [92] is hard to place, performance drops: "dzn_ghillietopwinter"
+ 0:41:40.961 [CE][LootRespawner] (PRIDummy) :: Item [93] is hard to place, performance drops: "Izh18Shotgun"
+ 0:41:40.962 [CE][LootRespawner] (PRIDummy) :: Item [94] is hard to place, performance drops: "Izh18Shotgun"
+ 0:41:40.985 [CE][LootRespawner] (PRIDummy) :: Item [95] is hard to place, performance drops: "PoliceJacket"
+ 0:41:41.21  [CE][LootRespawner] (PRIDummy) :: Item [96] is hard to place, performance drops: "CarBattery"
+ 0:41:41.41  [CE][LootRespawner] (PRIDummy) :: Item [97] is hard to place, performance drops: "MKII"
+ 0:41:41.70  [CE][LootRespawner] (PRIDummy) :: Item [7] causing search overtime: "BandageDressing"
+ 0:41:41.71  [CE][LootRespawner] (PRIDummy) :: Item [8] causing search overtime: "BandageDressing"
+ 0:41:41.72  [CE][LootRespawner] (PRIDummy) :: Item [9] causing search overtime: "BandageDressing"
+ 0:41:41.84  [CE][LootRespawner] (PRIDummy) :: Item [98] is hard to place, performance drops: "Offroad_02_Wheel"
+ 0:41:41.104 [CE][LootRespawner] (PRIDummy) :: Item [99] is hard to place, performance drops: "JumpsuitJacket_Gray"
+ 0:41:41.134 [CE][LootRespawner] (PRIDummy) :: Item [10] causing search overtime: "BloodBagEmpty"
+ 0:41:41.136 [CE][LootRespawner] (PRIDummy) :: Item [11] causing search overtime: "BloodBagEmpty"
+ 0:41:41.137 [CE][LootRespawner] (PRIDummy) :: Item [12] causing search overtime: "BloodBagEmpty"
+ 0:41:41.180 [CE][LootRespawner] (PRIDummy) :: Item [100] is hard to place, performance drops: "MountainBag_Green"
+ 0:41:41.194 [CE][LootRespawner] (PRIDummy) :: Item [13] causing search overtime: "SurgicalMask"
+ 0:41:41.201 [CE][LootRespawner] (PRIDummy) :: Item [101] is hard to place, performance drops: "Sweater_Blue"
+ 0:41:41.213 [CE][LootRespawner] (PRIDummy) :: Item [102] is hard to place, performance drops: "CargoPants_Grey"
+ 0:41:41.215 [CE][LootRespawner] (PRIDummy) :: Item [14] causing search overtime: "FirefightersHelmet_Red"
+ 0:41:41.220 !!! [CE][Point] Removing 6224.349121, 11764.595703 from land_hut_old01
+ 0:41:41.220 [CE][LootRespawner] (PRIDummy) :: Item [103] is hard to place, performance drops: "SportGlasses_Blue"
+ 0:41:41.247 [CE][LootRespawner] (PRIDummy) :: Item [104] is hard to place, performance drops: "TaloonBag_Violet"
+ 0:41:41.257 [CE][LootRespawner] (PRIDummy) :: Item [105] is hard to place, performance drops: "DressShoes_Sunburst"
+ 0:41:41.293 [CE][LootRespawner] (PRIDummy) :: Item [106] is hard to place, performance drops: "Sedan_02_Wheel"
+ 0:41:41.328 [CE][LootRespawner] (PRIDummy) :: Item [107] is hard to place, performance drops: "HockeyHelmet_White"
+ 0:41:41.334 [CE][LootRespawner] (PRIDummy) :: Item [108] is hard to place, performance drops: "Sickle"
+ 0:41:41.334 [CE][LootRespawner] (PRIDummy) :: Item [15] causing search overtime: "Sickle"
+ 0:41:41.334 [CE][LootRespawner] (PRIDummy) :: Item [109] is hard to place, performance drops: "Sickle"
+ 0:41:41.408 [CE][LootRespawner] (PRIDummy) :: Item [110] is hard to place, performance drops: "GardenLime"
+ 0:41:41.409 [CE][LootRespawner] (PRIDummy) :: Item [111] is hard to place, performance drops: "GardenLime"
+ 0:41:41.418 [CE][LootRespawner] (PRIDummy) :: Item [112] is hard to place, performance drops: "TShirt_Beige"
+ 0:41:41.428 [CE][LootRespawner] (PRIDummy) :: Item [16] causing search overtime: "FirefightersHelmet_White"
+ 0:41:41.445 [CE][LootRespawner] (PRIDummy) :: Item [17] causing search overtime: "FirefighterJacket_Black"
+ 0:41:41.461 [CE][LootRespawner] (PRIDummy) :: Item [18] causing search overtime: "StarlightOptic"
+ 0:41:41.509 [CE][LootRespawner] (PRIDummy) :: Item [113] is hard to place, performance drops: "Sweater_Red"
+ 0:41:41.539 [CE][LootRespawner] (PRIDummy) :: Item [114] is hard to place, performance drops: "SVD_Wooden"
+ 0:41:41.540 [CE][LootRespawner] (PRIDummy) :: Item [115] is hard to place, performance drops: "SVD_Wooden"
+ 0:41:41.540 [CE][LootRespawner] (PRIDummy) :: Item [116] is hard to place, performance drops: "SVD_Wooden"
+ 0:41:41.544 [CE][LootRespawner] (PRIDummy) :: Item [117] is hard to place, performance drops: "MotoHelmet_Red"
+ 0:41:41.544 [CE][LootRespawner] (PRIDummy) :: Item [118] is hard to place, performance drops: "MotoHelmet_Red"
+ 0:41:41.570 [CE][LootRespawner] (PRIDummy) :: Item [119] is hard to place, performance drops: "Blouse_White"
+ 0:41:41.628 [CE][LootRespawner] (PRIDummy) :: Item [19] causing search overtime: "dzn_netanyas_log"
+ 0:41:41.651 [CE][LootRespawner] (PRIDummy) :: Item [120] is hard to place, performance drops: "ChestHolster"
+ 0:41:41.663 [CE][LootRespawner] (PRIDummy) :: Item [121] is hard to place, performance drops: "TrackSuitJacket_Green"
+ 0:41:41.663 [CE][LootRespawner] (PRIDummy) :: Item [122] is hard to place, performance drops: "TrackSuitJacket_Green"
+ 0:41:41.670 [CE][LootRespawner] (PRIDummy) :: Item [20] causing search overtime: "FirefighterJacket_Beige"
+ 0:41:41.670 [CE][LootRespawner] (PRIDummy) :: Item [123] is hard to place, performance drops: "dzn_sumrak_up_coldw"
+ 0:41:41.728 [CE][LootRespawner] (PRIDummy) :: Item [124] is hard to place, performance drops: "SlacksPants_DarkGrey"
+ 0:41:41.771 [CE][LootRespawner] (PRIDummy) :: Item [125] is hard to place, performance drops: "WomanSuit_Black"
+ 0:41:41.771 [CE][LootRespawner] (PRIDummy) :: Item [126] is hard to place, performance drops: "WomanSuit_Black"
+ 0:41:41.776 [CE][LootRespawner] (PRIDummy) :: Item [127] is hard to place, performance drops: "CamoNet"
+ 0:41:41.788 [CE][LootRespawner] (PRIDummy) :: Item [128] is hard to place, performance drops: "GorkaEJacket_Summer"
+ 0:41:41.834 [CE][LootRespawner] (PRIDummy) :: Item [21] causing search overtime: "Mag_SV98_10Rnd"
+ 0:41:41.835 [CE][LootRespawner] (PRIDummy) :: Item [22] causing search overtime: "Mag_SV98_10Rnd"
+ 0:41:41.841 [CE][LootRespawner] (PRIDummy) :: Item [129] is hard to place, performance drops: "Bandana_PolkaPattern"
+ 0:41:41.841 [CE][LootRespawner] (PRIDummy) :: Item [130] is hard to place, performance drops: "Bandana_PolkaPattern"
+ 0:41:41.846 [CE][LootRespawner] (PRIDummy) :: Item [131] is hard to place, performance drops: "JumpsuitJacket_Blue"
+ 0:41:41.874 [CE][LootRespawner] (PRIDummy) :: Item [132] is hard to place, performance drops: "WeldingMask"
+ 0:41:41.888 [CE][LootRespawner] (PRIDummy) :: Item [133] is hard to place, performance drops: "WeldingMask"
+ 0:41:41.946 [CE][LootRespawner] (PRIDummy) :: Item [134] is hard to place, performance drops: "Jeans_Brown"
+ 0:41:41.956 [CE][LootRespawner] (PRIDummy) :: Item [135] is hard to place, performance drops: "BeanieHat_Grey"
+ 0:41:41.958 [CE][LootRespawner] (PRIDummy) :: Item [136] is hard to place, performance drops: "BeanieHat_Beige"
+ 0:41:41.965 [CE][LootRespawner] (PRIDummy) :: Item [137] is hard to place, performance drops: "Rope"
+ 0:41:41.975 [CE][LootRespawner] (PRIDummy) :: Item [138] is hard to place, performance drops: "JumpsuitJacket_Red"
+ 0:41:41.975 [CE][LootRespawner] (PRIDummy) :: Item [139] is hard to place, performance drops: "JumpsuitJacket_Red"
+ 0:41:41.991 [CE][LootRespawner] (PRIDummy) :: Item [23] causing search overtime: "AugShort"
+ 0:41:41.995 [CE][LootRespawner] (PRIDummy) :: Item [24] causing search overtime: "AugShort"
+ 0:41:42.00  [CE][LootRespawner] (PRIDummy) :: Item [140] is hard to place, performance drops: "WorkingGloves_Beige"
+ 0:41:42.07  [CE][LootRespawner] (PRIDummy) :: Item [141] is hard to place, performance drops: "WorkingGloves_Beige"
+ 0:41:42.32  [CE][LootRespawner] (PRIDummy) :: Item [142] is hard to place, performance drops: "Pickaxe"
+ 0:41:42.32  [CE][LootRespawner] (PRIDummy) :: Item [143] is hard to place, performance drops: "Pickaxe"
+ 0:41:42.32  [CE][LootRespawner] (PRIDummy) :: Item [144] is hard to place, performance drops: "Pickaxe"
+ 0:41:42.63  [CE][LootRespawner] (PRIDummy) :: Item [145] is hard to place, performance drops: "Hatchback_02_Wheel"
+ 0:41:42.63  [CE][LootRespawner] (PRIDummy) :: Item [146] is hard to place, performance drops: "Hatchback_02_Wheel"
+ 0:41:42.63  [CE][LootRespawner] (PRIDummy) :: Item [147] is hard to place, performance drops: "Hatchback_02_Wheel"
+ 0:41:42.63  [CE][LootRespawner] (PRIDummy) :: Item [148] is hard to place, performance drops: "Hatchback_02_Wheel"
+ 0:41:42.64  [CE][LootRespawner] (PRIDummy) :: Item [149] is hard to place, performance drops: "Hatchback_02_Wheel"
+ 0:41:42.74  [CE][LootRespawner] (PRIDummy) :: Item [150] is hard to place, performance drops: "JumpsuitPants_Grey"
+ 0:41:42.80  [CE][LootRespawner] (PRIDummy) :: Item [151] is hard to place, performance drops: "JungleBoots_Beige"
+ 0:41:42.100 [CE][LootRespawner] (PRIDummy) :: Item [152] is hard to place, performance drops: "BatteryCharger"
+ 0:41:42.100 [CE][LootRespawner] (PRIDummy) :: Item [153] is hard to place, performance drops: "BatteryCharger"
+ 0:41:42.100 [CE][LootRespawner] (PRIDummy) :: Item [154] is hard to place, performance drops: "BatteryCharger"
+ 0:41:42.100 [CE][LootRespawner] (PRIDummy) :: Item [155] is hard to place, performance drops: "BatteryCharger"
+ 0:41:42.102 [CE][LootRespawner] (PRIDummy) :: Item [156] is hard to place, performance drops: "BatteryCharger"
+ 0:41:42.111  WORLD        : Create entity type 'Headtorch_Black'
+ 0:41:42.111   ENTITY    (E): Type 'Inventory_BaseType' must be inherited from class 'ClothingType'
+ 0:41:42.124 [CE][LootRespawner] (PRIDummy) :: Item [157] is hard to place, performance drops: "NBCJacketGray"
+ 0:41:42.128 [CE][LootRespawner] (PRIDummy) :: Item [158] is hard to place, performance drops: "MetalPlate"
+ 0:41:42.128 [CE][LootRespawner] (PRIDummy) :: Item [159] is hard to place, performance drops: "MetalPlate"
+ 0:41:42.128 [CE][LootRespawner] (PRIDummy) :: Item [160] is hard to place, performance drops: "MetalPlate"
+ 0:41:42.130 [CE][LootRespawner] (PRIDummy) :: Item [161] is hard to place, performance drops: "MetalPlate"
+ 0:41:42.130 [CE][LootRespawner] (PRIDummy) :: Item [162] is hard to place, performance drops: "MetalPlate"
+ 0:41:42.130 [CE][LootRespawner] (PRIDummy) :: Item [163] is hard to place, performance drops: "MetalPlate"
+ 0:41:42.130 [CE][LootRespawner] (PRIDummy) :: Item [164] is hard to place, performance drops: "MetalPlate"
+ 0:41:42.130 [CE][LootRespawner] (PRIDummy) :: Item [165] is hard to place, performance drops: "MetalPlate"
+ 0:41:42.130 [CE][LootRespawner] (PRIDummy) :: Item [166] is hard to place, performance drops: "MetalPlate"
+ 0:41:42.131 [CE][LootRespawner] (PRIDummy) :: Item [167] is hard to place, performance drops: "MetalPlate"
+ 0:41:42.131 [CE][LootRespawner] (PRIDummy) :: Item [168] is hard to place, performance drops: "MetalPlate"
+ 0:41:42.132 [CE][LootRespawner] (PRIDummy) :: Item [169] is hard to place, performance drops: "MetalPlate"
+ 0:41:42.132 [CE][LootRespawner] (PRIDummy) :: Item [170] is hard to place, performance drops: "MetalPlate"
+ 0:41:42.132 [CE][LootRespawner] (PRIDummy) :: Item [171] is hard to place, performance drops: "MetalPlate"
+ 0:41:42.135 [CE][LootRespawner] (PRIDummy) :: Item [172] is hard to place, performance drops: "MetalPlate"
+ 0:41:42.135 [CE][LootRespawner] (PRIDummy) :: Item [173] is hard to place, performance drops: "MetalPlate"
+ 0:41:42.135 [CE][LootRespawner] (PRIDummy) :: Item [174] is hard to place, performance drops: "MetalPlate"
+ 0:41:42.135 [CE][LootRespawner] (PRIDummy) :: Item [175] is hard to place, performance drops: "MetalPlate"
+ 0:41:42.136 [CE][LootRespawner] (PRIDummy) :: Item [176] is hard to place, performance drops: "MetalPlate"
+ 0:41:42.137 [CE][LootRespawner] (PRIDummy) :: Item [25] causing search overtime: "MetalPlate"
+ 0:41:42.137 [CE][LootRespawner] (PRIDummy) :: Item [177] is hard to place, performance drops: "MetalPlate"
+ 0:41:42.138 [CE][LootRespawner] (PRIDummy) :: Item [178] is hard to place, performance drops: "MetalPlate"
+ 0:41:42.138 [CE][LootRespawner] (PRIDummy) :: Item [179] is hard to place, performance drops: "MetalPlate"
+ 0:41:42.138 [CE][LootRespawner] (PRIDummy) :: Item [180] is hard to place, performance drops: "MetalPlate"
+ 0:41:42.139 [CE][LootRespawner] (PRIDummy) :: Item [181] is hard to place, performance drops: "MetalPlate"
+ 0:41:42.139 [CE][LootRespawner] (PRIDummy) :: Item [182] is hard to place, performance drops: "MetalPlate"
+ 0:41:42.140 [CE][LootRespawner] (PRIDummy) :: Item [183] is hard to place, performance drops: "MetalPlate"
+ 0:41:42.140 [CE][LootRespawner] (PRIDummy) :: Item [184] is hard to place, performance drops: "MetalPlate"
+ 0:41:42.141 [CE][LootRespawner] (PRIDummy) :: Item [185] is hard to place, performance drops: "MetalPlate"
+ 0:41:42.141 [CE][LootRespawner] (PRIDummy) :: Item [186] is hard to place, performance drops: "MetalPlate"
+ 0:41:42.141 [CE][LootRespawner] (PRIDummy) :: Item [187] is hard to place, performance drops: "MetalPlate"
+ 0:41:42.141 [CE][LootRespawner] (PRIDummy) :: Item [188] is hard to place, performance drops: "MetalPlate"
+ 0:41:42.141 [CE][LootRespawner] (PRIDummy) :: Item [189] is hard to place, performance drops: "MetalPlate"
+ 0:41:42.141 [CE][LootRespawner] (PRIDummy) :: Item [190] is hard to place, performance drops: "MetalPlate"
+ 0:41:42.142 [CE][LootRespawner] (PRIDummy) :: Item [191] is hard to place, performance drops: "MetalPlate"
+ 0:41:42.143 [CE][LootRespawner] (PRIDummy) :: Item [192] is hard to place, performance drops: "MetalPlate"
+ 0:41:42.143 [CE][LootRespawner] (PRIDummy) :: Item [193] is hard to place, performance drops: "MetalPlate"
+ 0:41:42.143 [CE][LootRespawner] (PRIDummy) :: Item [194] is hard to place, performance drops: "MetalPlate"
+ 0:41:42.143 [CE][LootRespawner] (PRIDummy) :: Item [195] is hard to place, performance drops: "MetalPlate"
+ 0:41:42.143 [CE][LootRespawner] (PRIDummy) :: Item [196] is hard to place, performance drops: "MetalPlate"
+ 0:41:42.143 [CE][LootRespawner] (PRIDummy) :: Item [197] is hard to place, performance drops: "MetalPlate"
+ 0:41:42.144 [CE][LootRespawner] (PRIDummy) :: Item [198] is hard to place, performance drops: "MetalPlate"
+ 0:41:42.144 [CE][LootRespawner] (PRIDummy) :: Item [199] is hard to place, performance drops: "MetalPlate"
+ 0:41:42.144 [CE][LootRespawner] (PRIDummy) :: Item [26] causing search overtime: "MetalPlate"
+ 0:41:42.144 [CE][LootRespawner] (PRIDummy) :: Item [200] is hard to place, performance drops: "MetalPlate"
+ 0:41:42.144 [CE][LootRespawner] (PRIDummy) :: Item [201] is hard to place, performance drops: "MetalPlate"
+ 0:41:42.144 [CE][LootRespawner] (PRIDummy) :: Item [202] is hard to place, performance drops: "MetalPlate"
+ 0:41:42.144 [CE][LootRespawner] (PRIDummy) :: Item [203] is hard to place, performance drops: "MetalPlate"
+ 0:41:42.144 [CE][LootRespawner] (PRIDummy) :: Item [204] is hard to place, performance drops: "MetalPlate"
+ 0:41:42.144 [CE][LootRespawner] (PRIDummy) :: Item [205] is hard to place, performance drops: "MetalPlate"
+ 0:41:42.145 [CE][LootRespawner] (PRIDummy) :: Item [206] is hard to place, performance drops: "MetalPlate"
+ 0:41:42.145 [CE][LootRespawner] (PRIDummy) :: Item [207] is hard to place, performance drops: "MetalPlate"
+ 0:41:42.145 [CE][LootRespawner] (PRIDummy) :: Item [208] is hard to place, performance drops: "MetalPlate"
+ 0:41:42.145 [CE][LootRespawner] (PRIDummy) :: Item [209] is hard to place, performance drops: "MetalPlate"
+ 0:41:42.145 [CE][LootRespawner] (PRIDummy) :: Item [210] is hard to place, performance drops: "MetalPlate"
+ 0:41:42.146 [CE][LootRespawner] (PRIDummy) :: Item [211] is hard to place, performance drops: "MetalPlate"
+ 0:41:42.146 [CE][LootRespawner] (PRIDummy) :: Item [212] is hard to place, performance drops: "MetalPlate"
+ 0:41:42.146 [CE][LootRespawner] (PRIDummy) :: Item [213] is hard to place, performance drops: "MetalPlate"
+ 0:41:42.155 [CE][LootRespawner] (PRIDummy) :: Initially (re)spawned:6413, Nominal:6415, Total in Map: 6438 at 3 (sec)
+ 0:41:42.155   tests:6630, repeats:3 fails:214, overtime:27
+ 0:41:42.157 [CE][Links] found 0 total links between groups, of 1
+ 0:41:42.157 [CE][SpawnRandomLoot] (StaticMedDrop) :: Type: Misc_cargo_cont_net1, lootmin: 4, lootmax: 6, wanted: 4, deloot: 2, containermaxsum: 6
+ 0:41:42.158 [CE][Links] found 0 total links between groups, of 2
+ 0:41:42.158 [CE][SpawnRandomLoot] (StaticMedDrop) :: Type: Misc_cargo_cont_net1, lootmin: 4, lootmax: 6, wanted: 4, deloot: 2, containermaxsum: 6
+ 0:41:42.161 [CE][Links] found 0 total links between groups, of 3
+ 0:41:42.161 [CE][SpawnRandomLoot] (StaticMedDrop) :: Type: Misc_cargo_cont_net1, lootmin: 4, lootmax: 6, wanted: 5, deloot: 2, containermaxsum: 6
+ 0:41:42.164 [CE][Links] found 0 total links between groups, of 4
+ 0:41:42.164 [CE][SpawnRandomLoot] (StaticMedDrop) :: Type: Misc_cargo_cont_net1, lootmin: 4, lootmax: 6, wanted: 5, deloot: 2, containermaxsum: 6
+ 0:41:42.166 [CE][Links] found 0 total links between groups, of 5
+ 0:41:42.166 [CE][SpawnRandomLoot] (StaticMedDrop) :: Type: Misc_cargo_cont_net1, lootmin: 4, lootmax: 6, wanted: 4, deloot: 2, containermaxsum: 6
+ 0:41:42.167 [CE][Links] found 0 total links between groups, of 6
+ 0:41:42.167 [CE][SpawnRandomLoot] (StaticMedDrop) :: Type: Misc_cargo_cont_net1, lootmin: 4, lootmax: 6, wanted: 5, deloot: 2, containermaxsum: 6
+ 0:41:42.171 [CE][Links] found 0 total links between groups, of 7
+ 0:41:42.171 [CE][SpawnRandomLoot] (StaticLifeboat) :: Type: sea_oilrig_lifeboat, lootmin: 2, lootmax: 5, wanted: 4, deloot: 2, containermaxsum: 5
+ 0:41:42.171 [CE][SpawnRandomLoot] (StaticLifeboat) :: No item found to spawn for DE! Spawned: 2 / 4 (enable log_ce_dynamicevent to see item lists for event)
+ 0:41:42.228  WORLD        : Create entity type 'ZmbM_PatrolNormal_Summer'
+ 0:41:42.228   MATERIAL  (E): Object dz/characters/zombies/z_hermit_m.xob - cannot load material Material_1.emat
+ 0:41:42.604  WORLD        : Create entity type 'Animal_CapraHircusF'
+ 0:41:42.604   ENTITY    (E): Type 'ManType' must be inherited from class 'DayZAnimalType'
+ 0:41:42.611  WORLD        : Create entity type 'Animal_OvisAries'
+ 0:41:42.611   ENTITY    (E): Type 'ManType' must be inherited from class 'DayZAnimalType'
+ 0:41:42.613  WORLD        : Create entity type 'Animal_OvisAriesF'
+ 0:41:42.613   ENTITY    (E): Type 'ManType' must be inherited from class 'DayZAnimalType'
+ 0:41:42.614  WORLD        : Create entity type 'Animal_RangiferTarandus'
+ 0:41:42.614   ENTITY    (E): Type 'ManType' must be inherited from class 'DayZAnimalType'
+ 0:41:42.617  WORLD        : Create entity type 'Animal_RangiferTarandusF'
+ 0:41:42.617   ENTITY    (E): Type 'ManType' must be inherited from class 'DayZAnimalType'
+ 0:41:42.620  WORLD        : Create entity type 'Animal_SusScrofa'
+ 0:41:42.620   ENTITY    (E): Type 'ManType' must be inherited from class 'DayZAnimalType'
+ 0:41:42.623  WORLD        : Create entity type 'Animal_CanisLupus_Grey'
+ 0:41:42.623   ENTITY    (E): Type 'ManType' must be inherited from class 'DayZAnimalType'
+ 0:41:42.634  WORLD        : Create entity type 'Animal_CanisLupus_White'
+ 0:41:42.634   ENTITY    (E): Type 'ManType' must be inherited from class 'DayZAnimalType'
+ 0:41:42.637  WORLD        : Create entity type 'Animal_UrsusArctos'
+ 0:41:42.637   ENTITY    (E): Type 'ManType' must be inherited from class 'DayZAnimalType'
+ 0:41:42.644  WORLD        : Create entity type 'Animal_UrsusMaritimus'
+ 0:41:42.644   ENTITY    (E): Type 'ManType' must be inherited from class 'DayZAnimalType'
+ 0:41:42.658 !!! [CE][VehicleRespawner] (PRIRubberBoats) :: Init: "VehicleRubberBoats" - Failed to spawn the requested amount (5 < 6) within 18 attempts.
+ 0:41:42.698  ENTITY       : Load entity type 'Land_Rail_Warehouse_Small'
+ 0:41:42.698   ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+ 0:41:42.698   ENTITY    (W): Door 'DoorsTwin2' is missing geometry components for selection 'DoorsTwin2', check model+config
+ 0:41:42.716 !!! [CE][VehicleRespawner] (PRICivilianCars) :: Init: "VehicleCivilianCars" - Failed to spawn the requested amount (3 < 4) within 12 attempts.
+ 0:41:42.762 [CE][DynEvent] :: 23 types
+ 0:41:42.762 [00] Loot
+ 0:41:42.763   Primary Spawner: "Loot", active: yes, repeat: 2
+ 0:41:42.763 [01] StaticMedDrop
+ 0:41:42.763   Primary Spawner: "Static", active: yes, repeat: 1
+ 0:41:42.763 [02] StaticLifeboat
+ 0:41:42.763   Primary Spawner: "Static", active: yes, repeat: 1
+ 0:41:42.763 [03] ItemWoodenPlanks
+ 0:41:42.764   Primary Spawner: "Item", active: yes, repeat: 1
+ 0:41:42.764 [04] TrajectoryStones
+ 0:41:42.764   Primary Spawner: "Trajectory", active: yes, repeat: 1
+ 0:41:42.764 [05] InfectedSanta
+ 0:41:42.764   Primary Spawner: "Infected", active: yes, repeat: 1
+ 0:41:42.764 [06] InfectedArmy
+ 0:41:42.764   Primary Spawner: "Infected", active: yes, repeat: 1
+ 0:41:42.764 [07] InfectedIndustrial
+ 0:41:42.764   Primary Spawner: "Infected", active: yes, repeat: 1
+ 0:41:42.764 [08] InfectedCivil
+ 0:41:42.764   Primary Spawner: "Infected", active: yes, repeat: 1
+ 0:41:42.764 [09] InfectedMedic
+ 0:41:42.764   Primary Spawner: "Infected", active: yes, repeat: 1
+ 0:41:42.764 [10] AnimalGoat
+ 0:41:42.764   Primary Spawner: "Animal", active: yes, repeat: 1
+ 0:41:42.764 [11] AnimalSheep
+ 0:41:42.764   Primary Spawner: "Animal", active: yes, repeat: 1
+ 0:41:42.764 [12] AnimalReindeer
+ 0:41:42.764   Primary Spawner: "Animal", active: yes, repeat: 1
+ 0:41:42.764 [13] AnimalWildBoar
+ 0:41:42.764   Primary Spawner: "Animal", active: yes, repeat: 1
+ 0:41:42.764 [14] AnimalWolf
+ 0:41:42.764   Primary Spawner: "Animal", active: yes, repeat: 1
+ 0:41:42.764 [15] AnimalBrownBear
+ 0:41:42.764   Primary Spawner: "Animal", active: yes, repeat: 1
+ 0:41:42.764 [16] AnimalPolarBear
+ 0:41:42.764   Primary Spawner: "Animal", active: yes, repeat: 1
+ 0:41:42.764 [17] AmbientFox
+ 0:41:42.764   Primary Spawner: "Ambient", active: yes, repeat: 1
+ 0:41:42.764 [18] AmbientHare
+ 0:41:42.764   Primary Spawner: "Ambient", active: yes, repeat: 1
+ 0:41:42.764 [19] VehicleRubberBoats
+ 0:41:42.764   Primary Spawner: "Vehicle", active: yes, repeat: 1
+ 0:41:42.764 [20] VehicleCivilianCars
+ 0:41:42.764   Primary Spawner: "Vehicle", active: yes, repeat: 1
+ 0:41:42.764 [21] VehicleTrucks
+ 0:41:42.764   Primary Spawner: "Vehicle", active: yes, repeat: 1
+ 0:41:42.764 [22] VehicleMilitary
+ 0:41:42.766   Primary Spawner: "Vehicle", active: yes, repeat: 1
+ 0:41:42.766 [CE][Hive] :: Initializing of spawners done.
+ 0:41:42.770 [CE][Hive] :: Init sequence finished.
+ 0:41:42.770 Player connect enabled
+ 0:41:42.831 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+ 0:41:42.831 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+ 0:41:42.832 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+ 0:41:42.833 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+ 0:41:42.833 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+ 0:41:42.839 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+ 0:41:42.840 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+ 0:41:42.840 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+ 0:41:42.840 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+ 0:41:43.41  [IdleMode] Entering IN - save processed
+ 0:41:43.48  ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+ 0:41:43.49  ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+ 0:41:43.49  ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+ 0:41:43.49  ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+ 0:41:43.49  ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+ 0:41:43.49  ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+ 0:41:43.50  ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+ 0:41:43.51  ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+ 0:41:43.52  ENTITY    (W): Unknown object class 'pond' (dz\water_sakhal\ice_lake\sakhal_50x50_ice_lake_clear.p3d)
+ 0:41:43.52  ENTITY    (W): Unknown object class 'pond' (dz\water_sakhal\ice_lake\sakhal_50x50_ice_lake_clear.p3d)
+ 0:41:43.71  ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+ 0:41:43.126 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+ 0:41:43.198 ENTITY       : Load entity type 'land_seb_near_fac7'
+ 0:41:43.198  ENTITY    (W): Door 'doorstwin1' is missing geometry components for selection 'doorstwin1', check model+config
+ 0:41:43.367 ENTITY       : Load entity type 'Land_City_School'
+ 0:41:43.367  ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+ 0:41:43.367  ENTITY    (W): Door 'DoorsTwin3' is missing geometry components for selection 'DoorsTwin3', check model+config
+ 0:41:43.367  ENTITY    (W): Door 'DoorsTwin4' is missing geometry components for selection 'DoorsTwin4', check model+config
+ 0:41:43.367  ENTITY    (W): Door 'DoorsTwin5' is missing geometry components for selection 'DoorsTwin5', check model+config
+ 0:41:43.367  ENTITY    (W): Door 'DoorsTwin6' is missing geometry components for selection 'DoorsTwin6', check model+config
+ 0:41:43.367  ENTITY    (W): Door 'DoorsTwin7' is missing geometry components for selection 'DoorsTwin7', check model+config
+ 0:41:43.371  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+ 0:41:43.371  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+ 0:41:43.371  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+ 0:41:43.371  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+ 0:41:43.371  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+ 0:41:43.371  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+ 0:41:43.371  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+ 0:41:43.371  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+ 0:41:43.371  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+ 0:41:43.371  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+ 0:41:43.371  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+ 0:41:43.371  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+ 0:41:43.371  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+ 0:41:43.372  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+ 0:41:43.372  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+ 0:41:43.372  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+ 0:41:43.372  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+ 0:41:43.372  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+ 0:41:43.372  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+ 0:41:43.372  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+ 0:41:43.372  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+ 0:41:43.372  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+ 0:41:43.372  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+ 0:41:43.372  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+ 0:41:43.372  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+ 0:41:43.372  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+ 0:41:43.372  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+ 0:41:43.372  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+ 0:41:43.372  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+ 0:41:43.372  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+ 0:41:43.372  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+ 0:41:43.372  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+ 0:41:43.372  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+ 0:41:43.372  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+ 0:41:43.372  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+ 0:41:43.372  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+ 0:41:43.372  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+ 0:41:43.372  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+ 0:41:43.372  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+ 0:41:43.372  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+ 0:41:43.372  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+ 0:41:43.372  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+ 0:41:43.372  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+ 0:41:43.372  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+ 0:41:43.372  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+ 0:41:43.372  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+ 0:41:43.372  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+ 0:41:43.372  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+ 0:41:43.372  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+ 0:41:43.372  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+ 0:41:43.372  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+ 0:41:43.418 ENTITY       : Load entity type 'Land_Boathouse'
+ 0:41:43.418  ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+ 0:41:43.504 ENTITY       : Load entity type 'Land_Ruin_HouseBig1_NoIvy'
+ 0:41:43.504  ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+ 0:41:43.543 ENTITY       : Load entity type 'Land_Ruin_HouseBig3_NoIvy'
+ 0:41:43.543  ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+ 0:41:43.601 ENTITY    (W): Unknown object class 'pond' (dz\water_sakhal\ice_lake\sakhal_50x50_ice_lake_clear.p3d)
+ 0:41:49.07  ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater_still.p3d)
+ 0:41:49.14  ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater_still.p3d)
+ 0:42:06.303 ENTITY    (W): Unknown object class 'pond' (dz\water_sakhal\ice_lake\sakhal_50x50_ice_lake_clear.p3d)
+ 0:42:07.312 [Login]: Adding player Survivor (460333361) to login queue at position 0
+ 0:42:07.313 [LoginMachine]: Add player Survivor (460333361 192.168.0.103:55144)
+ 0:42:07.313 [StateMachine]: Player Survivor (dpnid 460333361 uid ) Entering AuthPlayerLoginState
+ 0:42:07.314 [StateMachine]: Player Survivor (dpnid 460333361 uid ) Entering WaitAuthPlayerLoginState
+ 0:42:09.125 ENTITY    (W): Unknown object class 'pond' (dz\water_sakhal\ice_lake\sakhal_50x50_ice_lake_clear.p3d)
+ 0:42:09.302 [IdleMode] Leaving OUT
+ 0:42:10.28  Игрок Survivor соединяется.
+ 0:42:10.86  [StateMachine]: Player Survivor (dpnid 460333361 uid ) Entering WaitPlayerAssignedLoginState
+ 0:42:10.244 [StateMachine]: Player Survivor (dpnid 460333361 uid ) Entering PlayerAssignedLoginState
+ 0:42:10.245 [StateMachine]: Player Survivor (dpnid 460333361 uid x_MJ2w6DZznhQeYHMWeX7_S9NuAxgYSiQqpLVIMNfrA=) Entering DBGetLoginTimeLoginState
+ 0:42:10.304 [StateMachine]: Player Survivor (dpnid 460333361 uid x_MJ2w6DZznhQeYHMWeX7_S9NuAxgYSiQqpLVIMNfrA=) Entering DBWaitLoginTimeLoginState
+ 0:42:13.291 ENTITY    (W): Unknown object class 'pond' (dz\water_sakhal\ice_lake\sakhal_50x50_ice_lake_clear.p3d)
+ 0:42:13.292 ENTITY    (W): Unknown object class 'pond' (dz\water_sakhal\ice_lake\sakhal_50x50_ice_lake_clear.p3d)
+ 0:42:13.838 ENTITY    (W): Unknown object class 'pond' (dz\water_sakhal\ice_lake\sakhal_50x50_ice_lake_clear.p3d)
+ 0:42:17.88  ENTITY    (W): Unknown object class 'pond' (dz\water_sakhal\ice_lake\sakhal_50x50_ice_lake_clear.p3d)
+ 0:42:18.868 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater_still.p3d)
+ 0:42:25.304 [StateMachine]: Player Survivor (dpnid 460333361 uid x_MJ2w6DZznhQeYHMWeX7_S9NuAxgYSiQqpLVIMNfrA=) Entering DBGetCharacterLoginState
+ 0:42:25.305 [StateMachine]: Player Survivor (dpnid 460333361 uid x_MJ2w6DZznhQeYHMWeX7_S9NuAxgYSiQqpLVIMNfrA=) Entering CreateNetObjectsLoginState
+ 0:42:25.306 [CE][PlayerSpawnPoints][GRP_DBG] :: Selected: { no group } | idx: 0 (ut: 75313 | lt: 0 | ctr: 0)
+ 0:42:25.306 [CE][PlayerSpawnPoints][GRP_DBG] :: Current: { no group } | idx: 0 (ct: 75313 | ut: 75313 | lt: 0 | ctr: 0)
+ 0:42:25.306 [CE][PlayerSpawnPoints][GRP_DBG] :: Current: { no group } index: 0 (lt: 0 | ctr: 0)
+ 0:42:25.306 [CE][PlayerSpawnPoints][GRP_DBG] :: Selected: { no group } | idx: 0 (ut: 75313 | lt: 0 | ctr: 0)
+ 0:42:25.310 [StateMachine]: Player Survivor (dpnid 460333361 uid x_MJ2w6DZznhQeYHMWeX7_S9NuAxgYSiQqpLVIMNfrA=) Entering PreloadCamLoginState
+ 0:42:25.311 [StateMachine]: Player Survivor (dpnid 460333361 uid x_MJ2w6DZznhQeYHMWeX7_S9NuAxgYSiQqpLVIMNfrA=) Entering WaitPreloadCamLoginState
+ 0:42:25.402 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+ 0:42:25.404 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+ 0:42:27.695 ENTITY    (W): Unknown object class 'pond' (dz\water_sakhal\ice_lake\sakhal_50x50_ice_lake_clear.p3d)
+ 0:42:29.508 [StateMachine]: Player Survivor (dpnid 460333361 uid x_MJ2w6DZznhQeYHMWeX7_S9NuAxgYSiQqpLVIMNfrA=) Entering GetNewCharLoginState
+ 0:42:29.509 NETWORK      : Network simulation
+ 0:42:29.510  WORLD        : Create entity type 'SurvivorF_Maria'
+ 0:42:29.510   MATERIAL  (E): Object dz/characters/bodies/player_testing.xob - cannot load material cross_red.emat
+ 0:42:32.118 Подключился игрок Survivor (id=x_MJ2w6DZznhQeYHMWeX7_S9NuAxgYSiQqpLVIMNfrA=).
+ 0:42:32.118 Player "Survivor" (steamID=76561199587900842 pos=<8441.2, 10046.2, 8.1>) is connected
+ 0:42:32.137 <CREATE NEW CHAR>:
+    charID 1
+    playerID 1
+    dpnid 460333361
+    uid x_MJ2w6DZznhQeYHMWeX7_S9NuAxgYSiQqpLVIMNfrA=
+ 0:42:32.137 Player Survivor (460333361) kicked from server: 240 ( (Game restart required))
+ 0:42:32.141 [Disconnect]: Client 460333361 early disconnect
+ 0:42:32.141 [Disconnect]: Start script disconnect 460333361 (dbCharacterId 1 dbPlayerId 1) logoutTime 15
+ 0:42:33.138 [Disconnect]: Remove player info 460333361
+ 0:42:33.138 [Disconnect]: Player destroy 460333361 
+ 0:42:34.42  [CE][LootRespawner] (PRIDummy) :: Item [27] causing search overtime: "dzn_netanyas_log"
+ 0:42:34.175 ENTITY    (W): Unknown object class 'pond' (dz\water_sakhal\ice_lake\sakhal_50x50_ice_lake_clear.p3d)
+ 0:42:34.175 ENTITY    (W): Unknown object class 'pond' (dz\water_sakhal\ice_lake\sakhal_50x50_ice_lake_clear.p3d)
+ 0:42:47.143 [Disconnect]: Finish script disconnect -1 (x_MJ2w6DZznhQeYHMWeX7_S9NuAxgYSiQqpLVIMNfrA=)
+ 0:42:48.202 [Login]: Adding player Survivor (501222780) to login queue at position 0
+ 0:42:48.202 [LoginMachine]: Add player Survivor (501222780 192.168.0.103:65022)
+ 0:42:48.202 [StateMachine]: Player Survivor (dpnid 501222780 uid ) Entering AuthPlayerLoginState
+ 0:42:48.203 [StateMachine]: Player Survivor (dpnid 501222780 uid ) Entering WaitAuthPlayerLoginState
+ 0:42:50.864 Игрок Survivor соединяется.
+ 0:42:50.864 [StateMachine]: Player Survivor (dpnid 501222780 uid ) Entering WaitPlayerAssignedLoginState
+ 0:42:51.13  [StateMachine]: Player Survivor (dpnid 501222780 uid ) Entering PlayerAssignedLoginState
+ 0:42:51.13  [StateMachine]: Player Survivor (dpnid 501222780 uid x_MJ2w6DZznhQeYHMWeX7_S9NuAxgYSiQqpLVIMNfrA=) Entering DBGetLoginTimeLoginState
+ 0:42:51.16  [StateMachine]: Player Survivor (dpnid 501222780 uid x_MJ2w6DZznhQeYHMWeX7_S9NuAxgYSiQqpLVIMNfrA=) Entering DBWaitLoginTimeLoginState
+ 0:43:00.954 [CE][LootRespawner] (PRIDummy) :: Item [28] causing search overtime: "dzn_netanyas_log"
+ 0:43:06.16  [StateMachine]: Player Survivor (dpnid 501222780 uid x_MJ2w6DZznhQeYHMWeX7_S9NuAxgYSiQqpLVIMNfrA=) Entering DBGetCharacterLoginState
+ 0:43:06.17  [StateMachine]: Player Survivor (dpnid 501222780 uid x_MJ2w6DZznhQeYHMWeX7_S9NuAxgYSiQqpLVIMNfrA=) Entering CreateNetObjectsLoginState
+ 0:43:06.19  [StateMachine]: Player Survivor (dpnid 501222780 uid x_MJ2w6DZznhQeYHMWeX7_S9NuAxgYSiQqpLVIMNfrA=) Entering PreloadCamLoginState
+ 0:43:06.20  [StateMachine]: Player Survivor (dpnid 501222780 uid x_MJ2w6DZznhQeYHMWeX7_S9NuAxgYSiQqpLVIMNfrA=) Entering WaitPreloadCamLoginState
+ 0:43:07.865 [StateMachine]: Player Survivor (dpnid 501222780 uid x_MJ2w6DZznhQeYHMWeX7_S9NuAxgYSiQqpLVIMNfrA=) Entering GetLoadedCharLoginState
+ 0:43:07.877 Подключился игрок Survivor (id=x_MJ2w6DZznhQeYHMWeX7_S9NuAxgYSiQqpLVIMNfrA=).
+ 0:43:07.877 Player "Survivor" (steamID=76561199587900842 pos=<8441.2, 10046.2, 8.1>) is connected
+ 0:43:07.877 <LOAD EXISTING CHAR>:
+    charID 1
+    playerID 1
+    dpnid 501222780
+    uid x_MJ2w6DZznhQeYHMWeX7_S9NuAxgYSiQqpLVIMNfrA=
+ 0:43:19.14  Player Survivor (501222780) kicked from server: 240 ( (Game restart required))
+ 0:43:19.18  [Disconnect]: Client 501222780 early disconnect
+ 0:43:19.18  [Disconnect]: Start script disconnect 501222780 (dbCharacterId 1 dbPlayerId 1) logoutTime 15
+ 0:43:19.137 [Disconnect]: Remove player info 501222780
+ 0:43:19.139 [Disconnect]: Player destroy 501222780 
+ 0:43:27.854 [CE][LootRespawner] (PRIDummy) :: Item [29] causing search overtime: "dzn_netanyas_log"
+ 0:43:34.18  [Disconnect]: Finish script disconnect -1 (x_MJ2w6DZznhQeYHMWeX7_S9NuAxgYSiQqpLVIMNfrA=)
+ 0:43:39.412 RESOURCES (E): ==== Resource leaks ====
+ 0:43:39.412 RESOURCES (E): dz/anims/workspaces/player/player_main/player_main.asi   1
+ 0:43:40.163  --- Termination successfully completed --- 
