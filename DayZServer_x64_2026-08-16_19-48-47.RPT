@@ -1,0 +1,1001 @@
+=====================================================================
+== G:\SteamLibrary\steamapps\common\DayZServer\DayZServer_x64.exe
+== DayZServer_x64.exe -noBattlEye -config=serverDZ.cfg -port=2304 "-profiles=G:\SteamLibrary\steamapps\common\DayZServer\ServerProfiles" -cpuCount=4 -nosplash -noPause "-mod=@CF;@Dabs Framework;@[CnG]UAZ_452;@[CnG]UAZ_31514;@[CnG]VAZ_2109;@[CrSk] BMW 525i E34;@[CrSk] VAZ-2107;@[Remastered] Arma Weapon Pack;@AI Bandits;@Armored Vehicle Pack;@AutoCarFlip;@BaseBuildingPlus;@Basic Map;@BMW E38 [FREE];@BMW X5 2000;@BMW_M5_CS;@ChernarusRP AE86;@Code Lock;@DayZ Horse;@DayZ-Expansion;@DayZ-Expansion-BaseBuilding;@DayZ-Expansion-Core;@DayZ-Expansion-Licensed;@Dayz-Expansion-Vehicles;@Expansion Ka52;@GAZ 66 SHISHIGA;@GAZ_Tigr_FIXED;@Gerphelius_CarXFence;@Honda_NSX;@JosiesHiluxZ;@M110;@MBM_ApocalypseTruck;@MBM_GoKart;@MBM_UnderglowLights;@Mercedes-Benz AMG G63 W463;@Meru_Car_Pack;@MMG - Mightys Military Gear;@My Delta Force Weapons;@Namalsk Island;@Namalsk Survival;@Nissan GTR 2015 - FREE TO USE;@RUSForma_vehicles;@SNAFU Weapons;@SR_WeaponsPack;@Survivor Animations;@Syndicate Breaching Charge;@Tactical Flava;@The Complete Ghillie Pack;@Toyota_GT86_RB;@Unknown Ghillie Mod;@VAZ 2107 Yandex Dfift;@VPPAdminTools;@VPPAdminTools Ru Translate;@WindstridesClothingPack;@Zens Core Mod;@Zens Sleeping Mod"
+=====================================================================
+Exe timestamp: 2026/08/15 12:57:52
+Current time:  2026/08/16 19:48:47
+Version 1.29.163709
+=====================================================================
+
+19:48:47.296 ENGINE    (W): Process affinity forced to f
+19:49:25.711 ENGINE    (W): No module info used, trying to identify -> 0xE86A0000
+19:49:25.712 ENGINE    (W): Adjusting job system settings to have at least one job worker thread.
+19:49:25.909 [Inputs] Loading inputs default "bin/constants.xml"
+19:49:25.912 [Inputs] Loading inputs default "bin/specific.xml"
+19:49:25.914 [Inputs] Loading inputs default "BBP_keybind/data/modded_Inputs.xml"
+19:49:25.914 [Inputs] Loading inputs default "HB_FlipVehicle/Inputs/inputs.xml"
+19:49:25.915 [Inputs] Loading inputs default "My_DF_Weapons_Scripts/Inputs.xml"
+19:49:25.915 [Inputs] Loading inputs default "nst/ns_dayz/scripts/Data/Inputs.xml"
+19:49:25.915 [Inputs] Loading inputs default "script_a/Inputs.xml"
+19:49:25.916 [Inputs] Loading inputs default "VPPAdminTools/data/modded_Inputs.xml"
+19:49:25.916 [Inputs] Loading inputs default "WindstrideClothing/Inputs.xml"
+19:49:25.917 [Inputs] Loading inputs default "BasicMap/data/Inputs.xml"
+19:49:25.917 [Inputs] Loading inputs default "MBM_UnderglowLights/gui/inputs.xml"
+19:49:25.917 [Inputs] Loading inputs default "DayZExpansion/PlayerList/Scripts/Data/Inputs.xml"
+19:49:25.918 [Inputs] Loading inputs default "DayZExpansion/Scripts/Data/Inputs.xml"
+19:49:25.918 [Inputs] Loading inputs default "DayZExpansion/Vehicles/Scripts/Data/Inputs.xml"
+19:49:25.919 [Inputs] Loading inputs default "Dayz_Horse/Data/Inputs.xml"
+19:49:25.919 [Inputs] Loading inputs default "DayZExpansion/BaseBuilding/Scripts/Data/Inputs.xml"
+19:49:25.919 [Inputs] Loading inputs cfg "G:\SteamLibrary\steamapps\common\DayZServer\ServerProfiles\Users\Survivor\Server.core.xml"
+19:49:25.924 [Inputs] Exporting inputs cfg "G:\SteamLibrary\steamapps\common\DayZServer\ServerProfiles\Users\Survivor\Server.core.xml"
+19:49:26.114 SCRIPT    (W): @"BaseBuildingPlus/scripts/3_Game/bbpconfig.c,143": FIX-ME: Unexpected statement 'ref'
+19:49:26.150 SCRIPT    (W): @"CodeLock/scripts/3_game/dayzgame.c,13": FIX-ME: Method argument can't be strong reference
+19:49:26.253 SCRIPT    (W): @"BasicMap/scripts/3_Game/basicmapcontroller.c,93": FIX-ME: Method argument can't be strong reference
+19:49:26.253 SCRIPT    (W): @"BasicMap/scripts/3_Game/basicmapcontroller.c,93": FIX-ME: Method argument can't be strong reference
+19:49:26.253 SCRIPT    (W): @"BasicMap/scripts/3_Game/basicmapcontroller.c,93": FIX-ME: Method argument can't be strong reference
+19:49:26.253 SCRIPT    (W): @"BasicMap/scripts/3_Game/basicmapcontroller.c,132": FIX-ME: Method argument can't be strong reference
+19:49:26.253 SCRIPT    (W): @"BasicMap/scripts/3_Game/basicmapcontroller.c,132": FIX-ME: Method argument can't be strong reference
+19:49:26.253 SCRIPT    (W): @"BasicMap/scripts/3_Game/basicmapcontroller.c,132": FIX-ME: Method argument can't be strong reference
+19:49:26.253 SCRIPT    (W): @"BasicMap/scripts/3_Game/basicmapcontroller.c,305": FIX-ME: Method argument can't be strong reference
+19:49:26.253 SCRIPT    (W): @"BasicMap/scripts/3_Game/basicmapcontroller.c,447": FIX-ME: Method argument can't be strong reference
+19:49:26.253 SCRIPT    (W): @"BasicMap/scripts/3_Game/basicmapcontroller.c,453": FIX-ME: Method argument can't be strong reference
+19:49:26.256 SCRIPT    (W): @"BasicMap/scripts/3_Game/gui\basicmapmenu.c,556": FIX-ME: Overriding function 'LockControls' but not marked as 'override'
+19:49:31.01  ANIMATION (E): Can't load @Zens Sleeping Mod/Anims/cfg/skeletons.anim.xml
+19:49:31.01  ANIMATION (E): Failed to open file, line 0, column 0
+19:49:31.01  ANIMATION (E): Can't load @Zens Core Mod/Anims/cfg/skeletons.anim.xml
+19:49:31.01  ANIMATION (E): Failed to open file, line 0, column 0
+19:49:31.01  ANIMATION (E): Can't load @WindstridesClothingPack/Anims/cfg/skeletons.anim.xml
+19:49:31.01  ANIMATION (E): Failed to open file, line 0, column 0
+19:49:31.01  ANIMATION (E): Can't load @VPPAdminTools Ru Translate/Anims/cfg/skeletons.anim.xml
+19:49:31.01  ANIMATION (E): Failed to open file, line 0, column 0
+19:49:31.01  ANIMATION (E): Can't load @VPPAdminTools/Anims/cfg/skeletons.anim.xml
+19:49:31.01  ANIMATION (E): Failed to open file, line 0, column 0
+19:49:31.01  ANIMATION (E): Can't load @VAZ 2107 Yandex Dfift/Anims/cfg/skeletons.anim.xml
+19:49:31.01  ANIMATION (E): Failed to open file, line 0, column 0
+19:49:31.01  ANIMATION (E): Can't load @Unknown Ghillie Mod/Anims/cfg/skeletons.anim.xml
+19:49:31.01  ANIMATION (E): Failed to open file, line 0, column 0
+19:49:31.01  ANIMATION (E): Can't load @Toyota_GT86_RB/Anims/cfg/skeletons.anim.xml
+19:49:31.01  ANIMATION (E): Failed to open file, line 0, column 0
+19:49:31.01  ANIMATION (E): Can't load @The Complete Ghillie Pack/Anims/cfg/skeletons.anim.xml
+19:49:31.01  ANIMATION (E): Failed to open file, line 0, column 0
+19:49:31.01  ANIMATION (E): Can't load @Tactical Flava/Anims/cfg/skeletons.anim.xml
+19:49:31.01  ANIMATION (E): Failed to open file, line 0, column 0
+19:49:31.01  ANIMATION (E): Can't load @Syndicate Breaching Charge/Anims/cfg/skeletons.anim.xml
+19:49:31.01  ANIMATION (E): Failed to open file, line 0, column 0
+19:49:31.01  ANIMATION (E): Can't load @Survivor Animations/Anims/cfg/skeletons.anim.xml
+19:49:31.01  ANIMATION (E): Failed to open file, line 0, column 0
+19:49:31.01  ANIMATION (E): Can't load @SR_WeaponsPack/Anims/cfg/skeletons.anim.xml
+19:49:31.01  ANIMATION (E): Failed to open file, line 0, column 0
+19:49:31.01  ANIMATION (E): Can't load @SNAFU Weapons/Anims/cfg/skeletons.anim.xml
+19:49:31.01  ANIMATION (E): Failed to open file, line 0, column 0
+19:49:31.01  ANIMATION (E): Can't load @RUSForma_vehicles/Anims/cfg/skeletons.anim.xml
+19:49:31.01  ANIMATION (E): Failed to open file, line 0, column 0
+19:49:31.01  ANIMATION (E): Can't load @Nissan GTR 2015 - FREE TO USE/Anims/cfg/skeletons.anim.xml
+19:49:31.01  ANIMATION (E): Failed to open file, line 0, column 0
+19:49:31.01  ANIMATION (E): Can't load @Namalsk Survival/Anims/cfg/skeletons.anim.xml
+19:49:31.01  ANIMATION (E): Failed to open file, line 0, column 0
+19:49:31.01  ANIMATION (E): Can't load @Namalsk Island/Anims/cfg/skeletons.anim.xml
+19:49:31.01  ANIMATION (E): Failed to open file, line 0, column 0
+19:49:31.01  ANIMATION (E): Can't load @My Delta Force Weapons/Anims/cfg/skeletons.anim.xml
+19:49:31.01  ANIMATION (E): Failed to open file, line 0, column 0
+19:49:31.01  ANIMATION (E): Can't load @MMG - Mightys Military Gear/Anims/cfg/skeletons.anim.xml
+19:49:31.01  ANIMATION (E): Failed to open file, line 0, column 0
+19:49:31.01  ANIMATION (E): Can't load @Meru_Car_Pack/Anims/cfg/skeletons.anim.xml
+19:49:31.01  ANIMATION (E): Failed to open file, line 0, column 0
+19:49:31.01  ANIMATION (E): Can't load @Mercedes-Benz AMG G63 W463/Anims/cfg/skeletons.anim.xml
+19:49:31.01  ANIMATION (E): Failed to open file, line 0, column 0
+19:49:31.01  ANIMATION (E): Can't load @MBM_UnderglowLights/Anims/cfg/skeletons.anim.xml
+19:49:31.01  ANIMATION (E): Failed to open file, line 0, column 0
+19:49:31.01  ANIMATION (E): Can't load @MBM_GoKart/Anims/cfg/skeletons.anim.xml
+19:49:31.01  ANIMATION (E): Failed to open file, line 0, column 0
+19:49:31.01  ANIMATION (E): Can't load @MBM_ApocalypseTruck/Anims/cfg/skeletons.anim.xml
+19:49:31.01  ANIMATION (E): Failed to open file, line 0, column 0
+19:49:31.01  ANIMATION (E): Can't load @M110/Anims/cfg/skeletons.anim.xml
+19:49:31.01  ANIMATION (E): Failed to open file, line 0, column 0
+19:49:31.01  ANIMATION (E): Can't load @JosiesHiluxZ/Anims/cfg/skeletons.anim.xml
+19:49:31.01  ANIMATION (E): Failed to open file, line 0, column 0
+19:49:31.01  ANIMATION (E): Can't load @Honda_NSX/Anims/cfg/skeletons.anim.xml
+19:49:31.01  ANIMATION (E): Failed to open file, line 0, column 0
+19:49:31.01  ANIMATION (E): Can't load @Gerphelius_CarXFence/Anims/cfg/skeletons.anim.xml
+19:49:31.01  ANIMATION (E): Failed to open file, line 0, column 0
+19:49:31.01  ANIMATION (E): Can't load @GAZ_Tigr_FIXED/Anims/cfg/skeletons.anim.xml
+19:49:31.01  ANIMATION (E): Failed to open file, line 0, column 0
+19:49:31.01  ANIMATION (E): Can't load @GAZ 66 SHISHIGA/Anims/cfg/skeletons.anim.xml
+19:49:31.01  ANIMATION (E): Failed to open file, line 0, column 0
+19:49:31.01  ANIMATION (E): Can't load @Expansion Ka52/Anims/cfg/skeletons.anim.xml
+19:49:31.01  ANIMATION (E): Failed to open file, line 0, column 0
+19:49:31.01  ANIMATION (E): Can't load @Dayz-Expansion-Vehicles/Anims/cfg/skeletons.anim.xml
+19:49:31.01  ANIMATION (E): Failed to open file, line 0, column 0
+19:49:31.01  ANIMATION (E): Can't load @DayZ-Expansion-Licensed/Anims/cfg/skeletons.anim.xml
+19:49:31.01  ANIMATION (E): Failed to open file, line 0, column 0
+19:49:31.01  ANIMATION (E): Can't load @DayZ-Expansion-Core/Anims/cfg/skeletons.anim.xml
+19:49:31.01  ANIMATION (E): Failed to open file, line 0, column 0
+19:49:31.01  ANIMATION (E): Can't load @DayZ-Expansion-BaseBuilding/Anims/cfg/skeletons.anim.xml
+19:49:31.01  ANIMATION (E): Failed to open file, line 0, column 0
+19:49:31.01  ANIMATION (E): Can't load @DayZ-Expansion/Anims/cfg/skeletons.anim.xml
+19:49:31.01  ANIMATION (E): Failed to open file, line 0, column 0
+19:49:31.41  ANIMATION (E): Can't load @Code Lock/Anims/cfg/skeletons.anim.xml
+19:49:31.41  ANIMATION (E): Failed to open file, line 0, column 0
+19:49:31.41  ANIMATION (E): Can't load @ChernarusRP AE86/Anims/cfg/skeletons.anim.xml
+19:49:31.41  ANIMATION (E): Failed to open file, line 0, column 0
+19:49:31.41  ANIMATION (E): Can't load @BMW_M5_CS/Anims/cfg/skeletons.anim.xml
+19:49:31.41  ANIMATION (E): Failed to open file, line 0, column 0
+19:49:31.41  ANIMATION (E): Can't load @BMW X5 2000/Anims/cfg/skeletons.anim.xml
+19:49:31.41  ANIMATION (E): Failed to open file, line 0, column 0
+19:49:31.41  ANIMATION (E): Can't load @BMW E38 [FREE]/Anims/cfg/skeletons.anim.xml
+19:49:31.41  ANIMATION (E): Failed to open file, line 0, column 0
+19:49:31.41  ANIMATION (E): Can't load @Basic Map/Anims/cfg/skeletons.anim.xml
+19:49:31.41  ANIMATION (E): Failed to open file, line 0, column 0
+19:49:31.41  ANIMATION (E): Can't load @BaseBuildingPlus/Anims/cfg/skeletons.anim.xml
+19:49:31.41  ANIMATION (E): Failed to open file, line 0, column 0
+19:49:31.41  ANIMATION (E): Can't load @AutoCarFlip/Anims/cfg/skeletons.anim.xml
+19:49:31.41  ANIMATION (E): Failed to open file, line 0, column 0
+19:49:31.41  ANIMATION (E): Can't load @Armored Vehicle Pack/Anims/cfg/skeletons.anim.xml
+19:49:31.41  ANIMATION (E): Failed to open file, line 0, column 0
+19:49:31.42  ANIMATION (E): Can't load @[Remastered] Arma Weapon Pack/Anims/cfg/skeletons.anim.xml
+19:49:31.42  ANIMATION (E): Failed to open file, line 0, column 0
+19:49:31.42  ANIMATION (E): Can't load @[CrSk] VAZ-2107/Anims/cfg/skeletons.anim.xml
+19:49:31.42  ANIMATION (E): Failed to open file, line 0, column 0
+19:49:31.42  ANIMATION (E): Can't load @[CrSk] BMW 525i E34/Anims/cfg/skeletons.anim.xml
+19:49:31.42  ANIMATION (E): Failed to open file, line 0, column 0
+19:49:31.42  ANIMATION (E): Can't load @[CnG]VAZ_2109/Anims/cfg/skeletons.anim.xml
+19:49:31.42  ANIMATION (E): Failed to open file, line 0, column 0
+19:49:31.42  ANIMATION (E): Can't load @[CnG]UAZ_31514/Anims/cfg/skeletons.anim.xml
+19:49:31.42  ANIMATION (E): Failed to open file, line 0, column 0
+19:49:31.42  ANIMATION (E): Can't load @[CnG]UAZ_452/Anims/cfg/skeletons.anim.xml
+19:49:31.42  ANIMATION (E): Failed to open file, line 0, column 0
+19:49:31.42  ANIMATION (E): Can't load @Dabs Framework/Anims/cfg/skeletons.anim.xml
+19:49:31.42  ANIMATION (E): Failed to open file, line 0, column 0
+19:49:31.42  ANIMATION (E): Can't load @CF/Anims/cfg/skeletons.anim.xml
+19:49:31.42  ANIMATION (E): Failed to open file, line 0, column 0
+19:49:31.42  ANIMATION (E): Can't load sakhal/Anims/cfg/skeletons.anim.xml
+19:49:31.42  ANIMATION (E): Failed to open file, line 0, column 0
+19:49:33.498 SCRIPT    (W): @"HB_FlipVehicle/Scripts/4_World/classes\registeractions.c,28": Missing ';' at the end of line
+19:49:33.514 SCRIPT    (W): @"script_a/Scripts/4_World/entities\creatures\infected\zombiebase.c,280": FIX-ME: Unmatched brackets detected!
+19:49:33.515 SCRIPT    (W): @"script_a/Scripts/4_World/bipod\megagovno.c,5": FIX-ME: Missing function scope
+19:49:33.515 SCRIPT    (W): @"script_a/Scripts/4_World/bipod\megagovno.c,13": FIX-ME: Missing function scope
+19:49:33.515 SCRIPT    (W): @"script_a/Scripts/4_World/bipod\megagovno.c,15": FIX-ME: Missing function scope
+19:49:33.515 SCRIPT    (W): @"script_a/Scripts/4_World/bipod\megagovno.c,17": FIX-ME: Missing function scope
+19:49:33.515 SCRIPT    (W): @"script_a/Scripts/4_World/bipod\megagovno.c,46": FIX-ME: Missing function scope
+19:49:33.515 SCRIPT    (W): @"script_a/Scripts/4_World/bipod\megagovno.c,54": FIX-ME: Missing function scope
+19:49:33.515 SCRIPT    (W): @"script_a/Scripts/4_World/bipod\megagovno.c,56": FIX-ME: Missing function scope
+19:49:33.515 SCRIPT    (W): @"script_a/Scripts/4_World/bipod\megagovno.c,58": FIX-ME: Missing function scope
+19:49:33.515 SCRIPT    (W): @"script_a/Scripts/4_World/bipod\megagovno.c,99": FIX-ME: Missing function scope
+19:49:33.516 SCRIPT    (W): @"script_a/Scripts/4_World/classes\useractionscomponent\actions\singleuse\action.c,16": FIX-ME: Missing function scope
+19:49:33.516 SCRIPT    (W): @"script_a/Scripts/4_World/classes\useractionscomponent\actions\singleuse\action.c,74": FIX-ME: Missing function scope
+19:49:33.516 SCRIPT    (W): @"script_a/Scripts/4_World/classes\useractionscomponent\actions\singleuse\action.c,131": FIX-ME: Missing function scope
+19:49:33.751 SCRIPT    (W): @"script_a/Scripts/4_World/entities\itembase\weapon\weapon_base.c,3": FIX-ME: Overriding function 'IsBipodDeployed' but not marked as 'override'
+19:49:33.755 SCRIPT    (W): @"CodeLock/scripts/4_world/entities\codelock.c,308": FIX-ME: Method argument can't be strong reference
+19:49:33.773 SCRIPT    (W): @"kamaz_4310RUS\scripts\4_World/carscript_kamaz_4310rus_cabinmanipulte.c,8": FIX-ME: Overriding function 'IsCabinCanManipulate' but not marked as 'override'
+19:49:33.774 SCRIPT    (W): @"kamaz_4310RUS\scripts\4_World/carscript_kamaz_4310rus_cabinmanipulte.c,13": FIX-ME: Overriding function 'GetCabinAnimationSource' but not marked as 'override'
+19:49:33.774 SCRIPT    (W): @"kamaz_4310RUS\scripts\4_World/carscript_kamaz_4310rus_cabinmanipulte.c,18": FIX-ME: Overriding function 'IsCabinRised' but not marked as 'override'
+19:49:33.774 SCRIPT    (W): @"kamaz_4310RUS\scripts\4_World/carscript_kamaz_4310rus_cabinmanipulte.c,23": FIX-ME: Overriding function 'IsPassengersInCabin' but not marked as 'override'
+19:49:33.774 SCRIPT    (W): @"tractor_UMZ_RUS\scripts\4_World/carscript.c,4": FIX-ME: Overriding function 'HandleDoorsSound' but not marked as 'override'
+19:49:33.828 SCRIPT    (W): @"BaseBuildingPlus/scripts/4_World/basebuildingplusui\entites\manbase\playerbase.c,16": FIX-ME: Overriding function 'ToggleBookReading' but not marked as 'override'
+19:49:33.861 SCRIPT    (W): @"BaseBuildingPlus/scripts/4_World/basebuildingplusui\entites\manbase\playerbase.c,20": FIX-ME: Overriding function 'IsReadingBook' but not marked as 'override'
+19:49:33.861 SCRIPT    (W): @"script_a/Scripts/4_World/weapons\m14_dmr.c,151": FIX-ME: Overriding function 'AssembleGun' but not marked as 'override'
+19:49:33.864 SCRIPT    (W): @"kamaz_4310RUS\scripts\4_World/static\miscgameplayfunctions.c,6": FIX-ME: Overriding function 'IsInsideCar' but not marked as 'override'
+19:49:33.902 SCRIPT    (W): @"Jeep_Wnagler/scripts/Jeep_Wnagler/jeep_wnagler.c,171": FIX-ME: Overriding function 'GetDoorConditionPointFromSelection' but not marked as 'override'
+19:49:33.931 SCRIPT    (W): @"CodeLock/scripts/4_world/pluginmanager\pluginbase\permissions\codelockpermissionmanager.c,46": FIX-ME: Method argument can't be strong reference
+19:49:33.973 SCRIPT    (W): @"script_a/Scripts/4_World/weapons\ak105_bullpup.c,48": FIX-ME: Overriding function 'AssembleGun' but not marked as 'override'
+19:49:33.985 SCRIPT    (W): @"script_a/Scripts/4_World/weapons\pkm.c,105": FIX-ME: Overriding function 'AssembleGun' but not marked as 'override'
+19:49:34.09  SCRIPT    (W): @"script_a/Scripts/4_World/weapons\m14_dmr.c,86": FIX-ME: Overriding function 'AssembleGun' but not marked as 'override'
+19:49:34.23  SCRIPT    (W): @"Glowler_ITV/scripts/Glowler_ITV/glowler_itv.c,162": FIX-ME: Overriding function 'GetDoorConditionPointFromSelection' but not marked as 'override'
+19:49:34.39  SCRIPT    (W): @"script_a/Scripts/4_World/weapons\pkm.c,252": FIX-ME: Overriding function 'AssembleGun' but not marked as 'override'
+19:49:34.60  SCRIPT    (W): @"MRAP_Cougar/scripts/MRAP_Cougar/mrap_cougar.c,235": FIX-ME: Overriding function 'GetDoorConditionPointFromSelection' but not marked as 'override'
+19:49:34.74  SCRIPT    (W): @"LAPV_camo/scripts/LAPV_camo/lapv_camo.c,270": FIX-ME: Overriding function 'GetDoorConditionPointFromSelection' but not marked as 'override'
+19:49:34.115 SCRIPT    (W): @"x5_2000\scripts\x5_2000/x5_2000.c,7": FIX-ME: Overriding function 'DashboardShineOn' but not marked as 'override'
+19:49:34.115 SCRIPT    (W): @"x5_2000\scripts\x5_2000/x5_2000.c,31": FIX-ME: Overriding function 'DashboardShineOff' but not marked as 'override'
+19:49:34.119 SCRIPT    (W): @"CodeLock/scripts/4_world/gui\guestcodemenu.c,29": FIX-ME: Overriding function 'SendRPC' but not marked as 'override'
+19:49:34.127 SCRIPT    (W): @"script_a/Scripts/4_World/bipod\bipod_base.c,93": FIX-ME: Overriding function 'IsBipodInUse' but not marked as 'override'
+19:49:34.156 SCRIPT    (W): @"script_a/Scripts/4_World/bipod\bipod_base.c,84": FIX-ME: Overriding function 'IsBipodInUse' but not marked as 'override'
+19:49:34.162 SCRIPT    (W): @"CodeLock/scripts/4_world/gui\claimcodemenu.c,27": FIX-ME: Overriding function 'SendRPC' but not marked as 'override'
+19:49:34.162 SCRIPT    (W): @"SR_Weapons_Scripts/scripts/4_world/weapons\scar_h.c,26": FIX-ME: Overriding function 'EEItemDetached' but not marked as 'override'
+19:49:34.171 SCRIPT    (W): @"CodeLock/scripts/4_world/gui\entercodemenu.c,37": FIX-ME: Overriding function 'SendRPC' but not marked as 'override'
+19:49:34.196 SCRIPT    (W): @"script_a/Scripts/4_World/weapons\anzio20.c,321": FIX-ME: Overriding function 'AssembleGun' but not marked as 'override'
+19:49:34.225 SCRIPT    (W): @"SR_Weapons_Scripts/scripts/4_world/weapons\rsass.c,30": FIX-ME: Overriding function 'EEItemDetached' but not marked as 'override'
+19:49:34.227 SCRIPT    (W): @"SR_Weapons_Scripts/scripts/4_world/weapons\scar_l.c,26": FIX-ME: Overriding function 'EEItemDetached' but not marked as 'override'
+19:49:34.242 SCRIPT    (W): @"script_a/Scripts/4_World/classes\useractionscomponent\actions\singleuse\action.c,180": Possible variable name conflict 'second_item_health'
+19:49:34.248 SCRIPT    (W): @"LAPV_tan/scripts/LAPV_tan/lapv_tan.c,270": FIX-ME: Overriding function 'GetDoorConditionPointFromSelection' but not marked as 'override'
+19:49:34.261 SCRIPT    (W): @"script_a/Scripts/4_World/weapons\m249.c,27": FIX-ME: Overriding function 'AssembleGun' but not marked as 'override'
+19:49:34.263 SCRIPT    (W): @"script_a/Scripts/4_World/bipod\bipod_base.c,112": FIX-ME: Overriding function 'IsBipodInUse' but not marked as 'override'
+19:49:34.313 SCRIPT    (W): @"CodeLock/scripts/4_world/gui\setcodemenu.c,31": FIX-ME: Overriding function 'CheckState' but not marked as 'override'
+19:49:34.319 SCRIPT    (W): @"script_a/Scripts/4_World/entities\itembase\tf_burningshard.c,115": FIX-ME: Overriding function 'IsTakeable' but not marked as 'override'
+19:49:34.319 SCRIPT    (W): @"script_a/Scripts/4_World/entities\itembase\tf_burningshard.c,120": FIX-ME: Overriding function 'CanHaveTemperature' but not marked as 'override'
+19:49:34.329 SCRIPT    (W): @"WindstrideClothing/scripts/4_World/namalsk\frostbite.c,4": FIX-ME: Overriding function 'CheckSlotOfInterest' but not marked as 'override'
+19:49:34.334 SCRIPT    (W): @"LAPV_green/scripts/LAPV_green/lapv_green.c,270": FIX-ME: Overriding function 'GetDoorConditionPointFromSelection' but not marked as 'override'
+19:49:34.337 SCRIPT    (W): @"script_a/Scripts/4_World/bipod\bipod_base.c,102": FIX-ME: Overriding function 'IsBipodInUse' but not marked as 'override'
+19:49:34.350 SCRIPT    (W): @"script_a/Scripts/4_World/weapons\m240.c,27": FIX-ME: Overriding function 'AssembleGun' but not marked as 'override'
+19:49:34.377 SCRIPT    (W): @"LAPV/scripts/LAPV/lapv.c,270": FIX-ME: Overriding function 'GetDoorConditionPointFromSelection' but not marked as 'override'
+19:49:36.574 SCRIPT    (W): @"CodeLock/scripts/4_world/actions\continuous\actiondestroycodelockontent.c,73": Possible variable name conflict '_Health'
+19:49:36.627 SCRIPT    (W): @"CodeLock/scripts/4_world/actions\continuous\actiondestroycodelockonfence.c,67": Possible variable name conflict '_Health'
+19:49:40.596 SCRIPT    (W): @"MBM_Apocalypse_Truck\scripts\4_World/entities\vehicle\apocalypsetruck.c,262": 'GetController' is obsolete: Use methods directly on Car
+19:49:41.28  SCRIPT    (W): @"Ural_2022\scripts\4_World/ural_2022.c,200": 'GetThrust' is obsolete: Use Car.GetThrottle
+19:49:41.163 SCRIPT    (W): @"AI_Bandits/Scripts/4_World/classes\sriptedentity\trigger.c,180": FIX-ME: Unsafe down-casting, use 'InfectedBanditBase.Cast' for safe down-casting
+19:49:48.134 SCRIPT    (W): @"Dayz_Horse/Scripts/4_World/dayzplayerimplement.c,180": No need to use 'Cast' for up-casting
+19:49:50.423 WORLD        : Create entity type 'headphones_base'
+19:49:50.423  WORLD        : Create entity type 'PersonalRadio'
+19:49:50.423   ENTITY    (E): Type 'Inventory_BaseType' must be inherited from class 'ItemTransmitterType'
+19:49:52.952 PreloadAnimationSets
+19:49:52.952  ANIMATION    : AnimSetInstance load @"{0F5E6205A5E823C3}dz/anims/workspaces/player/player_main/player_main.asi"
+19:49:52.952   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_cro_CustomAction_01_in.anm"
+19:49:52.952   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_cro_CustomAction_01_loop.anm"
+19:49:52.952   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_cro_CustomAction_01_out.anm"
+19:49:52.952   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomAction_01_in.anm"
+19:49:52.952   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomAction_01_loop.anm"
+19:49:52.952   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomAction_01_out.anm"
+19:49:52.952   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_cro_CustomAction_02_in.anm"
+19:49:52.952   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_cro_CustomAction_02_loop.anm"
+19:49:52.952   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_cro_CustomAction_02_out.anm"
+19:49:52.952   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomAction_02_in.anm"
+19:49:52.952   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomAction_02_loop.anm"
+19:49:52.952   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomAction_02_out.anm"
+19:49:52.952   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_cro_FB_CustomAction_01_in.anm"
+19:49:52.952   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_cro_FB_CustomAction_01_loop.anm"
+19:49:52.952   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_cro_FB_CustomAction_01_out.anm"
+19:49:52.952   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_FB_CustomAction_01_in.anm"
+19:49:52.952   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_FB_CustomAction_01_loop.anm"
+19:49:52.952   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_FB_CustomAction_01_out.anm"
+19:49:52.952   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_cro_FB_CustomAction_02_in.anm"
+19:49:52.952   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_cro_FB_CustomAction_02_loop.anm"
+19:49:52.952   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_cro_FB_CustomAction_02_out.anm"
+19:49:52.952   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_FB_CustomAction_02_in.anm"
+19:49:52.952   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_FB_CustomAction_02_loop.anm"
+19:49:52.952   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_FB_CustomAction_02_out.anm"
+19:49:52.952   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_cro_FB_CustomAction_03_in.anm"
+19:49:52.952   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_cro_FB_CustomAction_03_loop.anm"
+19:49:52.952   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_cro_FB_CustomAction_03_out.anm"
+19:49:52.952   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_FB_CustomAction_03_in.anm"
+19:49:52.952   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_FB_CustomAction_03_loop.anm"
+19:49:52.952   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_FB_CustomAction_03_out.anm"
+19:49:52.952   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_cro_FB_CustomAction_04_in.anm"
+19:49:52.952   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_cro_FB_CustomAction_04_loop.anm"
+19:49:52.952   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_cro_FB_CustomAction_04_out.anm"
+19:49:52.952   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_FB_CustomAction_04_in.anm"
+19:49:52.952   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_FB_CustomAction_04_loop.anm"
+19:49:52.952   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_FB_CustomAction_04_out.anm"
+19:49:52.952   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_cro_FB_CustomAction_05_in.anm"
+19:49:52.952   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_cro_FB_CustomAction_05_loop.anm"
+19:49:52.952   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_cro_FB_CustomAction_05_out.anm"
+19:49:52.952   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_FB_CustomAction_05_in.anm"
+19:49:52.952   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_FB_CustomAction_05_loop.anm"
+19:49:52.952   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_FB_CustomAction_05_out.anm"
+19:49:53.33    RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_cro_CustomActionOnce_01.anm"
+19:49:53.33    RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomActionOnce_01.anm"
+19:49:53.33    RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_pne_FB_CustomActionOnce_01.anm"
+19:49:53.33    RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_cro_CustomActionOnce_02.anm"
+19:49:53.33    RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomActionOnce_02.anm"
+19:49:53.33    RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_pne_FB_CustomActionOnce_02.anm"
+19:49:53.33    RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_cro_CustomActionOnce_03.anm"
+19:49:53.33    RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomActionOnce_03.anm"
+19:49:53.33    RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_pne_FB_CustomActionOnce_03.anm"
+19:49:53.33    RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_cro_CustomActionOnce_04.anm"
+19:49:53.33    RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomActionOnce_04.anm"
+19:49:53.33    RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_pne_FB_CustomActionOnce_04.anm"
+19:49:53.33    RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_cro_CustomActionOnce_05.anm"
+19:49:53.33    RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomActionOnce_05.anm"
+19:49:53.33    RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_pne_FB_CustomActionOnce_05.anm"
+19:49:53.293   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomEmote_01_in.anm"
+19:49:53.293   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomEmote_01_loop.anm"
+19:49:53.293   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomEmote_01_out.anm"
+19:49:53.293   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomEmote_02_in.anm"
+19:49:53.293   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomEmote_02_loop.anm"
+19:49:53.293   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomEmote_02_out.anm"
+19:49:53.293   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomEmote_03_in.anm"
+19:49:53.293   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomEmote_03_loop.anm"
+19:49:53.293   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomEmote_03_out.anm"
+19:49:53.293   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomEmote_04_in.anm"
+19:49:53.293   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomEmote_04_loop.anm"
+19:49:53.293   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomEmote_04_out.anm"
+19:49:53.293   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomEmote_05_in.anm"
+19:49:53.293   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomEmote_05_loop.anm"
+19:49:53.293   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomEmote_05_out.anm"
+19:49:53.293   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomEmote_06_in.anm"
+19:49:53.293   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomEmote_06_loop.anm"
+19:49:53.293   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomEmote_06_out.anm"
+19:49:53.293   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomEmote_07_in.anm"
+19:49:53.293   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomEmote_07_loop.anm"
+19:49:53.293   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomEmote_07_out.anm"
+19:49:53.293   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomEmote_08_in.anm"
+19:49:53.293   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomEmote_08_loop.anm"
+19:49:53.293   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomEmote_08_out.anm"
+19:49:53.293   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomEmote_09_in.anm"
+19:49:53.293   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomEmote_09_loop.anm"
+19:49:53.293   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomEmote_09_out.anm"
+19:49:53.293   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomEmote_10_in.anm"
+19:49:53.293   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomEmote_10_loop.anm"
+19:49:53.293   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomEmote_10_out.anm"
+19:49:53.293   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomEmote_11_in.anm"
+19:49:53.293   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomEmote_11_loop.anm"
+19:49:53.293   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomEmote_11_out.anm"
+19:49:53.293   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomEmote_12_in.anm"
+19:49:53.293   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomEmote_12_loop.anm"
+19:49:53.293   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomEmote_12_out.anm"
+19:49:53.293   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomEmote_13_in.anm"
+19:49:53.293   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomEmote_13_loop.anm"
+19:49:53.293   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomEmote_13_out.anm"
+19:49:53.293   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomEmote_14_in.anm"
+19:49:53.293   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomEmote_14_loop.anm"
+19:49:53.293   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomEmote_14_out.anm"
+19:49:53.293   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomEmote_15_in.anm"
+19:49:53.293   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomEmote_15_loop.anm"
+19:49:53.293   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomEmote_15_out.anm"
+19:49:53.293   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomEmote_16_in.anm"
+19:49:53.293   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomEmote_16_loop.anm"
+19:49:53.293   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomEmote_16_out.anm"
+19:49:53.331   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_cro_CustomEmoteOnce_01.anm"
+19:49:53.331   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomEmoteOnce_01.anm"
+19:49:53.331   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_pne_CustomEmoteOnce_01.anm"
+19:49:53.331   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomEmoteOnce_02.anm"
+19:49:53.331   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomEmoteOnce_03.anm"
+19:49:53.331   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomEmoteOnce_04.anm"
+19:49:53.331   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomEmoteOnce_05.anm"
+19:49:53.331   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomEmoteOnce_06.anm"
+19:49:53.331   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomEmoteOnce_07.anm"
+19:49:53.331   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomEmoteOnce_08.anm"
+19:49:53.331   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomEmoteOnce_09.anm"
+19:49:53.331   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomEmoteOnce_10.anm"
+19:49:53.331   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_cro_FB_CustomEmoteOnce_01.anm"
+19:49:53.331   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_FB_CustomEmoteOnce_01.anm"
+19:49:53.331   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_pne_FB_CustomEmoteOnce_01.anm"
+19:49:55.586 Hostname of server: "SVOBODA DayZ"
+19:49:56.353 NETWORK      : Network simulation
+19:49:56.353  Loading landscape 'namalsk'
+19:49:56.353   WORLD        : Create entity type 'Land_pas_amps_solo'
+19:49:56.353    ENTITY    (E): Type 'HouseType' must be inherited from class 'PASReceiverType'
+19:49:56.544   ENTITY       : Load entity type 'land_seb_garage'
+19:49:56.545    ENTITY    (W): Door 'doorstwin1' is missing geometry components for selection 'doorstwin1', check model+config
+19:49:56.550   ENTITY       : Load entity type 'Land_Container_1Aoh'
+19:49:56.550    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+19:49:56.552   WORLD        : Create entity type 'Land_radio_panelpas'
+19:49:56.552    ENTITY    (E): Type 'HouseType' must be inherited from class 'PASBroadcasterType'
+19:49:56.564   ENTITY       : Load entity type 'Land_Factory_Small'
+19:49:56.565    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+19:49:56.565    ENTITY    (W): Door 'DoorsTwin2' is missing geometry components for selection 'DoorsTwin2', check model+config
+19:49:56.586   ENTITY       : Load entity type 'Land_Container_1Bo'
+19:49:56.586    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+19:49:56.586    ENTITY    (W): Door 'DoorsTwin2' is missing geometry components for selection 'DoorsTwin2', check model+config
+19:49:56.587   ENTITY       : Load entity type 'land_budova2_winter'
+19:49:56.587    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+19:49:56.618   ENTITY       : Load entity type 'Land_Container_1Mo'
+19:49:56.618    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+19:49:56.618    ENTITY    (W): Door 'DoorsTwin2' is missing geometry components for selection 'DoorsTwin2', check model+config
+19:49:56.622   ENTITY       : Load entity type 'land_budova1_winter'
+19:49:56.622    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+19:49:56.641   WORLD        : Create entity type 'Land_radio_panelbig'
+19:49:56.641    ENTITY    (E): Type 'HouseType' must be inherited from class 'StaticTransmitterType'
+19:49:56.667   ENTITY       : Load entity type 'land_vys_budova_p1'
+19:49:56.667    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+19:49:56.668    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+19:49:56.670    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+19:49:56.686   ENTITY       : Load entity type 'Land_Mil_Barracks3'
+19:49:56.686    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+19:49:56.688   ENTITY       : Load entity type 'land_budova3'
+19:49:56.688    ENTITY    (W): Door 'doorstwin1' is missing geometry components for selection 'doorstwin1', check model+config
+19:49:56.695   ENTITY       : Load entity type 'Land_Mil_Barracks1'
+19:49:56.695    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+19:49:56.784   ENTITY       : Load entity type 'Land_Garage_Small'
+19:49:56.784    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+19:49:56.802   ENTITY       : Load entity type 'Land_Mil_Barracks5'
+19:49:56.802    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+19:49:56.908   ENTITY       : Load entity type 'Land_Workshop2'
+19:49:56.908    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+19:49:56.929   ENTITY       : Load entity type 'Land_Wreck_S1023_Beige'
+19:49:56.929    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+19:49:56.977   ENTITY       : Load entity type 'Land_Wreck_S1023_Blue'
+19:49:56.977    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+19:49:56.978   ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater_still.p3d)
+19:49:57.68    ENTITY       : Load entity type 'Land_CementWorks_Hall2_Brick'
+19:49:57.68     ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+19:49:57.83    ENTITY       : Load entity type 'Land_Workshop3'
+19:49:57.83     ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+19:49:57.83     ENTITY    (W): Door 'DoorsTwin2' is missing geometry components for selection 'DoorsTwin2', check model+config
+19:49:57.100   ENTITY       : Load entity type 'Land_Workshop4'
+19:49:57.100    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+19:49:57.137   ENTITY       : Load entity type 'Land_Workshop1'
+19:49:57.137    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+19:49:57.173   ENTITY       : Load entity type 'Land_Airfield_Small_Control'
+19:49:57.173    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+19:49:57.173    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+19:49:57.174    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+19:49:57.175    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+19:49:57.185   ENTITY    (W): Unknown object class 'pond' (dz\water_sakhal\ice_lake\sakhal_50x50_ice_lake_clear.p3d)
+19:49:57.244   ENTITY       : Load entity type 'Land_Office2'
+19:49:57.244    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+19:49:57.244    ENTITY    (W): Door 'DoorsTwin2' is missing geometry components for selection 'DoorsTwin2', check model+config
+19:49:57.244    ENTITY    (W): Door 'DoorsTwin3' is missing geometry components for selection 'DoorsTwin3', check model+config
+19:49:57.244    ENTITY    (W): Door 'DoorsTwin4' is missing geometry components for selection 'DoorsTwin4', check model+config
+19:49:57.244    ENTITY    (W): Door 'DoorsTwin5' is missing geometry components for selection 'DoorsTwin5', check model+config
+19:49:57.264   ENTITY       : Load entity type 'Land_City_Hospital'
+19:49:57.264    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+19:49:57.301   ENTITY       : Load entity type 'Land_Office1'
+19:49:57.302    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+19:49:57.302    ENTITY    (W): Door 'DoorsTwin2' is missing geometry components for selection 'DoorsTwin2', check model+config
+19:49:57.302    ENTITY    (W): Door 'DoorsTwin3' is missing geometry components for selection 'DoorsTwin3', check model+config
+19:49:57.302    ENTITY    (W): Door 'DoorsTwin4' is missing geometry components for selection 'DoorsTwin4', check model+config
+19:49:57.302    ENTITY    (W): Door 'DoorsTwin5' is missing geometry components for selection 'DoorsTwin5', check model+config
+19:49:57.302    ENTITY    (W): Door 'DoorsTwin6' is missing geometry components for selection 'DoorsTwin6', check model+config
+19:49:57.302    ENTITY    (W): Door 'DoorsTwin7' is missing geometry components for selection 'DoorsTwin7', check model+config
+19:49:57.326   ENTITY       : Load entity type 'Land_Container_1Moh'
+19:49:57.326    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+19:49:57.358   ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+19:49:57.422   ENTITY       : Load entity type 'Land_Garage_Row_Small'
+19:49:57.422    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+19:49:57.422    ENTITY    (W): Door 'DoorsTwin2' is missing geometry components for selection 'DoorsTwin2', check model+config
+19:49:57.422    ENTITY    (W): Door 'DoorsTwin3' is missing geometry components for selection 'DoorsTwin3', check model+config
+19:49:57.455   ENTITY       : Load entity type 'Land_City_Store_WithStairs'
+19:49:57.455    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+19:49:57.455    ENTITY    (W): Door 'DoorsTwin2' is missing geometry components for selection 'DoorsTwin2', check model+config
+19:49:57.455    ENTITY    (W): Door 'DoorsTwin3' is missing geometry components for selection 'DoorsTwin3', check model+config
+19:49:57.455    ENTITY    (W): Door 'DoorsTwin4' is missing geometry components for selection 'DoorsTwin4', check model+config
+19:49:57.455    ENTITY    (W): Door 'DoorsTwin5' is missing geometry components for selection 'DoorsTwin5', check model+config
+19:49:57.460   ENTITY       : Load entity type 'land_vor_apartment_high_2'
+19:49:57.460    ENTITY    (W): Door 'doorstwin1' is missing geometry components for selection 'doorstwin1', check model+config
+19:49:57.480   ENTITY       : Load entity type 'Land_Tenement_Small'
+19:49:57.480    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+19:49:57.480    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+19:49:57.480    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+19:49:57.481    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+19:49:57.481    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+19:49:57.481    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+19:49:57.481    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+19:49:57.575   ENTITY       : Load entity type 'Land_House_2W04'
+19:49:57.575    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+19:49:57.588   ENTITY       : Load entity type 'Land_House_1W08_Brown'
+19:49:57.588    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+19:49:57.589    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+19:49:57.589    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+19:49:57.666   ENTITY    (W): Unknown object class 'pond' (dz\water_sakhal\ice_lake\sakhal_50x50_ice_lake_clear.p3d)
+19:49:57.726   ENTITY       : Load entity type 'Land_Tenement_Big'
+19:49:57.726    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+19:49:57.726    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+19:49:57.727    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+19:49:57.727    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+19:49:57.728    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+19:49:57.728    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+19:49:57.729    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+19:49:57.729    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+19:49:57.729    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+19:50:00.351  SCRIPT    (W): @"HB_FlipVehicle/Scripts/5_Mission/missiongameplay.c,93": Missing ';' at the end of line
+19:50:00.386  SCRIPT    (W): @"HB_FlipVehicle/Scripts/5_Mission/missiongameplay.c,9": FIX-ME: Method argument can't be strong reference
+19:50:00.386  SCRIPT    (W): @"HB_FlipVehicle/Scripts/5_Mission/missiongameplay.c,9": FIX-ME: Method argument can't be strong reference
+19:50:00.387  SCRIPT    (W): @"HB_FlipVehicle/Scripts/5_Mission/missiongameplay.c,9": FIX-ME: Method argument can't be strong reference
+19:50:00.428  SCRIPT    (W): @"WindstrideClothing/scripts/5_Mission/windstride\namalsk\playercontainer.c,4": FIX-ME: Overriding function 'CheckSlotOfInterest' but not marked as 'override'
+19:50:03.334  SCRIPT    (W): scripts/3_Game/undergroundarealoader.c:138 | SpawnAllTriggerCarriers | [WARNING] :: [UndergroundAreaLoader GetData()] :: file not found in MISSION folder, your path is $mission:cfgundergroundtriggers.json Attempting DATA folder
+19:50:03.334  SCRIPT    (W): scripts/3_Game/undergroundarealoader.c:138 | SpawnAllTriggerCarriers | [WARNING] :: [UndergroundAreaLoader GetData()] ::file not found in DATA folder, your path is dz/worlds/namalsk/ce/cfgundergroundtriggers.json
+19:50:03.586 [CE][Hive] :: Initializing OFFLINE
+19:50:03.586 [StorageDirs] :: Selected storage directory: G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\
+19:50:03.586 [CE][Hive] :: Loading core data ... 
+19:50:03.586 [CE][CoreData] :: 8 root classes, 0 defaults, 0 updaters...
+19:50:03.719  ENTITY       : Load entity type 'Land_House_2W02'
+19:50:03.719   ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+19:50:03.749  ENTITY    (W): Unknown object class 'pond' (dz\water_sakhal\ice_lake\sakhal_50x50_ice_lake_clear.p3d)
+19:50:03.780 [CE][Hive] :: Loading map data ... 
+19:50:21.356 [CE][TypeSetup] :: 601 classes setuped...
+19:50:35.417 [CE][RegisterBind] :: 0 classes binded...
+19:50:35.418 [CE][RegisterConfig] :: 21238 config classes registered, 0 sub-counters...
+19:50:35.418 [CE][Hive] :: Loading map data ... 
+19:50:35.503 [CE][LoadPrototype] :: loaded 256 prototypes
+19:50:35.503   404 containers, 7415 points
+19:50:35.503   1 dispatches, 1 proxies
+19:50:35.503 !!! [CE][LoadPrototype] 1 groups have wrong points...
+19:50:35.503 [CE][LoadPrototype] :: last group name: land_frozen_person...
+19:50:35.508 [CE][LoadPrototype] :: loaded 0 prototypes
+19:50:35.508   38 containers, 66 points
+19:50:35.508   0 dispatches, 0 proxies
+19:50:35.508 [CE][LoadPrototype] :: last group name: StoneLoc38...
+19:50:35.551 [CE][LoadMap] "Group" :: loaded 1445 groups, groups failed: 0, largest group range: 36.4
+19:50:35.552 [CE][LoadMap] "Dirt" :: loaded 0 groups, groups failed: 0, largest group range: 36.4
+19:50:35.558 [CE][Links] found 472 total links between groups, of 1445
+19:50:35.558 [CE][LoadClusters] "Cluster" :: Loading files...
+19:50:35.570 [CE][LoadClusters] :: file: "mapgroupcluster.xml", 1 types, 2418 instances
+19:50:35.571 [CE][Storage] ver:21 stamp:791, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\types.bin"
+19:50:35.572 [CE][Storage] ver:21 stamp:609, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\types.001"
+19:50:35.573 [CE][Storage] ver:21 stamp:610, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\types.002"
+19:50:35.573 [CE][Storage] Restoring file "G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\types.bin".
+19:50:35.806 [CE][offlineDB] :: Loaded 23 dynamic events 177 total types.
+19:50:35.832 !!! [CE][offlineDB] :: Type 'ChristmasTree' will be ignored. (Not spawnable. (Scope is not public?))
+19:50:35.843 [CE][DE][SPAWNS] :: Total positions: 711
+19:50:35.843 [CE][DE][GROUPS] :: Total eventgroups defined: 0, Eventgroups in use: 0
+19:50:35.845 [CE][Storage] ver:25 stamp:791, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\events.bin"
+19:50:35.846 [CE][Storage] ver:25 stamp:609, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\events.001"
+19:50:35.846 [CE][Storage] ver:25 stamp:610, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\events.002"
+19:50:35.846 [CE][Storage] Restoring file "G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\events.bin".
+19:50:35.846 [CE][DynamicEvent] Load  Events:[23] Primary spawners: 23 Secondary spawners: 0
+19:50:35.847 [CE][Storage] ver:26 stamp:791, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_000.bin"
+19:50:35.848 [CE][Storage] ver:26 stamp:609, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_000.001"
+19:50:35.849 [CE][Storage] ver:26 stamp:610, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_000.002"
+19:50:35.849 [CE][Storage] Restoring file "G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_000.bin" 1 items.
+19:50:35.852   1 items loaded. (0 failed)
+19:50:35.852 [CE][Storage] ver:26 stamp:791, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_001.bin"
+19:50:35.853 [CE][Storage] ver:26 stamp:609, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_001.001"
+19:50:35.853 [CE][Storage] ver:26 stamp:610, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_001.002"
+19:50:35.854 [CE][Storage] Restoring file "G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_001.bin" 15 items.
+19:50:35.916   15 items loaded. (0 failed)
+19:50:35.916 [CE][Storage] ver:26 stamp:791, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_002.bin"
+19:50:35.917 [CE][Storage] ver:26 stamp:609, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_002.001"
+19:50:35.917 [CE][Storage] ver:26 stamp:610, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_002.002"
+19:50:35.917 [CE][Storage] Restoring file "G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_002.bin" 55 items.
+19:50:36.35   WORLD        : Create entity type 'Megaphone'
+19:50:36.35    ENTITY    (E): Type 'Inventory_BaseType' must be inherited from class 'ItemMegaphoneType'
+19:50:36.79    55 items loaded. (0 failed)
+19:50:36.80  [CE][Storage] ver:26 stamp:791, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_003.bin"
+19:50:36.81  [CE][Storage] ver:26 stamp:609, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_003.001"
+19:50:36.82  [CE][Storage] ver:26 stamp:610, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_003.002"
+19:50:36.82  [CE][Storage] Restoring file "G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_003.bin" 862 items.
+19:50:36.356  INVENTORY    : StreamLoad entity CargoPants_Blue:232
+19:50:36.356   WORLD        : Create entity type 'Headtorch_Black'
+19:50:36.356    ENTITY    (E): Type 'Inventory_BaseType' must be inherited from class 'ClothingType'
+19:50:36.602  PHYSICS   (W): While attempting to remove proxy physics for the selection 'codelock', the corresponding bone could not be found in the shape 'dz\gear\camping\cartent.p3d'
+19:50:36.602  INVENTORY    : StreamLoad entity CarTent:348
+19:50:36.602   PHYSICS   (W): While attempting to remove proxy physics for the selection 'codelock', the corresponding bone could not be found in the shape 'dz\gear\camping\cartent.p3d'
+19:50:36.725  PHYSICS   (W): While attempting to remove proxy physics for the selection 'codelock', the corresponding bone could not be found in the shape 'dz\gear\camping\largetent.p3d'
+19:50:36.726  INVENTORY    : StreamLoad entity LargeTent:408
+19:50:36.726   PHYSICS   (W): While attempting to remove proxy physics for the selection 'codelock', the corresponding bone could not be found in the shape 'dz\gear\camping\largetent.p3d'
+19:50:37.443  WORLD        : Create entity type 'Headtorch_Grey'
+19:50:37.443   ENTITY    (E): Type 'Inventory_BaseType' must be inherited from class 'ClothingType'
+19:50:37.580  PHYSICS   (W): While attempting to remove proxy physics for the selection 'codelock', the corresponding bone could not be found in the shape 'dz\gear\camping\mediumtent.p3d'
+19:50:37.580  INVENTORY    : StreamLoad entity MediumTent_Orange:912
+19:50:37.580   PHYSICS   (W): While attempting to remove proxy physics for the selection 'codelock', the corresponding bone could not be found in the shape 'dz\gear\camping\mediumtent.p3d'
+19:50:37.827   862 items loaded. (0 failed)
+19:50:37.829 [CE][Storage] ver:26 stamp:791, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_004.bin"
+19:50:37.830 [CE][Storage] ver:26 stamp:609, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_004.001"
+19:50:37.830 [CE][Storage] ver:26 stamp:610, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_004.002"
+19:50:37.830 [CE][Storage] Restoring file "G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_004.bin" 1822 items.
+19:50:38.265  PHYSICS   (W): While attempting to remove proxy physics for the selection 'codelock', the corresponding bone could not be found in the shape 'dz\gear\camping\cartent.p3d'
+19:50:38.266  INVENTORY    : StreamLoad entity CarTent:1383
+19:50:38.266   PHYSICS   (W): While attempting to remove proxy physics for the selection 'codelock', the corresponding bone could not be found in the shape 'dz\gear\camping\cartent.p3d'
+19:50:38.584  PHYSICS   (W): While attempting to remove proxy physics for the selection 'codelock', the corresponding bone could not be found in the shape 'dz\gear\camping\largetent.p3d'
+19:50:38.586  INVENTORY    : StreamLoad entity LargeTent:1603
+19:50:38.586   PHYSICS   (W): While attempting to remove proxy physics for the selection 'codelock', the corresponding bone could not be found in the shape 'dz\gear\camping\largetent.p3d'
+19:50:38.649  PHYSICS   (W): While attempting to remove proxy physics for the selection 'codelock', the corresponding bone could not be found in the shape 'dz\gear\camping\largetent.p3d'
+19:50:38.650  INVENTORY    : StreamLoad entity LargeTent:1643
+19:50:38.650   PHYSICS   (W): While attempting to remove proxy physics for the selection 'codelock', the corresponding bone could not be found in the shape 'dz\gear\camping\largetent.p3d'
+19:50:38.706  PHYSICS   (W): While attempting to remove proxy physics for the selection 'codelock', the corresponding bone could not be found in the shape 'dz\gear\camping\mediumtent.p3d'
+19:50:38.707  INVENTORY    : StreamLoad entity MediumTent_Orange:1685
+19:50:38.707   PHYSICS   (W): While attempting to remove proxy physics for the selection 'codelock', the corresponding bone could not be found in the shape 'dz\gear\camping\mediumtent.p3d'
+19:50:39.495  PHYSICS   (W): While attempting to remove proxy physics for the selection 'codelock', the corresponding bone could not be found in the shape 'dz\gear\camping\mediumtent.p3d'
+19:50:39.496  INVENTORY    : StreamLoad entity MediumTent:2241
+19:50:39.496   PHYSICS   (W): While attempting to remove proxy physics for the selection 'codelock', the corresponding bone could not be found in the shape 'dz\gear\camping\mediumtent.p3d'
+19:50:40.288  PHYSICS   (W): While attempting to remove proxy physics for the selection 'codelock', the corresponding bone could not be found in the shape 'dz\gear\camping\mediumtent.p3d'
+19:50:40.289  INVENTORY    : StreamLoad entity MediumTent:2811
+19:50:40.289   PHYSICS   (W): While attempting to remove proxy physics for the selection 'codelock', the corresponding bone could not be found in the shape 'dz\gear\camping\mediumtent.p3d'
+19:50:40.553  PHYSICS   (W): While attempting to remove proxy physics for the selection 'codelock', the corresponding bone could not be found in the shape 'dz\gear\camping\largetent.p3d'
+19:50:40.554  INVENTORY    : StreamLoad entity LargeTent:3007
+19:50:40.554   PHYSICS   (W): While attempting to remove proxy physics for the selection 'codelock', the corresponding bone could not be found in the shape 'dz\gear\camping\largetent.p3d'
+19:50:40.586   1822 items loaded. (0 failed)
+19:50:40.589 [CE][Storage] ver:26 stamp:791, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_005.bin"
+19:50:40.594 [CE][Storage] ver:26 stamp:609, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_005.001"
+19:50:40.595 [CE][Storage] ver:26 stamp:610, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_005.002"
+19:50:40.596 [CE][Storage] Restoring file "G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_005.bin" 629 items.
+19:50:40.903  PHYSICS   (W): While attempting to remove proxy physics for the selection 'codelock', the corresponding bone could not be found in the shape 'dz\gear\camping\largetent.p3d'
+19:50:40.906  INVENTORY    : StreamLoad entity LargeTent:3259
+19:50:40.906   PHYSICS   (W): While attempting to remove proxy physics for the selection 'codelock', the corresponding bone could not be found in the shape 'dz\gear\camping\largetent.p3d'
+19:50:41.581   629 items loaded. (0 failed)
+19:50:41.599 [CE][Storage] ver:26 stamp:791, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_006.bin"
+19:50:41.600 [CE][Storage] ver:26 stamp:609, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_006.001"
+19:50:41.600 [CE][Storage] ver:26 stamp:610, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_006.002"
+19:50:41.600 [CE][Storage] Restoring file "G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_006.bin" 2142 items.
+19:50:41.734  PHYSICS   (W): While attempting to remove proxy physics for the selection 'codelock', the corresponding bone could not be found in the shape 'dz\gear\camping\mediumtent.p3d'
+19:50:41.735  INVENTORY    : StreamLoad entity MediumTent_Orange:3812
+19:50:41.735   PHYSICS   (W): While attempting to remove proxy physics for the selection 'codelock', the corresponding bone could not be found in the shape 'dz\gear\camping\mediumtent.p3d'
+19:50:42.245  PHYSICS   (W): While attempting to remove proxy physics for the selection 'codelock', the corresponding bone could not be found in the shape 'dz\gear\camping\cartent.p3d'
+19:50:42.246  INVENTORY    : StreamLoad entity CarTent:4162
+19:50:42.246   PHYSICS   (W): While attempting to remove proxy physics for the selection 'codelock', the corresponding bone could not be found in the shape 'dz\gear\camping\cartent.p3d'
+19:50:42.395  PHYSICS   (W): While attempting to remove proxy physics for the selection 'codelock', the corresponding bone could not be found in the shape 'dz\gear\camping\mediumtent.p3d'
+19:50:42.396  INVENTORY    : StreamLoad entity MediumTent_Orange:4269
+19:50:42.396   PHYSICS   (W): While attempting to remove proxy physics for the selection 'codelock', the corresponding bone could not be found in the shape 'dz\gear\camping\mediumtent.p3d'
+19:50:43.93   PHYSICS   (W): While attempting to remove proxy physics for the selection 'codelock', the corresponding bone could not be found in the shape 'dz\gear\camping\mediumtent.p3d'
+19:50:43.94   INVENTORY    : StreamLoad entity MediumTent_Green:4761
+19:50:43.94    PHYSICS   (W): While attempting to remove proxy physics for the selection 'codelock', the corresponding bone could not be found in the shape 'dz\gear\camping\mediumtent.p3d'
+19:50:43.646  PHYSICS   (W): While attempting to remove proxy physics for the selection 'codelock', the corresponding bone could not be found in the shape 'dz\gear\camping\mediumtent.p3d'
+19:50:43.648  INVENTORY    : StreamLoad entity MediumTent_Green:5199
+19:50:43.648   PHYSICS   (W): While attempting to remove proxy physics for the selection 'codelock', the corresponding bone could not be found in the shape 'dz\gear\camping\mediumtent.p3d'
+19:50:43.796  PHYSICS   (W): While attempting to remove proxy physics for the selection 'codelock', the corresponding bone could not be found in the shape 'dz\gear\camping\mediumtent.p3d'
+19:50:43.798  INVENTORY    : StreamLoad entity MediumTent_Green:5315
+19:50:43.798   PHYSICS   (W): While attempting to remove proxy physics for the selection 'codelock', the corresponding bone could not be found in the shape 'dz\gear\camping\mediumtent.p3d'
+19:50:44.81   PHYSICS   (W): While attempting to remove proxy physics for the selection 'codelock', the corresponding bone could not be found in the shape 'dz\gear\camping\mediumtent.p3d'
+19:50:44.81   INVENTORY    : StreamLoad entity MediumTent_Green:5506
+19:50:44.81    PHYSICS   (W): While attempting to remove proxy physics for the selection 'codelock', the corresponding bone could not be found in the shape 'dz\gear\camping\mediumtent.p3d'
+19:50:44.201  PHYSICS   (W): While attempting to remove proxy physics for the selection 'codelock', the corresponding bone could not be found in the shape 'dz\gear\camping\mediumtent.p3d'
+19:50:44.202  INVENTORY    : StreamLoad entity MediumTent:5597
+19:50:44.202   PHYSICS   (W): While attempting to remove proxy physics for the selection 'codelock', the corresponding bone could not be found in the shape 'dz\gear\camping\mediumtent.p3d'
+19:50:44.493  PHYSICS   (W): While attempting to remove proxy physics for the selection 'codelock', the corresponding bone could not be found in the shape 'dz\gear\camping\mediumtent.p3d'
+19:50:44.494  INVENTORY    : StreamLoad entity MediumTent_Green:5801
+19:50:44.494   PHYSICS   (W): While attempting to remove proxy physics for the selection 'codelock', the corresponding bone could not be found in the shape 'dz\gear\camping\mediumtent.p3d'
+19:50:44.632  PHYSICS   (W): While attempting to remove proxy physics for the selection 'codelock', the corresponding bone could not be found in the shape 'dz\gear\camping\cartent.p3d'
+19:50:44.633  INVENTORY    : StreamLoad entity CarTent:5867
+19:50:44.633   PHYSICS   (W): While attempting to remove proxy physics for the selection 'codelock', the corresponding bone could not be found in the shape 'dz\gear\camping\cartent.p3d'
+19:50:44.771  PHYSICS   (W): While attempting to remove proxy physics for the selection 'codelock', the corresponding bone could not be found in the shape 'dz\gear\camping\mediumtent.p3d'
+19:50:44.771  INVENTORY    : StreamLoad entity MediumTent:5970
+19:50:44.771   PHYSICS   (W): While attempting to remove proxy physics for the selection 'codelock', the corresponding bone could not be found in the shape 'dz\gear\camping\mediumtent.p3d'
+19:50:44.784   2142 items loaded. (0 failed)
+19:50:44.785 [CE][Storage] ver:26 stamp:791, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_007.bin"
+19:50:44.786 [CE][Storage] ver:26 stamp:609, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_007.001"
+19:50:44.786 [CE][Storage] ver:26 stamp:610, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_007.002"
+19:50:44.786 [CE][Storage] Restoring file "G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_007.bin" 644 items.
+19:50:45.139  PHYSICS   (W): While attempting to remove proxy physics for the selection 'codelock', the corresponding bone could not be found in the shape 'dz\gear\camping\mediumtent.p3d'
+19:50:45.139  INVENTORY    : StreamLoad entity MediumTent:6240
+19:50:45.139   PHYSICS   (W): While attempting to remove proxy physics for the selection 'codelock', the corresponding bone could not be found in the shape 'dz\gear\camping\mediumtent.p3d'
+19:50:45.341  PHYSICS   (W): While attempting to remove proxy physics for the selection 'codelock', the corresponding bone could not be found in the shape 'dz\gear\camping\mediumtent.p3d'
+19:50:45.341  INVENTORY    : StreamLoad entity MediumTent_Orange:6392
+19:50:45.341   PHYSICS   (W): While attempting to remove proxy physics for the selection 'codelock', the corresponding bone could not be found in the shape 'dz\gear\camping\mediumtent.p3d'
+19:50:45.708   644 items loaded. (0 failed)
+19:50:45.719 [CE][Storage] ver:26 stamp:791, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_008.bin"
+19:50:45.720 [CE][Storage] ver:26 stamp:609, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_008.001"
+19:50:45.720 [CE][Storage] ver:26 stamp:610, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_008.002"
+19:50:45.721 [CE][Storage] Restoring file "G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_008.bin" 135 items.
+19:50:45.929   135 items loaded. (0 failed)
+19:50:46.08  [CE][Storage] ver:26 stamp:791, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_009.bin"
+19:50:46.08  [CE][Storage] ver:26 stamp:609, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_009.001"
+19:50:46.09  [CE][Storage] ver:26 stamp:610, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_009.002"
+19:50:46.10  [CE][Storage] Restoring file "G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_009.bin" 0 items.
+19:50:46.10    0 items loaded. (0 failed)
+19:50:46.10  [CE][Storage] ver:26 stamp:791, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_010.bin"
+19:50:46.10  [CE][Storage] ver:26 stamp:609, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_010.001"
+19:50:46.11  [CE][Storage] ver:26 stamp:610, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_010.002"
+19:50:46.12  [CE][Storage] Restoring file "G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_010.bin" 45 items.
+19:50:46.115   45 items loaded. (0 failed)
+19:50:46.116 [CE][Storage] ver:26 stamp:791, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_011.bin"
+19:50:46.116 [CE][Storage] ver:26 stamp:609, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_011.001"
+19:50:46.117 [CE][Storage] ver:26 stamp:610, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_011.002"
+19:50:46.117 [CE][Storage] Restoring file "G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_011.bin" 30 items.
+19:50:46.144  PHYSICS   (W): While attempting to remove proxy physics for the selection 'codelock', the corresponding bone could not be found in the shape 'dz\gear\camping\largetent.p3d'
+19:50:46.145  INVENTORY    : StreamLoad entity LargeTent:6885
+19:50:46.145   PHYSICS   (W): While attempting to remove proxy physics for the selection 'codelock', the corresponding bone could not be found in the shape 'dz\gear\camping\largetent.p3d'
+19:50:46.169   30 items loaded. (0 failed)
+19:50:46.169 [CE][Storage] ver:26 stamp:791, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\building.bin"
+19:50:46.169 [CE][Storage] ver:26 stamp:609, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\building.001"
+19:50:46.169 [CE][Storage] ver:26 stamp:610, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\building.002"
+19:50:46.170 [CE][Storage] Restoring file "G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\building.bin" 0 items.
+19:50:46.170   0 items loaded. (0 failed)
+19:50:46.170 [CE][Storage] ver:26 stamp:791, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\vehicles.bin"
+19:50:46.171 [CE][Storage] ver:26 stamp:609, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\vehicles.001"
+19:50:46.172 [CE][Storage] ver:26 stamp:610, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\vehicles.002"
+19:50:46.172 [CE][Storage] Restoring file "G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\vehicles.bin" 61 items.
+19:50:46.216  ENTITY       : Load entity type 'Land_Boathouse'
+19:50:46.216   ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+19:50:46.283  ENTITY    (W): Unknown object class 'pond' (dz\water_sakhal\ice_lake\sakhal_50x50_ice_lake_clear.p3d)
+19:50:46.443  WORLD        : Create entity type 'BaseRadio'
+19:50:46.443   ENTITY    (E): Type 'Inventory_BaseType' must be inherited from class 'ItemTransmitterType'
+19:50:46.504   61 items loaded. (0 failed)
+19:50:46.519 [CE][Hive] :: Storage load took:10.67 seconds, recovery stamp:791
+19:50:46.519   entity: 7069, building: 0
+19:50:46.519   no lifetime: 14
+19:50:46.519   pathgraph's: 121
+19:50:46.519 [CE][Hive] :: Initializing ... 
+19:50:46.553 [CE][InitializeMap] :: initialized: 0
+19:50:46.553 [CE][Hive] :: Initializing spawners ... 
+19:50:46.555 [CE][LootRespawner] (PRIDummy) :: Initially (re)spawned:0, Nominal:6884, Total in Map: 6476 at 0 (sec)
+19:50:46.555   tests:0, repeats:0 fails:0, overtime:0
+19:50:46.556  WORLD        : Create entity type 'ZmbM_PatrolNormal_PautRev'
+19:50:46.556   MATERIAL  (E): Object dz/characters/zombies/z_hermit_m.xob - cannot load material Material_1.emat
+19:50:47.17   WORLD        : Create entity type 'Animal_CapraHircusF'
+19:50:47.20    ENTITY    (E): Type 'ManType' must be inherited from class 'DayZAnimalType'
+19:50:47.32   WORLD        : Create entity type 'Animal_OvisAries'
+19:50:47.32    ENTITY    (E): Type 'ManType' must be inherited from class 'DayZAnimalType'
+19:50:47.35   WORLD        : Create entity type 'Animal_OvisAriesF'
+19:50:47.35    ENTITY    (E): Type 'ManType' must be inherited from class 'DayZAnimalType'
+19:50:47.38   WORLD        : Create entity type 'Animal_RangiferTarandus'
+19:50:47.38    ENTITY    (E): Type 'ManType' must be inherited from class 'DayZAnimalType'
+19:50:47.42   WORLD        : Create entity type 'Animal_RangiferTarandusF'
+19:50:47.42    ENTITY    (E): Type 'ManType' must be inherited from class 'DayZAnimalType'
+19:50:47.45   WORLD        : Create entity type 'Animal_SusScrofa'
+19:50:47.45    ENTITY    (E): Type 'ManType' must be inherited from class 'DayZAnimalType'
+19:50:47.50   WORLD        : Create entity type 'Animal_CanisLupus_Grey'
+19:50:47.50    ENTITY    (E): Type 'ManType' must be inherited from class 'DayZAnimalType'
+19:50:47.60   WORLD        : Create entity type 'Animal_CanisLupus_White'
+19:50:47.60    ENTITY    (E): Type 'ManType' must be inherited from class 'DayZAnimalType'
+19:50:47.66   WORLD        : Create entity type 'Animal_UrsusArctos'
+19:50:47.66    ENTITY    (E): Type 'ManType' must be inherited from class 'DayZAnimalType'
+19:50:47.75   WORLD        : Create entity type 'Animal_UrsusMaritimus'
+19:50:47.75    ENTITY    (E): Type 'ManType' must be inherited from class 'DayZAnimalType'
+19:50:47.78  [CE][DynEvent] :: 23 types
+19:50:47.79  [00] Loot
+19:50:47.79    Primary Spawner: "Loot", active: yes, repeat: 2
+19:50:47.79  [01] StaticMedDrop
+19:50:47.79    Primary Spawner: "Static", active: yes, repeat: 1
+19:50:47.79  [02] StaticLifeboat
+19:50:47.79    Primary Spawner: "Static", active: yes, repeat: 1
+19:50:47.79  [03] ItemWoodenPlanks
+19:50:47.79    Primary Spawner: "Item", active: yes, repeat: 1
+19:50:47.79  [04] TrajectoryStones
+19:50:47.79    Primary Spawner: "Trajectory", active: yes, repeat: 1
+19:50:47.79  [05] InfectedSanta
+19:50:47.79    Primary Spawner: "Infected", active: yes, repeat: 1
+19:50:47.79  [06] InfectedArmy
+19:50:47.79    Primary Spawner: "Infected", active: yes, repeat: 1
+19:50:47.79  [07] InfectedIndustrial
+19:50:47.79    Primary Spawner: "Infected", active: yes, repeat: 1
+19:50:47.79  [08] InfectedCivil
+19:50:47.79    Primary Spawner: "Infected", active: yes, repeat: 1
+19:50:47.79  [09] InfectedMedic
+19:50:47.79    Primary Spawner: "Infected", active: yes, repeat: 1
+19:50:47.79  [10] AnimalGoat
+19:50:47.79    Primary Spawner: "Animal", active: yes, repeat: 1
+19:50:47.79  [11] AnimalSheep
+19:50:47.79    Primary Spawner: "Animal", active: yes, repeat: 1
+19:50:47.79  [12] AnimalReindeer
+19:50:47.79    Primary Spawner: "Animal", active: yes, repeat: 1
+19:50:47.79  [13] AnimalWildBoar
+19:50:47.79    Primary Spawner: "Animal", active: yes, repeat: 1
+19:50:47.79  [14] AnimalWolf
+19:50:47.79    Primary Spawner: "Animal", active: yes, repeat: 1
+19:50:47.79  [15] AnimalBrownBear
+19:50:47.79    Primary Spawner: "Animal", active: yes, repeat: 1
+19:50:47.79  [16] AnimalPolarBear
+19:50:47.79    Primary Spawner: "Animal", active: yes, repeat: 1
+19:50:47.79  [17] AmbientFox
+19:50:47.79    Primary Spawner: "Ambient", active: yes, repeat: 1
+19:50:47.79  [18] AmbientHare
+19:50:47.79    Primary Spawner: "Ambient", active: yes, repeat: 1
+19:50:47.79  [19] VehicleRubberBoats
+19:50:47.79    Primary Spawner: "Vehicle", active: yes, repeat: 1
+19:50:47.79  [20] VehicleCivilianCars
+19:50:47.79    Primary Spawner: "Vehicle", active: yes, repeat: 1
+19:50:47.79  [21] VehicleTrucks
+19:50:47.79    Primary Spawner: "Vehicle", active: yes, repeat: 1
+19:50:47.79  [22] VehicleMilitary
+19:50:47.79    Primary Spawner: "Vehicle", active: yes, repeat: 1
+19:50:47.79  [CE][Hive] :: Initializing of spawners done.
+19:50:47.83  [CE][Hive] :: Init sequence finished.
+19:50:47.83  Player connect enabled
+19:50:47.144 [Login]: Adding player Survivor (1439719734) to login queue at position 0
+19:50:47.144 [LoginMachine]: Add player Survivor (1439719734 192.168.0.103:61972)
+19:50:47.144 [StateMachine]: Player Survivor (dpnid 1439719734 uid ) Entering AuthPlayerLoginState
+19:50:47.191 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+19:50:47.191 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+19:50:47.191 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+19:50:47.192 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+19:50:47.193 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+19:50:47.193 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+19:50:47.193 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+19:50:47.193 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+19:50:47.193 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+19:50:47.193 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+19:50:47.195 ENTITY    (W): Unknown object class 'pond' (dz\water_sakhal\ice_lake\sakhal_50x50_ice_lake_clear.p3d)
+19:50:47.203 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+19:50:47.203 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+19:50:47.204 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+19:50:47.204 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+19:50:47.204 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+19:50:47.205 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+19:50:47.747 [IdleMode] Entering IN - save processed
+19:50:47.753 [StateMachine]: Player Survivor (dpnid 1439719734 uid ) Entering WaitAuthPlayerLoginState
+19:50:47.786 ENTITY    (W): Unknown object class 'pond' (dz\water_sakhal\ice_lake\sakhal_50x50_ice_lake_clear.p3d)
+19:50:47.787 ENTITY    (W): Unknown object class 'pond' (dz\water_sakhal\ice_lake\sakhal_50x50_ice_lake_clear.p3d)
+19:50:47.896 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+19:50:47.897 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+19:50:47.897 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+19:50:47.897 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+19:50:47.897 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+19:50:47.897 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+19:50:47.897 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+19:50:47.897 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+19:50:47.898 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+19:50:47.899 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+19:50:47.900 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+19:50:47.900 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+19:50:47.900 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+19:50:47.900 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+19:50:47.901 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+19:50:47.901 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+19:50:47.901 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+19:50:47.901 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+19:50:47.903 ENTITY    (W): Unknown object class 'pond' (dz\water_sakhal\ice_lake\sakhal_50x50_ice_lake_clear.p3d)
+19:50:47.903 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+19:50:47.933 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+19:50:47.933 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+19:50:48.112 ENTITY       : Load entity type 'Land_Rail_Warehouse_Small'
+19:50:48.112  ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+19:50:48.112  ENTITY    (W): Door 'DoorsTwin2' is missing geometry components for selection 'DoorsTwin2', check model+config
+19:50:48.127 ENTITY       : Load entity type 'land_seb_near_fac7'
+19:50:48.127  ENTITY    (W): Door 'doorstwin1' is missing geometry components for selection 'doorstwin1', check model+config
+19:50:48.131 ENTITY    (W): Unknown object class 'pond' (dz\water_sakhal\ice_lake\sakhal_50x50_ice_lake_clear.p3d)
+19:50:48.132 ENTITY    (W): Unknown object class 'pond' (dz\water_sakhal\ice_lake\sakhal_50x50_ice_lake_clear.p3d)
+19:50:48.132 ENTITY    (W): Unknown object class 'pond' (dz\water_sakhal\ice_lake\sakhal_50x50_ice_lake_clear.p3d)
+19:50:48.265 ENTITY    (W): Unknown object class 'pond' (dz\water_sakhal\ice_lake\sakhal_50x50_ice_lake_clear.p3d)
+19:50:48.338 ENTITY       : Load entity type 'Land_City_School'
+19:50:48.338  ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+19:50:48.338  ENTITY    (W): Door 'DoorsTwin3' is missing geometry components for selection 'DoorsTwin3', check model+config
+19:50:48.338  ENTITY    (W): Door 'DoorsTwin4' is missing geometry components for selection 'DoorsTwin4', check model+config
+19:50:48.338  ENTITY    (W): Door 'DoorsTwin5' is missing geometry components for selection 'DoorsTwin5', check model+config
+19:50:48.338  ENTITY    (W): Door 'DoorsTwin6' is missing geometry components for selection 'DoorsTwin6', check model+config
+19:50:48.339  ENTITY    (W): Door 'DoorsTwin7' is missing geometry components for selection 'DoorsTwin7', check model+config
+19:50:48.345  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+19:50:48.345  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+19:50:48.345  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+19:50:48.345  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+19:50:48.345  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+19:50:48.345  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+19:50:48.345  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+19:50:48.345  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+19:50:48.345  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+19:50:48.346  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+19:50:48.346  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+19:50:48.346  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+19:50:48.346  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+19:50:48.346  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+19:50:48.346  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+19:50:48.346  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+19:50:48.346  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+19:50:48.346  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+19:50:48.346  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+19:50:48.346  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+19:50:48.346  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+19:50:48.346  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+19:50:48.346  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+19:50:48.346  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+19:50:48.346  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+19:50:48.346  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+19:50:48.346  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+19:50:48.346  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+19:50:48.346  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+19:50:48.346  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+19:50:48.346  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+19:50:48.346  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+19:50:48.346  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+19:50:48.346  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+19:50:48.346  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+19:50:48.346  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+19:50:48.346  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+19:50:48.346  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+19:50:48.346  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+19:50:48.346  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+19:50:48.346  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+19:50:48.346  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+19:50:48.346  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+19:50:48.346  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+19:50:48.346  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+19:50:48.346  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+19:50:48.346  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+19:50:48.346  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+19:50:48.346  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+19:50:48.346  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+19:50:48.346  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+19:50:48.460 ENTITY       : Load entity type 'Land_Ruin_HouseBig1_NoIvy_Half'
+19:50:48.461  ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+19:50:48.611 ENTITY       : Load entity type 'Land_Ruin_HouseBig2_NoIvy'
+19:50:48.611  ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+19:50:48.611  ENTITY    (W): Door 'DoorsTwin2' is missing geometry components for selection 'DoorsTwin2', check model+config
+19:50:48.615 ENTITY       : Load entity type 'Land_Ruin_HouseBig1_NoIvy'
+19:50:48.615  ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+19:50:48.628 ENTITY       : Load entity type 'Land_Ruin_HouseBig3_NoIvy'
+19:50:48.628  ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+19:50:48.692 ENTITY       : Load entity type 'Land_Ruin_HouseBig3_NoIvy_Half'
+19:50:48.692  ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+19:50:48.700 ENTITY    (W): Unknown object class 'pond' (dz\water_sakhal\ice_lake\sakhal_50x50_ice_lake_clear.p3d)
+19:50:48.703 ENTITY    (W): Unknown object class 'pond' (dz\water_sakhal\ice_lake\sakhal_50x50_ice_lake_clear.p3d)
+19:50:49.376 [IdleMode] Leaving OUT
+19:50:50.506 Игрок Survivor соединяется.
+19:50:50.578 [StateMachine]: Player Survivor (dpnid 1439719734 uid ) Entering WaitPlayerAssignedLoginState
+19:50:50.724 [StateMachine]: Player Survivor (dpnid 1439719734 uid ) Entering PlayerAssignedLoginState
+19:50:50.725 [StateMachine]: Player Survivor (dpnid 1439719734 uid x_MJ2w6DZznhQeYHMWeX7_S9NuAxgYSiQqpLVIMNfrA=) Entering DBGetLoginTimeLoginState
+19:50:50.728 [StateMachine]: Player Survivor (dpnid 1439719734 uid x_MJ2w6DZznhQeYHMWeX7_S9NuAxgYSiQqpLVIMNfrA=) Entering DBWaitLoginTimeLoginState
+19:50:51.710 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater_still.p3d)
+19:50:51.720 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater_still.p3d)
+19:51:02.379 ENTITY    (W): Unknown object class 'pond' (dz\water_sakhal\ice_lake\sakhal_50x50_ice_lake_clear.p3d)
+19:51:05.728 [StateMachine]: Player Survivor (dpnid 1439719734 uid x_MJ2w6DZznhQeYHMWeX7_S9NuAxgYSiQqpLVIMNfrA=) Entering DBGetCharacterLoginState
+19:51:05.730 [StateMachine]: Player Survivor (dpnid 1439719734 uid x_MJ2w6DZznhQeYHMWeX7_S9NuAxgYSiQqpLVIMNfrA=) Entering CreateNetObjectsLoginState
+19:51:05.732 [StateMachine]: Player Survivor (dpnid 1439719734 uid x_MJ2w6DZznhQeYHMWeX7_S9NuAxgYSiQqpLVIMNfrA=) Entering PreloadCamLoginState
+19:51:05.733 [StateMachine]: Player Survivor (dpnid 1439719734 uid x_MJ2w6DZznhQeYHMWeX7_S9NuAxgYSiQqpLVIMNfrA=) Entering WaitPreloadCamLoginState
+19:51:11.745 [CE][LootRespawner] (PRIDummy) :: Item [0] causing search overtime: "FarmingHoe"
+19:51:12.445 [CE][LootRespawner] (PRIDummy) :: Item [1] causing search overtime: "dzn_athena3_august"
+19:51:12.745 [CE][LootRespawner] (PRIDummy) :: Item [2] causing search overtime: "dzn_athena3_october"
+19:51:13.210 ENTITY    (W): Unknown object class 'pond' (dz\water_sakhal\ice_lake\sakhal_50x50_ice_lake_clear.p3d)
+19:51:13.210 ENTITY    (W): Unknown object class 'pond' (dz\water_sakhal\ice_lake\sakhal_50x50_ice_lake_clear.p3d)
+19:51:15.283 ENTITY    (W): Unknown object class 'pond' (dz\water_sakhal\ice_lake\sakhal_50x50_ice_lake_clear.p3d)
+19:51:17.336 ENTITY       : Load entity type 'Land_Garage_Row_Big'
+19:51:17.336  ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+19:51:17.336  ENTITY    (W): Door 'DoorsTwin2' is missing geometry components for selection 'DoorsTwin2', check model+config
+19:51:17.336  ENTITY    (W): Door 'DoorsTwin3' is missing geometry components for selection 'DoorsTwin3', check model+config
+19:51:17.336  ENTITY    (W): Door 'DoorsTwin4' is missing geometry components for selection 'DoorsTwin4', check model+config
+19:51:18.273 ENTITY    (W): Unknown object class 'pond' (dz\water_sakhal\ice_lake\sakhal_50x50_ice_lake_clear.p3d)
+19:51:18.663 [StateMachine]: Player Survivor (dpnid 1439719734 uid x_MJ2w6DZznhQeYHMWeX7_S9NuAxgYSiQqpLVIMNfrA=) Entering GetLoadedCharLoginState
+19:51:18.702 NETWORK      : Network simulation
+19:51:18.702  WORLD        : Create entity type 'SurvivorF_Maria'
+19:51:18.702   MATERIAL  (E): Object dz/characters/bodies/player_testing.xob - cannot load material cross_red.emat
+19:51:18.804   SCRIPT    (E): Virtual Machine Exception
+
+Reason: Stack overflow
+
+Class:      'ModItemRegisterCallbacks'
+Function: 'RegisterHeavy'
+Stack trace:
+Ford_raptor\scripts\4_World/moditemregistercallbacks.c:6 Function RegisterHeavy
+Ford_raptor_monster\scripts\4_World/moditemregistercallbacks.c:6 Function RegisterHeavy
+Ford_velociraptor_4x4\scripts\4_World/moditemregistercallbacks.c:6 Function RegisterHeavy
+GAZ_2410_offroad\scripts\4_World/moditemregistercallbacks.c:6 Function RegisterHeavy
+Gelentvagen_Maybach\scripts\4_World/moditemregistercallbacks.c:6 Function RegisterHeavy
+Hammer_H1_6x6\scripts\4_World/moditemregistercallbacks.c:6 Function RegisterHeavy
+IZH_27175\scripts\4_World/moditemregistercallbacks.c:6 Function RegisterHeavy
+jeep_gladiator_6x6\scripts\4_World/moditemregistercallbacks.c:6 Function RegisterHeavy
+JGC_G63W463/scripts/4_World/JGC_G63W463/moditemregistercallbacks.c:5 Function RegisterHeavy
+Lada_niva_2329\scripts\4_World/moditemregistercallbacks.c:6 Function RegisterHeavy
+lamborghini
+19:51:18.806   RESOURCES (E): Failed to open object @"dz/anims/anm/player/ik/vehicles/hatchback/hatchback_Doors_Hood.anm"
+19:51:18.806   RESOURCES (E): Failed to open object @"dz/anims/anm/player/ik/vehicles/v3s/hatchback_02_door_driver.anm"
+19:51:18.806   RESOURCES (E): Failed to open object @"dz/anims/anm/player/ik/vehicles/v3s/hatchback_02_door_codriver.anm"
+19:51:18.806   RESOURCES (E): Failed to open object @"dz/anims/anm/player/ik/vehicles/v3s/hatchback_02_door_driver.anm"
+19:51:18.806   RESOURCES (E): Failed to open object @"dz/anims/anm/player/ik/vehicles/v3s/hatchback_02_door_codriver.anm"
+19:51:18.806   RESOURCES (E): Failed to open object @"dz/anims/anm/player/ik/vehicles/v3s/hatchback_02_door_driver.anm"
+19:51:18.806   RESOURCES (E): Failed to open object @"dz/anims/anm/player/ik/vehicles/v3s/hatchback_02_door_codriver.anm"
+19:51:18.806   RESOURCES (E): Failed to open object @"dz/anims/anm/player/ik/vehicles/v3s/hatchback_02_door_driver.anm"
+19:51:18.806   RESOURCES (E): Failed to open object @"dz/anims/anm/player/ik/vehicles/v3s/hatchback_02_door_codriver.anm"
+19:51:18.808   RESOURCES (E): Failed to open object @"dz/anims/anm/player/ik/vehicles/hatchback/sedan_trunk.anm"
+19:51:20.330   ANIMATION    : AnimSetInstance load @"{73CE583BF4026B87}SNAFU_Scripts/Animations/GCGN_M1Garand.asi"
+19:51:20.330    RESOURCES (E): Failed to open object @"GCGN_Guns/Data/M1Garand/Anims/M1Garand.anm"
+19:51:21.262  ENTITY       : Load entity type 'SurvivorF_Maria'
+19:51:21.263   SCRIPT    (E): Virtual Machine Exception
+
+Reason: Stack overflow
+
+Class:      'ModItemRegisterCallbacks'
+Function: 'RegisterHeavy'
+Stack trace:
+Ford_mustang_2024\scripts\4_World/moditemregistercallbacks.c:6 Function RegisterHeavy
+Ford_raptor\scripts\4_World/moditemregistercallbacks.c:6 Function RegisterHeavy
+Ford_raptor_monster\scripts\4_World/moditemregistercallbacks.c:6 Function RegisterHeavy
+Ford_velociraptor_4x4\scripts\4_World/moditemregistercallbacks.c:6 Function RegisterHeavy
+GAZ_2410_offroad\scripts\4_World/moditemregistercallbacks.c:6 Function RegisterHeavy
+Gelentvagen_Maybach\scripts\4_World/moditemregistercallbacks.c:6 Function RegisterHeavy
+Hammer_H1_6x6\scripts\4_World/moditemregistercallbacks.c:6 Function RegisterHeavy
+IZH_27175\scripts\4_World/moditemregistercallbacks.c:6 Function RegisterHeavy
+jeep_gladiator_6x6\scripts\4_World/moditemregistercallbacks.c:6 Function RegisterHeavy
+JGC_G63W463/scripts/4_World/JGC_G63W463/moditemregistercallbacks.c:5 Function RegisterHeavy
+Lada_niv
+19:51:21.263   RESOURCES (E): Failed to open object @"dz/anims/anm/player/ik/vehicles/hatchback/hatchback_Doors_Hood.anm"
+19:51:21.263   RESOURCES (E): Failed to open object @"dz/anims/anm/player/ik/vehicles/v3s/hatchback_02_door_driver.anm"
+19:51:21.263   RESOURCES (E): Failed to open object @"dz/anims/anm/player/ik/vehicles/v3s/hatchback_02_door_codriver.anm"
+19:51:21.263   RESOURCES (E): Failed to open object @"dz/anims/anm/player/ik/vehicles/v3s/hatchback_02_door_driver.anm"
+19:51:21.263   RESOURCES (E): Failed to open object @"dz/anims/anm/player/ik/vehicles/v3s/hatchback_02_door_codriver.anm"
+19:51:21.263   RESOURCES (E): Failed to open object @"dz/anims/anm/player/ik/vehicles/v3s/hatchback_02_door_driver.anm"
+19:51:21.263   RESOURCES (E): Failed to open object @"dz/anims/anm/player/ik/vehicles/v3s/hatchback_02_door_codriver.anm"
+19:51:21.263   RESOURCES (E): Failed to open object @"dz/anims/anm/player/ik/vehicles/v3s/hatchback_02_door_driver.anm"
+19:51:21.263   RESOURCES (E): Failed to open object @"dz/anims/anm/player/ik/vehicles/v3s/hatchback_02_door_codriver.anm"
+19:51:21.264   RESOURCES (E): Failed to open object @"dz/anims/anm/player/ik/vehicles/hatchback/sedan_trunk.anm"
+19:51:21.302 Подключился игрок Survivor (id=x_MJ2w6DZznhQeYHMWeX7_S9NuAxgYSiQqpLVIMNfrA=).
+19:51:21.302 Player "Survivor" (steamID=76561199587900842 pos=<4912.3, 11144.4, 13.5>) is connected
+19:51:21.302 <LOAD EXISTING CHAR>:
+    charID 1
+    playerID 1
+    dpnid 1439719734
+    uid x_MJ2w6DZznhQeYHMWeX7_S9NuAxgYSiQqpLVIMNfrA=
+19:51:21.305 ENTITY    (W): Unknown object class 'pond' (dz\water_sakhal\ice_lake\sakhal_50x50_ice_lake_clear.p3d)
+19:51:21.463 ENTITY    (W): Unknown object class 'pond' (dz\water_sakhal\ice_lake\sakhal_50x50_ice_lake_clear.p3d)
+19:51:21.796 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater_still.p3d)
+19:51:30.953 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+19:51:30.954 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+19:51:30.955 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+19:51:31.252 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+19:51:31.702 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+19:51:32.549 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+19:51:32.549 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+19:51:32.549 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+19:51:34.351 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+19:51:34.351 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+19:51:34.351 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+19:51:34.351 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+19:51:34.351 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+19:51:34.351 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+19:51:34.351 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+19:51:34.351 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+19:51:34.352 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+19:51:34.352 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+19:51:34.352 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+19:51:34.352 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+19:51:34.352 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+19:51:34.352 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+19:51:40.126 ENTITY    (W): Unknown object class 'pond' (dz\water_sakhal\ice_lake\sakhal_50x50_ice_lake_clear.p3d)
+19:51:40.709 ENTITY    (W): Unknown object class 'pond' (dz\water_sakhal\ice_lake\sakhal_50x50_ice_lake_clear.p3d)
+19:51:41.349 Player Survivor (1439719734) kicked from server: 240 ( (Game restart required))
+19:51:41.350 [Disconnect]: Client 1439719734 early disconnect
+19:51:41.350 [Disconnect]: Start script disconnect 1439719734 (dbCharacterId 1 dbPlayerId 1) logoutTime 15
+19:51:41.367 [Disconnect]: Remove player info 1439719734
+19:51:41.369 [Disconnect]: Player destroy 1439719734 
+19:51:41.585 [CE][LootRespawner] (PRIDummy) :: Item [3] causing search overtime: "FarmingHoe"
+19:51:41.785 [CE][LootRespawner] (PRIDummy) :: Item [4] causing search overtime: "dzn_athena3_august"
+19:51:41.885 [CE][LootRespawner] (PRIDummy) :: Item [5] causing search overtime: "dzn_athena3_october"
+19:51:59.261 RESOURCES (E): ==== Resource leaks ====
+19:51:59.261 RESOURCES (E): dz/anims/workspaces/player/player_main/player_main.asi   1
+19:52:00.711  --- Termination successfully completed --- 
