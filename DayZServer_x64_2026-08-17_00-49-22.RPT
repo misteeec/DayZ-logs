@@ -1,0 +1,527 @@
+=====================================================================
+== G:\SteamLibrary\steamapps\common\DayZServer\DayZServer_x64.exe
+== DayZServer_x64.exe -noBattlEye -config=serverDZ.cfg -port=2302 "-profiles=G:\SteamLibrary\steamapps\common\DayZServer\ServerProfiles" -nosplash -noPause "-mod=@CF;@Dabs Framework;@Namalsk Island;@Namalsk Survival;@VPPAdminTools;@VPPAdminTools Ru Translate"
+=====================================================================
+Exe timestamp: 2026/08/15 12:57:52
+Current time:  2026/08/17 00:49:27
+Version 1.29.163709
+=====================================================================
+
+ 0:49:27.375 ENGINE    (W): No module info used, trying to identify -> 0x2EFD0000
+ 0:49:27.376 ENGINE    (W): Adjusting job system settings to have at least one job worker thread.
+ 0:49:27.542 [Inputs] Loading inputs default "bin/constants.xml"
+ 0:49:27.544 [Inputs] Loading inputs default "bin/specific.xml"
+ 0:49:27.546 [Inputs] Loading inputs default "nst/ns_dayz/scripts/Data/Inputs.xml"
+ 0:49:27.546 [Inputs] Loading inputs default "VPPAdminTools/data/modded_Inputs.xml"
+ 0:49:27.547 [Inputs] Loading inputs cfg "G:\SteamLibrary\steamapps\common\DayZServer\ServerProfiles\Users\Survivor\Server.core.xml"
+ 0:49:27.552 [Inputs] Exporting inputs cfg "G:\SteamLibrary\steamapps\common\DayZServer\ServerProfiles\Users\Survivor\Server.core.xml"
+ 0:49:30.00  ANIMATION (E): Can't load @VPPAdminTools Ru Translate/Anims/cfg/skeletons.anim.xml
+ 0:49:30.00  ANIMATION (E): Failed to open file, line 0, column 0
+ 0:49:30.00  ANIMATION (E): Can't load @VPPAdminTools/Anims/cfg/skeletons.anim.xml
+ 0:49:30.00  ANIMATION (E): Failed to open file, line 0, column 0
+ 0:49:30.00  ANIMATION (E): Can't load @Namalsk Survival/Anims/cfg/skeletons.anim.xml
+ 0:49:30.00  ANIMATION (E): Failed to open file, line 0, column 0
+ 0:49:30.00  ANIMATION (E): Can't load @Namalsk Island/Anims/cfg/skeletons.anim.xml
+ 0:49:30.00  ANIMATION (E): Failed to open file, line 0, column 0
+ 0:49:30.00  ANIMATION (E): Can't load @Dabs Framework/Anims/cfg/skeletons.anim.xml
+ 0:49:30.00  ANIMATION (E): Failed to open file, line 0, column 0
+ 0:49:30.00  ANIMATION (E): Can't load @CF/Anims/cfg/skeletons.anim.xml
+ 0:49:30.00  ANIMATION (E): Failed to open file, line 0, column 0
+ 0:49:30.00  ANIMATION (E): Can't load sakhal/Anims/cfg/skeletons.anim.xml
+ 0:49:30.00  ANIMATION (E): Failed to open file, line 0, column 0
+ 0:49:37.594 Hostname of server: "SVOBODA DayZ"
+ 0:49:38.329 NETWORK      : Network simulation
+ 0:49:38.329  Loading landscape 'namalsk'
+ 0:49:38.329   WORLD        : Create entity type 'Land_pas_amps_solo'
+ 0:49:38.329    ENTITY    (E): Type 'HouseType' must be inherited from class 'PASReceiverType'
+ 0:49:38.435   ENTITY       : Load entity type 'land_seb_garage'
+ 0:49:38.435    ENTITY    (W): Door 'doorstwin1' is missing geometry components for selection 'doorstwin1', check model+config
+ 0:49:38.440   ENTITY       : Load entity type 'Land_Container_1Aoh'
+ 0:49:38.440    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+ 0:49:38.442   WORLD        : Create entity type 'Land_radio_panelpas'
+ 0:49:38.442    ENTITY    (E): Type 'HouseType' must be inherited from class 'PASBroadcasterType'
+ 0:49:38.452   ENTITY       : Load entity type 'Land_Factory_Small'
+ 0:49:38.452    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+ 0:49:38.452    ENTITY    (W): Door 'DoorsTwin2' is missing geometry components for selection 'DoorsTwin2', check model+config
+ 0:49:38.471   ENTITY       : Load entity type 'Land_Container_1Bo'
+ 0:49:38.471    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+ 0:49:38.471    ENTITY    (W): Door 'DoorsTwin2' is missing geometry components for selection 'DoorsTwin2', check model+config
+ 0:49:38.472   ENTITY       : Load entity type 'land_budova2_winter'
+ 0:49:38.472    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+ 0:49:38.499   ENTITY       : Load entity type 'Land_Container_1Mo'
+ 0:49:38.499    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+ 0:49:38.499    ENTITY    (W): Door 'DoorsTwin2' is missing geometry components for selection 'DoorsTwin2', check model+config
+ 0:49:38.502   ENTITY       : Load entity type 'land_budova1_winter'
+ 0:49:38.502    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+ 0:49:38.519   WORLD        : Create entity type 'Land_radio_panelbig'
+ 0:49:38.519    ENTITY    (E): Type 'HouseType' must be inherited from class 'StaticTransmitterType'
+ 0:49:38.547   ENTITY       : Load entity type 'land_vys_budova_p1'
+ 0:49:38.547    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+ 0:49:38.548    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+ 0:49:38.549    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+ 0:49:38.566   ENTITY       : Load entity type 'Land_Mil_Barracks3'
+ 0:49:38.566    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+ 0:49:38.567   ENTITY       : Load entity type 'land_budova3'
+ 0:49:38.567    ENTITY    (W): Door 'doorstwin1' is missing geometry components for selection 'doorstwin1', check model+config
+ 0:49:38.574   ENTITY       : Load entity type 'Land_Mil_Barracks1'
+ 0:49:38.574    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+ 0:49:38.651   ENTITY       : Load entity type 'Land_Garage_Small'
+ 0:49:38.651    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+ 0:49:38.666   ENTITY       : Load entity type 'Land_Mil_Barracks5'
+ 0:49:38.666    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+ 0:49:38.762   ENTITY       : Load entity type 'Land_Workshop2'
+ 0:49:38.762    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+ 0:49:38.780   ENTITY       : Load entity type 'Land_Wreck_S1023_Beige'
+ 0:49:38.780    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+ 0:49:38.824   ENTITY       : Load entity type 'Land_Wreck_S1023_Blue'
+ 0:49:38.824    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+ 0:49:38.824   ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater_still.p3d)
+ 0:49:38.898   ENTITY       : Load entity type 'Land_CementWorks_Hall2_Brick'
+ 0:49:38.898    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+ 0:49:38.912   ENTITY       : Load entity type 'Land_Workshop3'
+ 0:49:38.912    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+ 0:49:38.912    ENTITY    (W): Door 'DoorsTwin2' is missing geometry components for selection 'DoorsTwin2', check model+config
+ 0:49:38.929   ENTITY       : Load entity type 'Land_Workshop4'
+ 0:49:38.929    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+ 0:49:38.959   ENTITY       : Load entity type 'Land_Workshop1'
+ 0:49:38.959    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+ 0:49:38.990   ENTITY       : Load entity type 'Land_Airfield_Small_Control'
+ 0:49:38.990    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+ 0:49:38.991    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+ 0:49:38.991    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+ 0:49:38.992    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+ 0:49:39.03    ENTITY    (W): Unknown object class 'pond' (dz\water_sakhal\ice_lake\sakhal_50x50_ice_lake_clear.p3d)
+ 0:49:39.53    ENTITY       : Load entity type 'Land_Office2'
+ 0:49:39.53     ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+ 0:49:39.53     ENTITY    (W): Door 'DoorsTwin2' is missing geometry components for selection 'DoorsTwin2', check model+config
+ 0:49:39.53     ENTITY    (W): Door 'DoorsTwin3' is missing geometry components for selection 'DoorsTwin3', check model+config
+ 0:49:39.53     ENTITY    (W): Door 'DoorsTwin4' is missing geometry components for selection 'DoorsTwin4', check model+config
+ 0:49:39.53     ENTITY    (W): Door 'DoorsTwin5' is missing geometry components for selection 'DoorsTwin5', check model+config
+ 0:49:39.71    ENTITY       : Load entity type 'Land_City_Hospital'
+ 0:49:39.71     ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+ 0:49:39.102   ENTITY       : Load entity type 'Land_Office1'
+ 0:49:39.102    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+ 0:49:39.102    ENTITY    (W): Door 'DoorsTwin2' is missing geometry components for selection 'DoorsTwin2', check model+config
+ 0:49:39.102    ENTITY    (W): Door 'DoorsTwin3' is missing geometry components for selection 'DoorsTwin3', check model+config
+ 0:49:39.102    ENTITY    (W): Door 'DoorsTwin4' is missing geometry components for selection 'DoorsTwin4', check model+config
+ 0:49:39.102    ENTITY    (W): Door 'DoorsTwin5' is missing geometry components for selection 'DoorsTwin5', check model+config
+ 0:49:39.102    ENTITY    (W): Door 'DoorsTwin6' is missing geometry components for selection 'DoorsTwin6', check model+config
+ 0:49:39.102    ENTITY    (W): Door 'DoorsTwin7' is missing geometry components for selection 'DoorsTwin7', check model+config
+ 0:49:39.125   ENTITY       : Load entity type 'Land_Container_1Moh'
+ 0:49:39.125    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+ 0:49:39.154   ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+ 0:49:39.214   ENTITY       : Load entity type 'Land_Garage_Row_Small'
+ 0:49:39.214    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+ 0:49:39.214    ENTITY    (W): Door 'DoorsTwin2' is missing geometry components for selection 'DoorsTwin2', check model+config
+ 0:49:39.214    ENTITY    (W): Door 'DoorsTwin3' is missing geometry components for selection 'DoorsTwin3', check model+config
+ 0:49:39.335   ENTITY       : Load entity type 'Land_City_Store_WithStairs'
+ 0:49:39.335    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+ 0:49:39.335    ENTITY    (W): Door 'DoorsTwin2' is missing geometry components for selection 'DoorsTwin2', check model+config
+ 0:49:39.335    ENTITY    (W): Door 'DoorsTwin3' is missing geometry components for selection 'DoorsTwin3', check model+config
+ 0:49:39.335    ENTITY    (W): Door 'DoorsTwin4' is missing geometry components for selection 'DoorsTwin4', check model+config
+ 0:49:39.335    ENTITY    (W): Door 'DoorsTwin5' is missing geometry components for selection 'DoorsTwin5', check model+config
+ 0:49:39.340   ENTITY       : Load entity type 'land_vor_apartment_high_2'
+ 0:49:39.340    ENTITY    (W): Door 'doorstwin1' is missing geometry components for selection 'doorstwin1', check model+config
+ 0:49:39.354   ENTITY       : Load entity type 'Land_Tenement_Small'
+ 0:49:39.354    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+ 0:49:39.354    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+ 0:49:39.354    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+ 0:49:39.354    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+ 0:49:39.354    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+ 0:49:39.354    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+ 0:49:39.354    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+ 0:49:39.430   ENTITY       : Load entity type 'Land_House_2W04'
+ 0:49:39.430    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+ 0:49:39.441   ENTITY       : Load entity type 'Land_House_1W08_Brown'
+ 0:49:39.441    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+ 0:49:39.441    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+ 0:49:39.441    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+ 0:49:39.501   ENTITY    (W): Unknown object class 'pond' (dz\water_sakhal\ice_lake\sakhal_50x50_ice_lake_clear.p3d)
+ 0:49:39.549   ENTITY       : Load entity type 'Land_Tenement_Big'
+ 0:49:39.549    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+ 0:49:39.549    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+ 0:49:39.549    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+ 0:49:39.550    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+ 0:49:39.550    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+ 0:49:39.550    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+ 0:49:39.550    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+ 0:49:39.550    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+ 0:49:39.550    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+ 0:49:42.497  SCRIPT    (W): scripts/3_Game/undergroundarealoader.c:138 | SpawnAllTriggerCarriers | [WARNING] :: [UndergroundAreaLoader GetData()] :: file not found in MISSION folder, your path is $mission:cfgundergroundtriggers.json Attempting DATA folder
+ 0:49:42.498  SCRIPT    (W): scripts/3_Game/undergroundarealoader.c:138 | SpawnAllTriggerCarriers | [WARNING] :: [UndergroundAreaLoader GetData()] ::file not found in DATA folder, your path is dz/worlds/namalsk/ce/cfgundergroundtriggers.json
+ 0:49:42.562 [CE][Hive] :: Initializing OFFLINE
+ 0:49:42.562 [StorageDirs] :: Selected storage directory: G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\
+ 0:49:42.562 [CE][Hive] :: Loading core data ... 
+ 0:49:42.562 [CE][CoreData] :: 8 root classes, 0 defaults, 0 updaters...
+ 0:49:42.669  ENTITY       : Load entity type 'Land_House_2W02'
+ 0:49:42.669   ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+ 0:49:42.692  ENTITY    (W): Unknown object class 'pond' (dz\water_sakhal\ice_lake\sakhal_50x50_ice_lake_clear.p3d)
+ 0:49:42.714 [CE][Hive] :: Loading map data ... 
+ 0:49:49.52  [CE][TypeSetup] :: 601 classes setuped...
+ 0:49:51.775 [CE][RegisterBind] :: 0 classes binded...
+ 0:49:51.776 [CE][RegisterConfig] :: 11950 config classes registered, 0 sub-counters...
+ 0:49:51.776 [CE][Hive] :: Loading map data ... 
+ 0:49:51.852 [CE][LoadPrototype] :: loaded 256 prototypes
+ 0:49:51.852   404 containers, 7415 points
+ 0:49:51.852   1 dispatches, 1 proxies
+ 0:49:51.852 !!! [CE][LoadPrototype] 1 groups have wrong points...
+ 0:49:51.852 [CE][LoadPrototype] :: last group name: land_frozen_person...
+ 0:49:51.856 [CE][LoadPrototype] :: loaded 0 prototypes
+ 0:49:51.856   38 containers, 66 points
+ 0:49:51.856   0 dispatches, 0 proxies
+ 0:49:51.856 [CE][LoadPrototype] :: last group name: StoneLoc38...
+ 0:49:51.897 [CE][LoadMap] "Group" :: loaded 1445 groups, groups failed: 0, largest group range: 36.4
+ 0:49:51.899 [CE][LoadMap] "Dirt" :: loaded 0 groups, groups failed: 0, largest group range: 36.4
+ 0:49:51.905 [CE][Links] found 472 total links between groups, of 1445
+ 0:49:51.905 [CE][LoadClusters] "Cluster" :: Loading files...
+ 0:49:51.919 [CE][LoadClusters] :: file: "mapgroupcluster.xml", 1 types, 2418 instances
+ 0:49:51.921 [CE][Storage] ver:21 stamp:10, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\types.bin"
+ 0:49:51.922 [CE][Storage] ver:21 stamp:7, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\types.001"
+ 0:49:51.922 [CE][Storage] ver:21 stamp:8, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\types.002"
+ 0:49:51.923 [CE][Storage] Restoring file "G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\types.bin".
+ 0:49:52.51  [CE][offlineDB] :: Loaded 23 dynamic events 177 total types.
+ 0:49:52.69  !!! [CE][offlineDB] :: Type 'ChristmasTree' will be ignored. (Not spawnable. (Scope is not public?))
+ 0:49:52.76  [CE][DE][SPAWNS] :: Total positions: 711
+ 0:49:52.76  [CE][DE][GROUPS] :: Total eventgroups defined: 0, Eventgroups in use: 0
+ 0:49:52.77  [CE][Storage] ver:25 stamp:10, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\events.bin"
+ 0:49:52.78  [CE][Storage] ver:25 stamp:7, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\events.001"
+ 0:49:52.79  [CE][Storage] ver:25 stamp:8, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\events.002"
+ 0:49:52.79  [CE][Storage] Restoring file "G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\events.bin".
+ 0:49:52.79  [CE][DynamicEvent] Load  Events:[23] Primary spawners: 23 Secondary spawners: 0
+ 0:49:52.79  [CE][Storage] ver:26 stamp:10, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_000.bin"
+ 0:49:52.80  [CE][Storage] ver:26 stamp:7, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_000.001"
+ 0:49:52.81  [CE][Storage] ver:26 stamp:8, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_000.002"
+ 0:49:52.81  [CE][Storage] Restoring file "G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_000.bin" 1 items.
+ 0:49:52.83    1 items loaded. (0 failed)
+ 0:49:52.84  [CE][Storage] ver:26 stamp:10, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_001.bin"
+ 0:49:52.85  [CE][Storage] ver:26 stamp:7, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_001.001"
+ 0:49:52.85  [CE][Storage] ver:26 stamp:8, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_001.002"
+ 0:49:52.85  [CE][Storage] Restoring file "G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_001.bin" 30 items.
+ 0:49:52.157   30 items loaded. (0 failed)
+ 0:49:52.158 [CE][Storage] ver:26 stamp:10, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_002.bin"
+ 0:49:52.159 [CE][Storage] ver:26 stamp:7, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_002.001"
+ 0:49:52.160 [CE][Storage] ver:26 stamp:8, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_002.002"
+ 0:49:52.166 [CE][Storage] Restoring file "G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_002.bin" 63 items.
+ 0:49:52.266   63 items loaded. (0 failed)
+ 0:49:52.267 [CE][Storage] ver:26 stamp:10, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_003.bin"
+ 0:49:52.268 [CE][Storage] ver:26 stamp:7, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_003.001"
+ 0:49:52.269 [CE][Storage] ver:26 stamp:8, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_003.002"
+ 0:49:52.269 [CE][Storage] Restoring file "G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_003.bin" 847 items.
+ 0:49:52.490  WORLD        : Create entity type 'Headtorch_Grey'
+ 0:49:52.490   ENTITY    (E): Type 'Inventory_BaseType' must be inherited from class 'ClothingType'
+ 0:49:52.792  WORLD        : Create entity type 'Megaphone'
+ 0:49:52.792   ENTITY    (E): Type 'Inventory_BaseType' must be inherited from class 'ItemMegaphoneType'
+ 0:49:53.111   847 items loaded. (0 failed)
+ 0:49:53.112 [CE][Storage] ver:26 stamp:10, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_004.bin"
+ 0:49:53.113 [CE][Storage] ver:26 stamp:7, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_004.001"
+ 0:49:53.113 [CE][Storage] ver:26 stamp:8, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_004.002"
+ 0:49:53.113 [CE][Storage] Restoring file "G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_004.bin" 1851 items.
+ 0:49:53.436  WORLD        : Create entity type 'Headtorch_Black'
+ 0:49:53.436   ENTITY    (E): Type 'Inventory_BaseType' must be inherited from class 'ClothingType'
+ 0:49:54.305   1851 items loaded. (0 failed)
+ 0:49:54.306 [CE][Storage] ver:26 stamp:10, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_005.bin"
+ 0:49:54.306 [CE][Storage] ver:26 stamp:7, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_005.001"
+ 0:49:54.307 [CE][Storage] ver:26 stamp:8, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_005.002"
+ 0:49:54.308 [CE][Storage] Restoring file "G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_005.bin" 619 items.
+ 0:49:54.660   619 items loaded. (0 failed)
+ 0:49:54.661 [CE][Storage] ver:26 stamp:10, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_006.bin"
+ 0:49:54.662 [CE][Storage] ver:26 stamp:7, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_006.001"
+ 0:49:54.663 [CE][Storage] ver:26 stamp:8, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_006.002"
+ 0:49:54.663 [CE][Storage] Restoring file "G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_006.bin" 2137 items.
+ 0:49:55.969   2137 items loaded. (0 failed)
+ 0:49:55.970 [CE][Storage] ver:26 stamp:10, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_007.bin"
+ 0:49:55.971 [CE][Storage] ver:26 stamp:7, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_007.001"
+ 0:49:55.972 [CE][Storage] ver:26 stamp:8, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_007.002"
+ 0:49:55.972 [CE][Storage] Restoring file "G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_007.bin" 661 items.
+ 0:49:56.33   INVENTORY    : StreamLoad entity PolicePantsOrel:6119
+ 0:49:56.33    WORLD        : Create entity type 'PersonalRadio'
+ 0:49:56.33     ENTITY    (E): Type 'Inventory_BaseType' must be inherited from class 'ItemTransmitterType'
+ 0:49:56.341   661 items loaded. (0 failed)
+ 0:49:56.342 [CE][Storage] ver:26 stamp:10, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_008.bin"
+ 0:49:56.342 [CE][Storage] ver:26 stamp:7, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_008.001"
+ 0:49:56.343 [CE][Storage] ver:26 stamp:8, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_008.002"
+ 0:49:56.344 [CE][Storage] Restoring file "G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_008.bin" 138 items.
+ 0:49:56.428   138 items loaded. (0 failed)
+ 0:49:56.429 [CE][Storage] ver:26 stamp:10, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_009.bin"
+ 0:49:56.430 [CE][Storage] ver:26 stamp:7, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_009.001"
+ 0:49:56.431 [CE][Storage] ver:26 stamp:8, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_009.002"
+ 0:49:56.431 [CE][Storage] Restoring file "G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_009.bin" 0 items.
+ 0:49:56.431   0 items loaded. (0 failed)
+ 0:49:56.432 [CE][Storage] ver:26 stamp:10, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_010.bin"
+ 0:49:56.433 [CE][Storage] ver:26 stamp:7, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_010.001"
+ 0:49:56.433 [CE][Storage] ver:26 stamp:8, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_010.002"
+ 0:49:56.433 [CE][Storage] Restoring file "G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_010.bin" 44 items.
+ 0:49:56.487   44 items loaded. (0 failed)
+ 0:49:56.488 [CE][Storage] ver:26 stamp:10, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_011.bin"
+ 0:49:56.490 [CE][Storage] ver:26 stamp:7, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_011.001"
+ 0:49:56.491 [CE][Storage] ver:26 stamp:8, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_011.002"
+ 0:49:56.491 [CE][Storage] Restoring file "G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_011.bin" 51 items.
+ 0:49:56.526   51 items loaded. (0 failed)
+ 0:49:56.526 [CE][Storage] ver:26 stamp:10, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\building.bin"
+ 0:49:56.527 [CE][Storage] ver:26 stamp:7, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\building.001"
+ 0:49:56.527 [CE][Storage] ver:26 stamp:8, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\building.002"
+ 0:49:56.527 [CE][Storage] Restoring file "G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\building.bin" 0 items.
+ 0:49:56.527   0 items loaded. (0 failed)
+ 0:49:56.528 [CE][Storage] ver:26 stamp:10, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\vehicles.bin"
+ 0:49:56.530 [CE][Storage] ver:26 stamp:7, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\vehicles.001"
+ 0:49:56.531 [CE][Storage] ver:26 stamp:8, valid:yes, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\vehicles.002"
+ 0:49:56.531 [CE][Storage] Restoring file "G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\vehicles.bin" 61 items.
+ 0:49:56.591  ENTITY       : Load entity type 'Land_Rail_Warehouse_Small'
+ 0:49:56.591   ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+ 0:49:56.591   ENTITY    (W): Door 'DoorsTwin2' is missing geometry components for selection 'DoorsTwin2', check model+config
+ 0:49:56.652  WORLD        : Create entity type 'BaseRadio'
+ 0:49:56.652   ENTITY    (E): Type 'Inventory_BaseType' must be inherited from class 'ItemTransmitterType'
+ 0:49:56.696   61 items loaded. (0 failed)
+ 0:49:56.729 [CE][Hive] :: Storage load took:4.66 seconds, recovery stamp:10
+ 0:49:56.730   entity: 7152, building: 0
+ 0:49:56.730   no lifetime: 14
+ 0:49:56.730   pathgraph's: 121
+ 0:49:56.730 [CE][Hive] :: Initializing ... 
+ 0:49:56.762 [CE][InitializeMap] :: initialized: 0
+ 0:49:56.762 [CE][Hive] :: Initializing spawners ... 
+ 0:49:56.763 [CE][LootRespawner] (PRIDummy) :: Initially (re)spawned:0, Nominal:6415, Total in Map: 6530 at 0 (sec)
+ 0:49:56.763   tests:0, repeats:0 fails:0, overtime:0
+ 0:49:56.764  WORLD        : Create entity type 'ZmbM_PatrolNormal_Flat'
+ 0:49:56.764   MATERIAL  (E): Object dz/characters/zombies/z_hermit_m.xob - cannot load material Material_1.emat
+ 0:49:57.132  WORLD        : Create entity type 'Animal_CapraHircusF'
+ 0:49:57.132   ENTITY    (E): Type 'ManType' must be inherited from class 'DayZAnimalType'
+ 0:49:57.140  WORLD        : Create entity type 'Animal_OvisAries'
+ 0:49:57.140   ENTITY    (E): Type 'ManType' must be inherited from class 'DayZAnimalType'
+ 0:49:57.142  WORLD        : Create entity type 'Animal_RangiferTarandus'
+ 0:49:57.142   ENTITY    (E): Type 'ManType' must be inherited from class 'DayZAnimalType'
+ 0:49:57.144  WORLD        : Create entity type 'Animal_RangiferTarandusF'
+ 0:49:57.144   ENTITY    (E): Type 'ManType' must be inherited from class 'DayZAnimalType'
+ 0:49:57.148  WORLD        : Create entity type 'Animal_SusScrofa'
+ 0:49:57.148   ENTITY    (E): Type 'ManType' must be inherited from class 'DayZAnimalType'
+ 0:49:57.151  WORLD        : Create entity type 'Animal_CanisLupus_Grey'
+ 0:49:57.151   ENTITY    (E): Type 'ManType' must be inherited from class 'DayZAnimalType'
+ 0:49:57.159  WORLD        : Create entity type 'Animal_CanisLupus_White'
+ 0:49:57.159   ENTITY    (E): Type 'ManType' must be inherited from class 'DayZAnimalType'
+ 0:49:57.163  WORLD        : Create entity type 'Animal_UrsusArctos'
+ 0:49:57.163   ENTITY    (E): Type 'ManType' must be inherited from class 'DayZAnimalType'
+ 0:49:57.169  WORLD        : Create entity type 'Animal_UrsusMaritimus'
+ 0:49:57.169   ENTITY    (E): Type 'ManType' must be inherited from class 'DayZAnimalType'
+ 0:49:57.172 [CE][DynEvent] :: 23 types
+ 0:49:57.172 [00] Loot
+ 0:49:57.172   Primary Spawner: "Loot", active: yes, repeat: 2
+ 0:49:57.172 [01] StaticMedDrop
+ 0:49:57.172   Primary Spawner: "Static", active: yes, repeat: 1
+ 0:49:57.172 [02] StaticLifeboat
+ 0:49:57.172   Primary Spawner: "Static", active: yes, repeat: 1
+ 0:49:57.172 [03] ItemWoodenPlanks
+ 0:49:57.172   Primary Spawner: "Item", active: yes, repeat: 1
+ 0:49:57.172 [04] TrajectoryStones
+ 0:49:57.172   Primary Spawner: "Trajectory", active: yes, repeat: 1
+ 0:49:57.172 [05] InfectedSanta
+ 0:49:57.172   Primary Spawner: "Infected", active: yes, repeat: 1
+ 0:49:57.172 [06] InfectedArmy
+ 0:49:57.172   Primary Spawner: "Infected", active: yes, repeat: 1
+ 0:49:57.172 [07] InfectedIndustrial
+ 0:49:57.172   Primary Spawner: "Infected", active: yes, repeat: 1
+ 0:49:57.172 [08] InfectedCivil
+ 0:49:57.172   Primary Spawner: "Infected", active: yes, repeat: 1
+ 0:49:57.172 [09] InfectedMedic
+ 0:49:57.172   Primary Spawner: "Infected", active: yes, repeat: 1
+ 0:49:57.172 [10] AnimalGoat
+ 0:49:57.172   Primary Spawner: "Animal", active: yes, repeat: 1
+ 0:49:57.172 [11] AnimalSheep
+ 0:49:57.172   Primary Spawner: "Animal", active: yes, repeat: 1
+ 0:49:57.172 [12] AnimalReindeer
+ 0:49:57.172   Primary Spawner: "Animal", active: yes, repeat: 1
+ 0:49:57.172 [13] AnimalWildBoar
+ 0:49:57.172   Primary Spawner: "Animal", active: yes, repeat: 1
+ 0:49:57.172 [14] AnimalWolf
+ 0:49:57.172   Primary Spawner: "Animal", active: yes, repeat: 1
+ 0:49:57.172 [15] AnimalBrownBear
+ 0:49:57.172   Primary Spawner: "Animal", active: yes, repeat: 1
+ 0:49:57.172 [16] AnimalPolarBear
+ 0:49:57.172   Primary Spawner: "Animal", active: yes, repeat: 1
+ 0:49:57.172 [17] AmbientFox
+ 0:49:57.172   Primary Spawner: "Ambient", active: yes, repeat: 1
+ 0:49:57.172 [18] AmbientHare
+ 0:49:57.172   Primary Spawner: "Ambient", active: yes, repeat: 1
+ 0:49:57.172 [19] VehicleRubberBoats
+ 0:49:57.172   Primary Spawner: "Vehicle", active: yes, repeat: 1
+ 0:49:57.172 [20] VehicleCivilianCars
+ 0:49:57.172   Primary Spawner: "Vehicle", active: yes, repeat: 1
+ 0:49:57.172 [21] VehicleTrucks
+ 0:49:57.172   Primary Spawner: "Vehicle", active: yes, repeat: 1
+ 0:49:57.172 [22] VehicleMilitary
+ 0:49:57.172   Primary Spawner: "Vehicle", active: yes, repeat: 1
+ 0:49:57.172 [CE][Hive] :: Initializing of spawners done.
+ 0:49:57.176 [CE][Hive] :: Init sequence finished.
+ 0:49:57.177 Player connect enabled
+ 0:49:57.224 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+ 0:49:57.224 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+ 0:49:57.228 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+ 0:49:57.228 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+ 0:49:57.229 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+ 0:49:57.229 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+ 0:49:57.229 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+ 0:49:57.230 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+ 0:49:57.230 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+ 0:49:57.230 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+ 0:49:57.230 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+ 0:49:57.231 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+ 0:49:57.231 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+ 0:49:57.231 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+ 0:49:57.231 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+ 0:49:57.238 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+ 0:49:57.238 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+ 0:49:57.459 [IdleMode] Entering IN - save processed
+ 0:49:57.478 ENTITY    (W): Unknown object class 'pond' (dz\water_sakhal\ice_lake\sakhal_50x50_ice_lake_clear.p3d)
+ 0:49:57.486 ENTITY    (W): Unknown object class 'pond' (dz\water_sakhal\ice_lake\sakhal_50x50_ice_lake_clear.p3d)
+ 0:49:57.486 ENTITY    (W): Unknown object class 'pond' (dz\water_sakhal\ice_lake\sakhal_50x50_ice_lake_clear.p3d)
+ 0:49:57.486 ENTITY    (W): Unknown object class 'pond' (dz\water_sakhal\ice_lake\sakhal_50x50_ice_lake_clear.p3d)
+ 0:49:57.596 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+ 0:49:57.597 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+ 0:49:57.597 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+ 0:49:57.597 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+ 0:49:57.598 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+ 0:49:57.598 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+ 0:49:57.598 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+ 0:49:57.599 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+ 0:49:57.599 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+ 0:49:57.599 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+ 0:49:57.599 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+ 0:49:57.599 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+ 0:49:57.599 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+ 0:49:57.600 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+ 0:49:57.600 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+ 0:49:57.600 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+ 0:49:57.601 ENTITY    (W): Unknown object class 'pond' (dz\water_sakhal\ice_lake\sakhal_50x50_ice_lake_clear.p3d)
+ 0:49:57.627 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+ 0:49:57.627 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+ 0:49:57.627 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+ 0:49:57.643 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+ 0:49:57.682 ENTITY    (W): Unknown object class 'pond' (dz\water_sakhal\ice_lake\sakhal_50x50_ice_lake_clear.p3d)
+ 0:49:57.770 ENTITY    (W): Unknown object class 'pond' (dz\water_sakhal\ice_lake\sakhal_50x50_ice_lake_clear.p3d)
+ 0:49:57.772 ENTITY    (W): Unknown object class 'pond' (dz\water_sakhal\ice_lake\sakhal_50x50_ice_lake_clear.p3d)
+ 0:49:57.775 ENTITY       : Load entity type 'land_seb_near_fac7'
+ 0:49:57.775  ENTITY    (W): Door 'doorstwin1' is missing geometry components for selection 'doorstwin1', check model+config
+ 0:49:57.792 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+ 0:49:57.829 ENTITY    (W): Unknown object class 'pond' (dz\water_sakhal\ice_lake\sakhal_50x50_ice_lake_clear.p3d)
+ 0:49:57.904 ENTITY       : Load entity type 'Land_City_School'
+ 0:49:57.904  ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+ 0:49:57.904  ENTITY    (W): Door 'DoorsTwin3' is missing geometry components for selection 'DoorsTwin3', check model+config
+ 0:49:57.904  ENTITY    (W): Door 'DoorsTwin4' is missing geometry components for selection 'DoorsTwin4', check model+config
+ 0:49:57.904  ENTITY    (W): Door 'DoorsTwin5' is missing geometry components for selection 'DoorsTwin5', check model+config
+ 0:49:57.904  ENTITY    (W): Door 'DoorsTwin6' is missing geometry components for selection 'DoorsTwin6', check model+config
+ 0:49:57.904  ENTITY    (W): Door 'DoorsTwin7' is missing geometry components for selection 'DoorsTwin7', check model+config
+ 0:49:57.908  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+ 0:49:57.908  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+ 0:49:57.908  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+ 0:49:57.908  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+ 0:49:57.908  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+ 0:49:57.908  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+ 0:49:57.908  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+ 0:49:57.908  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+ 0:49:57.908  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+ 0:49:57.908  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+ 0:49:57.908  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+ 0:49:57.908  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+ 0:49:57.908  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+ 0:49:57.908  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+ 0:49:57.908  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+ 0:49:57.908  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+ 0:49:57.908  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+ 0:49:57.908  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+ 0:49:57.908  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+ 0:49:57.908  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+ 0:49:57.908  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+ 0:49:57.908  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+ 0:49:57.908  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+ 0:49:57.908  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+ 0:49:57.908  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+ 0:49:57.908  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+ 0:49:57.908  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+ 0:49:57.908  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+ 0:49:57.908  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+ 0:49:57.908  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+ 0:49:57.908  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+ 0:49:57.908  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+ 0:49:57.908  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+ 0:49:57.908  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+ 0:49:57.908  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+ 0:49:57.908  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+ 0:49:57.908  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+ 0:49:57.908  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+ 0:49:57.908  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+ 0:49:57.908  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+ 0:49:57.908  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+ 0:49:57.908  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+ 0:49:57.908  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+ 0:49:57.908  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+ 0:49:57.908  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+ 0:49:57.908  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+ 0:49:57.908  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+ 0:49:57.908  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+ 0:49:57.909  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+ 0:49:57.909  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+ 0:49:57.909  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+ 0:49:58.15  ENTITY       : Load entity type 'Land_Boathouse'
+ 0:49:58.15   ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+ 0:49:58.152 ENTITY       : Load entity type 'Land_Ruin_HouseBig1_NoIvy_Half'
+ 0:49:58.152  ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+ 0:49:58.172 ENTITY       : Load entity type 'Land_Ruin_HouseBig1_NoIvy'
+ 0:49:58.172  ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+ 0:49:58.181 ENTITY       : Load entity type 'Land_Ruin_HouseBig3_NoIvy'
+ 0:49:58.181  ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+ 0:49:58.224 ENTITY       : Load entity type 'Land_Ruin_HouseBig2_NoIvy'
+ 0:49:58.224  ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+ 0:49:58.224  ENTITY    (W): Door 'DoorsTwin2' is missing geometry components for selection 'DoorsTwin2', check model+config
+ 0:49:58.297 ENTITY       : Load entity type 'Land_Ruin_HouseBig3_NoIvy_Half'
+ 0:49:58.297  ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+ 0:50:04.189 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater_still.p3d)
+ 0:50:04.910 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater_still.p3d)
+ 0:50:25.751 ENTITY    (W): Unknown object class 'pond' (dz\water_sakhal\ice_lake\sakhal_50x50_ice_lake_clear.p3d)
+ 0:50:28.385 ENTITY    (W): Unknown object class 'pond' (dz\water_sakhal\ice_lake\sakhal_50x50_ice_lake_clear.p3d)
+ 0:50:33.07  ENTITY    (W): Unknown object class 'pond' (dz\water_sakhal\ice_lake\sakhal_50x50_ice_lake_clear.p3d)
+ 0:50:33.07  ENTITY    (W): Unknown object class 'pond' (dz\water_sakhal\ice_lake\sakhal_50x50_ice_lake_clear.p3d)
+ 0:50:37.847 ENTITY    (W): Unknown object class 'pond' (dz\water_sakhal\ice_lake\sakhal_50x50_ice_lake_clear.p3d)
+ 0:50:39.749 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater_still.p3d)
+ 0:50:40.870 ENTITY       : Load entity type 'Land_Garage_Row_Big'
+ 0:50:40.870  ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+ 0:50:40.870  ENTITY    (W): Door 'DoorsTwin2' is missing geometry components for selection 'DoorsTwin2', check model+config
+ 0:50:40.870  ENTITY    (W): Door 'DoorsTwin3' is missing geometry components for selection 'DoorsTwin3', check model+config
+ 0:50:40.870  ENTITY    (W): Door 'DoorsTwin4' is missing geometry components for selection 'DoorsTwin4', check model+config
+ 0:50:40.882 ENTITY    (W): Unknown object class 'pond' (dz\water_sakhal\ice_lake\sakhal_50x50_ice_lake_clear.p3d)
+ 0:50:47.81  ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+ 0:50:47.81  ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+ 0:50:49.722 ENTITY    (W): Unknown object class 'pond' (dz\water_sakhal\ice_lake\sakhal_50x50_ice_lake_clear.p3d)
+ 0:56:17.614 [Login]: Adding player Survivor (1310635148) to login queue at position 0
+ 0:56:17.614 [LoginMachine]: Add player Survivor (1310635148 192.168.0.103:59178)
+ 0:56:17.614 [StateMachine]: Player Survivor (dpnid 1310635148 uid ) Entering AuthPlayerLoginState
+ 0:56:17.616 [StateMachine]: Player Survivor (dpnid 1310635148 uid ) Entering WaitAuthPlayerLoginState
+ 0:56:17.783 [IdleMode] Leaving OUT
+ 0:56:20.271 Игрок Survivor соединяется.
+ 0:56:20.344 [StateMachine]: Player Survivor (dpnid 1310635148 uid ) Entering WaitPlayerAssignedLoginState
+ 0:56:20.489 [StateMachine]: Player Survivor (dpnid 1310635148 uid ) Entering PlayerAssignedLoginState
+ 0:56:20.489 [StateMachine]: Player Survivor (dpnid 1310635148 uid x_MJ2w6DZznhQeYHMWeX7_S9NuAxgYSiQqpLVIMNfrA=) Entering DBGetLoginTimeLoginState
+ 0:56:20.492 [StateMachine]: Player Survivor (dpnid 1310635148 uid x_MJ2w6DZznhQeYHMWeX7_S9NuAxgYSiQqpLVIMNfrA=) Entering DBWaitLoginTimeLoginState
+ 0:56:35.491 [StateMachine]: Player Survivor (dpnid 1310635148 uid x_MJ2w6DZznhQeYHMWeX7_S9NuAxgYSiQqpLVIMNfrA=) Entering DBGetCharacterLoginState
+ 0:56:35.493 [StateMachine]: Player Survivor (dpnid 1310635148 uid x_MJ2w6DZznhQeYHMWeX7_S9NuAxgYSiQqpLVIMNfrA=) Entering CreateNetObjectsLoginState
+ 0:56:35.495 [StateMachine]: Player Survivor (dpnid 1310635148 uid x_MJ2w6DZznhQeYHMWeX7_S9NuAxgYSiQqpLVIMNfrA=) Entering PreloadCamLoginState
+ 0:56:35.496 [StateMachine]: Player Survivor (dpnid 1310635148 uid x_MJ2w6DZznhQeYHMWeX7_S9NuAxgYSiQqpLVIMNfrA=) Entering WaitPreloadCamLoginState
+ 0:56:38.734 [StateMachine]: Player Survivor (dpnid 1310635148 uid x_MJ2w6DZznhQeYHMWeX7_S9NuAxgYSiQqpLVIMNfrA=) Entering GetLoadedCharLoginState
+ 0:56:38.774 NETWORK      : Network simulation
+ 0:56:38.774  WORLD        : Create entity type 'SurvivorF_Maria'
+ 0:56:38.774   MATERIAL  (E): Object dz/characters/bodies/player_testing.xob - cannot load material cross_red.emat
+ 0:56:41.303 Подключился игрок Survivor (id=x_MJ2w6DZznhQeYHMWeX7_S9NuAxgYSiQqpLVIMNfrA=).
+ 0:56:41.303 Player "Survivor" (steamID=76561199587900842 pos=<8443.8, 10048.1, 8.1>) is connected
+ 0:56:41.304 <LOAD EXISTING CHAR>:
+    charID 1
+    playerID 1
+    dpnid 1310635148
+    uid x_MJ2w6DZznhQeYHMWeX7_S9NuAxgYSiQqpLVIMNfrA=
+ 0:56:42.405 [CE][LootRespawner] (PRIDummy) :: Item [0] causing search overtime: "dzn_netanyas_log"
+ 0:56:43.869 Player Survivor (1310635148) kicked from server: 240 ( (Game restart required))
+ 0:56:43.873 [Disconnect]: Client 1310635148 early disconnect
+ 0:56:43.873 [Disconnect]: Start script disconnect 1310635148 (dbCharacterId 1 dbPlayerId 1) logoutTime 15
+ 0:56:44.304 [Disconnect]: Remove player info 1310635148
+ 0:56:44.305 [Disconnect]: Player destroy 1310635148 
+ 0:56:58.873 [Disconnect]: Finish script disconnect -1 (x_MJ2w6DZznhQeYHMWeX7_S9NuAxgYSiQqpLVIMNfrA=)
+ 0:57:09.308 [CE][LootRespawner] (PRIDummy) :: Item [1] causing search overtime: "dzn_netanyas_log"
+ 0:57:11.793 RESOURCES (E): ==== Resource leaks ====
+ 0:57:11.793 RESOURCES (E): dz/anims/workspaces/player/player_main/player_main.asi   1
+ 0:57:12.634  --- Termination successfully completed --- 
