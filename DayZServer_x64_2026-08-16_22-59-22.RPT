@@ -1,0 +1,1605 @@
+=====================================================================
+== G:\SteamLibrary\steamapps\common\DayZServer\DayZServer_x64.exe
+== DayZServer_x64.exe -config=serverDZ.cfg -port=2302 "-profiles=G:\SteamLibrary\steamapps\common\DayZServer\ServerProfiles" -cpuCount=4 -nosplash -noPause "-mod=@CF;@Dabs Framework;@[CnG]UAZ_452;@[CnG]UAZ_31514;@[CnG]VAZ_2109;@[CrSk] BMW 525i E34;@[CrSk] VAZ-2107;@Armored Vehicle Pack;@AutoCarFlip;@BaseBuildingPlus;@Basic Map;@BMW E38 [FREE];@BMW X5 2000;@BMW_M5_CS;@ChernarusRP AE86;@Code Lock;@DayZ Horse;@DayZ-Expansion;@DayZ-Expansion-BaseBuilding;@DayZ-Expansion-Core;@DayZ-Expansion-Licensed;@Dayz-Expansion-Vehicles;@Expansion Ka52;@GAZ 66 SHISHIGA;@GAZ_Tigr_FIXED;@Gerphelius_CarXFence;@Honda_NSX;@JosiesHiluxZ;@M110;@MBM_ApocalypseTruck;@MBM_GoKart;@MBM_UnderglowLights;@Mercedes-Benz AMG G63 W463;@MMG - Mightys Military Gear;@Namalsk Island;@Namalsk Survival;@Nissan GTR 2015 - FREE TO USE;@RUSForma_vehicles;@SNAFU Weapons;@Survivor Animations;@Syndicate Breaching Charge;@The Complete Ghillie Pack;@Toyota_GT86_RB;@Unknown Ghillie Mod;@VAZ 2107 Yandex Dfift;@VPPAdminTools;@VPPAdminTools Ru Translate;@WindstridesClothingPack;@Zens Core Mod;@Zens Sleeping Mod"
+=====================================================================
+Exe timestamp: 2026/08/15 12:57:52
+Current time:  2026/08/16 22:59:22
+Version 1.29.163709
+=====================================================================
+
+22:59:22.910 ENGINE    (W): Process affinity forced to f
+22:59:48.561 ENGINE    (W): No module info used, trying to identify -> 0x2EFD0000
+22:59:48.561 ENGINE    (W): Adjusting job system settings to have at least one job worker thread.
+22:59:48.752 [Inputs] Loading inputs default "bin/constants.xml"
+22:59:48.755 [Inputs] Loading inputs default "bin/specific.xml"
+22:59:48.756 [Inputs] Loading inputs default "BBP_keybind/data/modded_Inputs.xml"
+22:59:48.757 [Inputs] Loading inputs default "HB_FlipVehicle/Inputs/inputs.xml"
+22:59:48.757 [Inputs] Loading inputs default "nst/ns_dayz/scripts/Data/Inputs.xml"
+22:59:48.757 [Inputs] Loading inputs default "VPPAdminTools/data/modded_Inputs.xml"
+22:59:48.758 [Inputs] Loading inputs default "WindstrideClothing/Inputs.xml"
+22:59:48.759 [Inputs] Loading inputs default "BasicMap/data/Inputs.xml"
+22:59:48.759 [Inputs] Loading inputs default "MBM_UnderglowLights/gui/inputs.xml"
+22:59:48.759 [Inputs] Loading inputs default "DayZExpansion/PlayerList/Scripts/Data/Inputs.xml"
+22:59:48.759 [Inputs] Loading inputs default "DayZExpansion/Scripts/Data/Inputs.xml"
+22:59:48.760 [Inputs] Loading inputs default "DayZExpansion/Vehicles/Scripts/Data/Inputs.xml"
+22:59:48.760 [Inputs] Loading inputs default "Dayz_Horse/Data/Inputs.xml"
+22:59:48.760 [Inputs] Loading inputs default "DayZExpansion/BaseBuilding/Scripts/Data/Inputs.xml"
+22:59:48.761 [Inputs] Loading inputs cfg "G:\SteamLibrary\steamapps\common\DayZServer\ServerProfiles\Users\Survivor\Server.core.xml"
+22:59:48.766 [Inputs] Exporting inputs cfg "G:\SteamLibrary\steamapps\common\DayZServer\ServerProfiles\Users\Survivor\Server.core.xml"
+22:59:48.939 SCRIPT    (W): @"BaseBuildingPlus/scripts/3_Game/bbpconfig.c,143": FIX-ME: Unexpected statement 'ref'
+22:59:48.973 SCRIPT    (W): @"CodeLock/scripts/3_game/dayzgame.c,13": FIX-ME: Method argument can't be strong reference
+22:59:49.84  SCRIPT    (W): @"BasicMap/scripts/3_Game/basicmapcontroller.c,93": FIX-ME: Method argument can't be strong reference
+22:59:49.84  SCRIPT    (W): @"BasicMap/scripts/3_Game/basicmapcontroller.c,93": FIX-ME: Method argument can't be strong reference
+22:59:49.85  SCRIPT    (W): @"BasicMap/scripts/3_Game/basicmapcontroller.c,93": FIX-ME: Method argument can't be strong reference
+22:59:49.85  SCRIPT    (W): @"BasicMap/scripts/3_Game/basicmapcontroller.c,132": FIX-ME: Method argument can't be strong reference
+22:59:49.85  SCRIPT    (W): @"BasicMap/scripts/3_Game/basicmapcontroller.c,132": FIX-ME: Method argument can't be strong reference
+22:59:49.85  SCRIPT    (W): @"BasicMap/scripts/3_Game/basicmapcontroller.c,132": FIX-ME: Method argument can't be strong reference
+22:59:49.85  SCRIPT    (W): @"BasicMap/scripts/3_Game/basicmapcontroller.c,305": FIX-ME: Method argument can't be strong reference
+22:59:49.85  SCRIPT    (W): @"BasicMap/scripts/3_Game/basicmapcontroller.c,447": FIX-ME: Method argument can't be strong reference
+22:59:49.85  SCRIPT    (W): @"BasicMap/scripts/3_Game/basicmapcontroller.c,453": FIX-ME: Method argument can't be strong reference
+22:59:49.87  SCRIPT    (W): @"BasicMap/scripts/3_Game/gui\basicmapmenu.c,556": FIX-ME: Overriding function 'LockControls' but not marked as 'override'
+22:59:53.00  ANIMATION (E): Can't load @Zens Sleeping Mod/Anims/cfg/skeletons.anim.xml
+22:59:53.00  ANIMATION (E): Failed to open file, line 0, column 0
+22:59:53.00  ANIMATION (E): Can't load @Zens Core Mod/Anims/cfg/skeletons.anim.xml
+22:59:53.00  ANIMATION (E): Failed to open file, line 0, column 0
+22:59:53.00  ANIMATION (E): Can't load @WindstridesClothingPack/Anims/cfg/skeletons.anim.xml
+22:59:53.00  ANIMATION (E): Failed to open file, line 0, column 0
+22:59:53.00  ANIMATION (E): Can't load @VPPAdminTools Ru Translate/Anims/cfg/skeletons.anim.xml
+22:59:53.00  ANIMATION (E): Failed to open file, line 0, column 0
+22:59:53.00  ANIMATION (E): Can't load @VPPAdminTools/Anims/cfg/skeletons.anim.xml
+22:59:53.00  ANIMATION (E): Failed to open file, line 0, column 0
+22:59:53.00  ANIMATION (E): Can't load @VAZ 2107 Yandex Dfift/Anims/cfg/skeletons.anim.xml
+22:59:53.00  ANIMATION (E): Failed to open file, line 0, column 0
+22:59:53.00  ANIMATION (E): Can't load @Unknown Ghillie Mod/Anims/cfg/skeletons.anim.xml
+22:59:53.00  ANIMATION (E): Failed to open file, line 0, column 0
+22:59:53.00  ANIMATION (E): Can't load @Toyota_GT86_RB/Anims/cfg/skeletons.anim.xml
+22:59:53.00  ANIMATION (E): Failed to open file, line 0, column 0
+22:59:53.00  ANIMATION (E): Can't load @The Complete Ghillie Pack/Anims/cfg/skeletons.anim.xml
+22:59:53.00  ANIMATION (E): Failed to open file, line 0, column 0
+22:59:53.00  ANIMATION (E): Can't load @Syndicate Breaching Charge/Anims/cfg/skeletons.anim.xml
+22:59:53.00  ANIMATION (E): Failed to open file, line 0, column 0
+22:59:53.00  ANIMATION (E): Can't load @Survivor Animations/Anims/cfg/skeletons.anim.xml
+22:59:53.00  ANIMATION (E): Failed to open file, line 0, column 0
+22:59:53.00  ANIMATION (E): Can't load @SNAFU Weapons/Anims/cfg/skeletons.anim.xml
+22:59:53.00  ANIMATION (E): Failed to open file, line 0, column 0
+22:59:53.00  ANIMATION (E): Can't load @RUSForma_vehicles/Anims/cfg/skeletons.anim.xml
+22:59:53.00  ANIMATION (E): Failed to open file, line 0, column 0
+22:59:53.00  ANIMATION (E): Can't load @Nissan GTR 2015 - FREE TO USE/Anims/cfg/skeletons.anim.xml
+22:59:53.00  ANIMATION (E): Failed to open file, line 0, column 0
+22:59:53.00  ANIMATION (E): Can't load @Namalsk Survival/Anims/cfg/skeletons.anim.xml
+22:59:53.00  ANIMATION (E): Failed to open file, line 0, column 0
+22:59:53.00  ANIMATION (E): Can't load @Namalsk Island/Anims/cfg/skeletons.anim.xml
+22:59:53.00  ANIMATION (E): Failed to open file, line 0, column 0
+22:59:53.00  ANIMATION (E): Can't load @MMG - Mightys Military Gear/Anims/cfg/skeletons.anim.xml
+22:59:53.00  ANIMATION (E): Failed to open file, line 0, column 0
+22:59:53.00  ANIMATION (E): Can't load @Mercedes-Benz AMG G63 W463/Anims/cfg/skeletons.anim.xml
+22:59:53.00  ANIMATION (E): Failed to open file, line 0, column 0
+22:59:53.00  ANIMATION (E): Can't load @MBM_UnderglowLights/Anims/cfg/skeletons.anim.xml
+22:59:53.00  ANIMATION (E): Failed to open file, line 0, column 0
+22:59:53.00  ANIMATION (E): Can't load @MBM_GoKart/Anims/cfg/skeletons.anim.xml
+22:59:53.00  ANIMATION (E): Failed to open file, line 0, column 0
+22:59:53.01  ANIMATION (E): Can't load @MBM_ApocalypseTruck/Anims/cfg/skeletons.anim.xml
+22:59:53.01  ANIMATION (E): Failed to open file, line 0, column 0
+22:59:53.01  ANIMATION (E): Can't load @M110/Anims/cfg/skeletons.anim.xml
+22:59:53.01  ANIMATION (E): Failed to open file, line 0, column 0
+22:59:53.01  ANIMATION (E): Can't load @JosiesHiluxZ/Anims/cfg/skeletons.anim.xml
+22:59:53.01  ANIMATION (E): Failed to open file, line 0, column 0
+22:59:53.01  ANIMATION (E): Can't load @Honda_NSX/Anims/cfg/skeletons.anim.xml
+22:59:53.01  ANIMATION (E): Failed to open file, line 0, column 0
+22:59:53.01  ANIMATION (E): Can't load @Gerphelius_CarXFence/Anims/cfg/skeletons.anim.xml
+22:59:53.01  ANIMATION (E): Failed to open file, line 0, column 0
+22:59:53.01  ANIMATION (E): Can't load @GAZ_Tigr_FIXED/Anims/cfg/skeletons.anim.xml
+22:59:53.01  ANIMATION (E): Failed to open file, line 0, column 0
+22:59:53.01  ANIMATION (E): Can't load @GAZ 66 SHISHIGA/Anims/cfg/skeletons.anim.xml
+22:59:53.01  ANIMATION (E): Failed to open file, line 0, column 0
+22:59:53.01  ANIMATION (E): Can't load @Expansion Ka52/Anims/cfg/skeletons.anim.xml
+22:59:53.01  ANIMATION (E): Failed to open file, line 0, column 0
+22:59:53.01  ANIMATION (E): Can't load @Dayz-Expansion-Vehicles/Anims/cfg/skeletons.anim.xml
+22:59:53.01  ANIMATION (E): Failed to open file, line 0, column 0
+22:59:53.01  ANIMATION (E): Can't load @DayZ-Expansion-Licensed/Anims/cfg/skeletons.anim.xml
+22:59:53.01  ANIMATION (E): Failed to open file, line 0, column 0
+22:59:53.01  ANIMATION (E): Can't load @DayZ-Expansion-Core/Anims/cfg/skeletons.anim.xml
+22:59:53.01  ANIMATION (E): Failed to open file, line 0, column 0
+22:59:53.01  ANIMATION (E): Can't load @DayZ-Expansion-BaseBuilding/Anims/cfg/skeletons.anim.xml
+22:59:53.01  ANIMATION (E): Failed to open file, line 0, column 0
+22:59:53.01  ANIMATION (E): Can't load @DayZ-Expansion/Anims/cfg/skeletons.anim.xml
+22:59:53.01  ANIMATION (E): Failed to open file, line 0, column 0
+22:59:53.41  ANIMATION (E): Can't load @Code Lock/Anims/cfg/skeletons.anim.xml
+22:59:53.41  ANIMATION (E): Failed to open file, line 0, column 0
+22:59:53.41  ANIMATION (E): Can't load @ChernarusRP AE86/Anims/cfg/skeletons.anim.xml
+22:59:53.41  ANIMATION (E): Failed to open file, line 0, column 0
+22:59:53.41  ANIMATION (E): Can't load @BMW_M5_CS/Anims/cfg/skeletons.anim.xml
+22:59:53.41  ANIMATION (E): Failed to open file, line 0, column 0
+22:59:53.41  ANIMATION (E): Can't load @BMW X5 2000/Anims/cfg/skeletons.anim.xml
+22:59:53.41  ANIMATION (E): Failed to open file, line 0, column 0
+22:59:53.41  ANIMATION (E): Can't load @BMW E38 [FREE]/Anims/cfg/skeletons.anim.xml
+22:59:53.41  ANIMATION (E): Failed to open file, line 0, column 0
+22:59:53.41  ANIMATION (E): Can't load @Basic Map/Anims/cfg/skeletons.anim.xml
+22:59:53.41  ANIMATION (E): Failed to open file, line 0, column 0
+22:59:53.41  ANIMATION (E): Can't load @BaseBuildingPlus/Anims/cfg/skeletons.anim.xml
+22:59:53.41  ANIMATION (E): Failed to open file, line 0, column 0
+22:59:53.41  ANIMATION (E): Can't load @AutoCarFlip/Anims/cfg/skeletons.anim.xml
+22:59:53.41  ANIMATION (E): Failed to open file, line 0, column 0
+22:59:53.41  ANIMATION (E): Can't load @Armored Vehicle Pack/Anims/cfg/skeletons.anim.xml
+22:59:53.41  ANIMATION (E): Failed to open file, line 0, column 0
+22:59:53.41  ANIMATION (E): Can't load @[CrSk] VAZ-2107/Anims/cfg/skeletons.anim.xml
+22:59:53.41  ANIMATION (E): Failed to open file, line 0, column 0
+22:59:53.41  ANIMATION (E): Can't load @[CrSk] BMW 525i E34/Anims/cfg/skeletons.anim.xml
+22:59:53.41  ANIMATION (E): Failed to open file, line 0, column 0
+22:59:53.41  ANIMATION (E): Can't load @[CnG]VAZ_2109/Anims/cfg/skeletons.anim.xml
+22:59:53.41  ANIMATION (E): Failed to open file, line 0, column 0
+22:59:53.41  ANIMATION (E): Can't load @[CnG]UAZ_31514/Anims/cfg/skeletons.anim.xml
+22:59:53.41  ANIMATION (E): Failed to open file, line 0, column 0
+22:59:53.41  ANIMATION (E): Can't load @[CnG]UAZ_452/Anims/cfg/skeletons.anim.xml
+22:59:53.41  ANIMATION (E): Failed to open file, line 0, column 0
+22:59:53.41  ANIMATION (E): Can't load @Dabs Framework/Anims/cfg/skeletons.anim.xml
+22:59:53.41  ANIMATION (E): Failed to open file, line 0, column 0
+22:59:53.41  ANIMATION (E): Can't load @CF/Anims/cfg/skeletons.anim.xml
+22:59:53.41  ANIMATION (E): Failed to open file, line 0, column 0
+22:59:53.41  ANIMATION (E): Can't load sakhal/Anims/cfg/skeletons.anim.xml
+22:59:53.41  ANIMATION (E): Failed to open file, line 0, column 0
+22:59:55.202 SCRIPT    (W): @"HB_FlipVehicle/Scripts/4_World/classes\registeractions.c,28": Missing ';' at the end of line
+22:59:55.409 SCRIPT    (W): @"CodeLock/scripts/4_world/entities\codelock.c,308": FIX-ME: Method argument can't be strong reference
+22:59:55.421 SCRIPT    (W): @"kamaz_4310RUS\scripts\4_World/carscript_kamaz_4310rus_cabinmanipulte.c,8": FIX-ME: Overriding function 'IsCabinCanManipulate' but not marked as 'override'
+22:59:55.421 SCRIPT    (W): @"kamaz_4310RUS\scripts\4_World/carscript_kamaz_4310rus_cabinmanipulte.c,13": FIX-ME: Overriding function 'GetCabinAnimationSource' but not marked as 'override'
+22:59:55.421 SCRIPT    (W): @"kamaz_4310RUS\scripts\4_World/carscript_kamaz_4310rus_cabinmanipulte.c,18": FIX-ME: Overriding function 'IsCabinRised' but not marked as 'override'
+22:59:55.421 SCRIPT    (W): @"kamaz_4310RUS\scripts\4_World/carscript_kamaz_4310rus_cabinmanipulte.c,23": FIX-ME: Overriding function 'IsPassengersInCabin' but not marked as 'override'
+22:59:55.421 SCRIPT    (W): @"tractor_UMZ_RUS\scripts\4_World/carscript.c,4": FIX-ME: Overriding function 'HandleDoorsSound' but not marked as 'override'
+22:59:55.471 SCRIPT    (W): @"BaseBuildingPlus/scripts/4_World/basebuildingplusui\entites\manbase\playerbase.c,16": FIX-ME: Overriding function 'ToggleBookReading' but not marked as 'override'
+22:59:55.471 SCRIPT    (W): @"BaseBuildingPlus/scripts/4_World/basebuildingplusui\entites\manbase\playerbase.c,20": FIX-ME: Overriding function 'IsReadingBook' but not marked as 'override'
+22:59:55.493 SCRIPT    (W): @"kamaz_4310RUS\scripts\4_World/static\miscgameplayfunctions.c,6": FIX-ME: Overriding function 'IsInsideCar' but not marked as 'override'
+22:59:55.548 SCRIPT    (W): @"Jeep_Wnagler/scripts/Jeep_Wnagler/jeep_wnagler.c,171": FIX-ME: Overriding function 'GetDoorConditionPointFromSelection' but not marked as 'override'
+22:59:55.595 SCRIPT    (W): @"CodeLock/scripts/4_world/pluginmanager\pluginbase\permissions\codelockpermissionmanager.c,46": FIX-ME: Method argument can't be strong reference
+22:59:55.622 SCRIPT    (W): @"LAPV_tan/scripts/LAPV_tan/lapv_tan.c,270": FIX-ME: Overriding function 'GetDoorConditionPointFromSelection' but not marked as 'override'
+22:59:55.707 SCRIPT    (W): @"Glowler_ITV/scripts/Glowler_ITV/glowler_itv.c,162": FIX-ME: Overriding function 'GetDoorConditionPointFromSelection' but not marked as 'override'
+22:59:55.756 SCRIPT    (W): @"MRAP_Cougar/scripts/MRAP_Cougar/mrap_cougar.c,235": FIX-ME: Overriding function 'GetDoorConditionPointFromSelection' but not marked as 'override'
+22:59:55.763 SCRIPT    (W): @"CodeLock/scripts/4_world/gui\setcodemenu.c,31": FIX-ME: Overriding function 'CheckState' but not marked as 'override'
+22:59:55.772 SCRIPT    (W): @"LAPV_camo/scripts/LAPV_camo/lapv_camo.c,270": FIX-ME: Overriding function 'GetDoorConditionPointFromSelection' but not marked as 'override'
+22:59:55.796 SCRIPT    (W): @"WindstrideClothing/scripts/4_World/namalsk\frostbite.c,4": FIX-ME: Overriding function 'CheckSlotOfInterest' but not marked as 'override'
+22:59:55.802 SCRIPT    (W): @"LAPV_green/scripts/LAPV_green/lapv_green.c,270": FIX-ME: Overriding function 'GetDoorConditionPointFromSelection' but not marked as 'override'
+22:59:55.824 SCRIPT    (W): @"x5_2000\scripts\x5_2000/x5_2000.c,7": FIX-ME: Overriding function 'DashboardShineOn' but not marked as 'override'
+22:59:55.824 SCRIPT    (W): @"x5_2000\scripts\x5_2000/x5_2000.c,31": FIX-ME: Overriding function 'DashboardShineOff' but not marked as 'override'
+22:59:55.825 SCRIPT    (W): @"CodeLock/scripts/4_world/gui\guestcodemenu.c,29": FIX-ME: Overriding function 'SendRPC' but not marked as 'override'
+22:59:55.875 SCRIPT    (W): @"CodeLock/scripts/4_world/gui\claimcodemenu.c,27": FIX-ME: Overriding function 'SendRPC' but not marked as 'override'
+22:59:55.882 SCRIPT    (W): @"LAPV/scripts/LAPV/lapv.c,270": FIX-ME: Overriding function 'GetDoorConditionPointFromSelection' but not marked as 'override'
+22:59:55.888 SCRIPT    (W): @"CodeLock/scripts/4_world/gui\entercodemenu.c,37": FIX-ME: Overriding function 'SendRPC' but not marked as 'override'
+22:59:58.51  SCRIPT    (W): @"CodeLock/scripts/4_world/actions\continuous\actiondestroycodelockontent.c,73": Possible variable name conflict '_Health'
+22:59:58.106 SCRIPT    (W): @"CodeLock/scripts/4_world/actions\continuous\actiondestroycodelockonfence.c,67": Possible variable name conflict '_Health'
+23:00:00.560 SCRIPT    (W): @"MBM_Apocalypse_Truck\scripts\4_World/entities\vehicle\apocalypsetruck.c,262": 'GetController' is obsolete: Use methods directly on Car
+23:00:06.669 SCRIPT    (W): @"Dayz_Horse/Scripts/4_World/dayzplayerimplement.c,180": No need to use 'Cast' for up-casting
+23:00:08.566 WORLD        : Create entity type 'headphones_base'
+23:00:08.566  WORLD        : Create entity type 'PersonalRadio'
+23:00:08.566   ENTITY    (E): Type 'Inventory_BaseType' must be inherited from class 'ItemTransmitterType'
+23:00:10.503 PreloadAnimationSets
+23:00:10.503  ANIMATION    : AnimSetInstance load @"{0F5E6205A5E823C3}dz/anims/workspaces/player/player_main/player_main.asi"
+23:00:10.503   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_cro_CustomAction_01_in.anm"
+23:00:10.503   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_cro_CustomAction_01_loop.anm"
+23:00:10.503   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_cro_CustomAction_01_out.anm"
+23:00:10.503   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomAction_01_in.anm"
+23:00:10.503   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomAction_01_loop.anm"
+23:00:10.503   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomAction_01_out.anm"
+23:00:10.503   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_cro_CustomAction_02_in.anm"
+23:00:10.503   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_cro_CustomAction_02_loop.anm"
+23:00:10.503   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_cro_CustomAction_02_out.anm"
+23:00:10.503   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomAction_02_in.anm"
+23:00:10.503   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomAction_02_loop.anm"
+23:00:10.503   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomAction_02_out.anm"
+23:00:10.503   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_cro_FB_CustomAction_01_in.anm"
+23:00:10.503   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_cro_FB_CustomAction_01_loop.anm"
+23:00:10.503   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_cro_FB_CustomAction_01_out.anm"
+23:00:10.503   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_FB_CustomAction_01_in.anm"
+23:00:10.503   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_FB_CustomAction_01_loop.anm"
+23:00:10.503   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_FB_CustomAction_01_out.anm"
+23:00:10.503   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_cro_FB_CustomAction_02_in.anm"
+23:00:10.503   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_cro_FB_CustomAction_02_loop.anm"
+23:00:10.503   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_cro_FB_CustomAction_02_out.anm"
+23:00:10.504   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_FB_CustomAction_02_in.anm"
+23:00:10.504   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_FB_CustomAction_02_loop.anm"
+23:00:10.504   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_FB_CustomAction_02_out.anm"
+23:00:10.504   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_cro_FB_CustomAction_03_in.anm"
+23:00:10.504   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_cro_FB_CustomAction_03_loop.anm"
+23:00:10.504   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_cro_FB_CustomAction_03_out.anm"
+23:00:10.504   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_FB_CustomAction_03_in.anm"
+23:00:10.504   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_FB_CustomAction_03_loop.anm"
+23:00:10.504   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_FB_CustomAction_03_out.anm"
+23:00:10.504   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_cro_FB_CustomAction_04_in.anm"
+23:00:10.504   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_cro_FB_CustomAction_04_loop.anm"
+23:00:10.504   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_cro_FB_CustomAction_04_out.anm"
+23:00:10.504   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_FB_CustomAction_04_in.anm"
+23:00:10.504   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_FB_CustomAction_04_loop.anm"
+23:00:10.504   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_FB_CustomAction_04_out.anm"
+23:00:10.504   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_cro_FB_CustomAction_05_in.anm"
+23:00:10.504   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_cro_FB_CustomAction_05_loop.anm"
+23:00:10.504   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_cro_FB_CustomAction_05_out.anm"
+23:00:10.504   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_FB_CustomAction_05_in.anm"
+23:00:10.504   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_FB_CustomAction_05_loop.anm"
+23:00:10.504   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_FB_CustomAction_05_out.anm"
+23:00:10.579   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_cro_CustomActionOnce_01.anm"
+23:00:10.580   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomActionOnce_01.anm"
+23:00:10.580   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_pne_FB_CustomActionOnce_01.anm"
+23:00:10.580   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_cro_CustomActionOnce_02.anm"
+23:00:10.580   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomActionOnce_02.anm"
+23:00:10.580   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_pne_FB_CustomActionOnce_02.anm"
+23:00:10.580   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_cro_CustomActionOnce_03.anm"
+23:00:10.580   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomActionOnce_03.anm"
+23:00:10.580   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_pne_FB_CustomActionOnce_03.anm"
+23:00:10.580   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_cro_CustomActionOnce_04.anm"
+23:00:10.580   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomActionOnce_04.anm"
+23:00:10.580   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_pne_FB_CustomActionOnce_04.anm"
+23:00:10.580   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_cro_CustomActionOnce_05.anm"
+23:00:10.580   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomActionOnce_05.anm"
+23:00:10.580   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_pne_FB_CustomActionOnce_05.anm"
+23:00:10.809   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomEmote_01_in.anm"
+23:00:10.809   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomEmote_01_loop.anm"
+23:00:10.809   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomEmote_01_out.anm"
+23:00:10.809   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomEmote_02_in.anm"
+23:00:10.809   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomEmote_02_loop.anm"
+23:00:10.809   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomEmote_02_out.anm"
+23:00:10.809   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomEmote_03_in.anm"
+23:00:10.809   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomEmote_03_loop.anm"
+23:00:10.809   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomEmote_03_out.anm"
+23:00:10.809   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomEmote_04_in.anm"
+23:00:10.809   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomEmote_04_loop.anm"
+23:00:10.809   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomEmote_04_out.anm"
+23:00:10.809   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomEmote_05_in.anm"
+23:00:10.809   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomEmote_05_loop.anm"
+23:00:10.809   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomEmote_05_out.anm"
+23:00:10.809   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomEmote_06_in.anm"
+23:00:10.809   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomEmote_06_loop.anm"
+23:00:10.809   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomEmote_06_out.anm"
+23:00:10.809   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomEmote_07_in.anm"
+23:00:10.809   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomEmote_07_loop.anm"
+23:00:10.809   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomEmote_07_out.anm"
+23:00:10.809   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomEmote_08_in.anm"
+23:00:10.809   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomEmote_08_loop.anm"
+23:00:10.809   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomEmote_08_out.anm"
+23:00:10.809   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomEmote_09_in.anm"
+23:00:10.809   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomEmote_09_loop.anm"
+23:00:10.809   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomEmote_09_out.anm"
+23:00:10.809   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomEmote_10_in.anm"
+23:00:10.809   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomEmote_10_loop.anm"
+23:00:10.809   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomEmote_10_out.anm"
+23:00:10.809   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomEmote_11_in.anm"
+23:00:10.809   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomEmote_11_loop.anm"
+23:00:10.809   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomEmote_11_out.anm"
+23:00:10.810   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomEmote_12_in.anm"
+23:00:10.810   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomEmote_12_loop.anm"
+23:00:10.810   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomEmote_12_out.anm"
+23:00:10.810   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomEmote_13_in.anm"
+23:00:10.810   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomEmote_13_loop.anm"
+23:00:10.810   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomEmote_13_out.anm"
+23:00:10.810   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomEmote_14_in.anm"
+23:00:10.810   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomEmote_14_loop.anm"
+23:00:10.810   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomEmote_14_out.anm"
+23:00:10.810   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomEmote_15_in.anm"
+23:00:10.810   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomEmote_15_loop.anm"
+23:00:10.810   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomEmote_15_out.anm"
+23:00:10.810   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomEmote_16_in.anm"
+23:00:10.810   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomEmote_16_loop.anm"
+23:00:10.810   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomEmote_16_out.anm"
+23:00:10.846   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_cro_CustomEmoteOnce_01.anm"
+23:00:10.846   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomEmoteOnce_01.anm"
+23:00:10.846   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_pne_CustomEmoteOnce_01.anm"
+23:00:10.846   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomEmoteOnce_02.anm"
+23:00:10.846   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomEmoteOnce_03.anm"
+23:00:10.846   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomEmoteOnce_04.anm"
+23:00:10.846   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomEmoteOnce_05.anm"
+23:00:10.846   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomEmoteOnce_06.anm"
+23:00:10.846   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomEmoteOnce_07.anm"
+23:00:10.846   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomEmoteOnce_08.anm"
+23:00:10.846   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomEmoteOnce_09.anm"
+23:00:10.846   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_CustomEmoteOnce_10.anm"
+23:00:10.846   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_cro_FB_CustomEmoteOnce_01.anm"
+23:00:10.846   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_erc_FB_CustomEmoteOnce_01.anm"
+23:00:10.846   RESOURCES (E): Failed to open object @"SurvivorAnimsExtras/animations/extras/p_pne_FB_CustomEmoteOnce_01.anm"
+23:00:12.786 Hostname of server: "SVOBODA DayZ"
+23:00:13.437 NETWORK      : Network simulation
+23:00:13.437  Loading landscape 'namalsk'
+23:00:13.437   WORLD        : Create entity type 'Land_pas_amps_solo'
+23:00:13.437    ENTITY    (E): Type 'HouseType' must be inherited from class 'PASReceiverType'
+23:00:13.612   ENTITY       : Load entity type 'land_seb_garage'
+23:00:13.612    ENTITY    (W): Door 'doorstwin1' is missing geometry components for selection 'doorstwin1', check model+config
+23:00:13.617   ENTITY       : Load entity type 'Land_Container_1Aoh'
+23:00:13.617    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+23:00:13.619   WORLD        : Create entity type 'Land_radio_panelpas'
+23:00:13.619    ENTITY    (E): Type 'HouseType' must be inherited from class 'PASBroadcasterType'
+23:00:13.634   ENTITY       : Load entity type 'Land_Factory_Small'
+23:00:13.634    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+23:00:13.634    ENTITY    (W): Door 'DoorsTwin2' is missing geometry components for selection 'DoorsTwin2', check model+config
+23:00:13.657   ENTITY       : Load entity type 'Land_Container_1Bo'
+23:00:13.657    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+23:00:13.657    ENTITY    (W): Door 'DoorsTwin2' is missing geometry components for selection 'DoorsTwin2', check model+config
+23:00:13.658   ENTITY       : Load entity type 'land_budova2_winter'
+23:00:13.659    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+23:00:13.687   ENTITY       : Load entity type 'Land_Container_1Mo'
+23:00:13.687    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+23:00:13.687    ENTITY    (W): Door 'DoorsTwin2' is missing geometry components for selection 'DoorsTwin2', check model+config
+23:00:13.690   ENTITY       : Load entity type 'land_budova1_winter'
+23:00:13.690    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+23:00:13.708   WORLD        : Create entity type 'Land_radio_panelbig'
+23:00:13.708    ENTITY    (E): Type 'HouseType' must be inherited from class 'StaticTransmitterType'
+23:00:13.731   ENTITY       : Load entity type 'land_vys_budova_p1'
+23:00:13.731    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+23:00:13.731    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+23:00:13.732    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+23:00:13.747   ENTITY       : Load entity type 'Land_Mil_Barracks3'
+23:00:13.747    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+23:00:13.748   ENTITY       : Load entity type 'land_budova3'
+23:00:13.748    ENTITY    (W): Door 'doorstwin1' is missing geometry components for selection 'doorstwin1', check model+config
+23:00:13.754   ENTITY       : Load entity type 'Land_Mil_Barracks1'
+23:00:13.754    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+23:00:13.832   ENTITY       : Load entity type 'Land_Garage_Small'
+23:00:13.832    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+23:00:13.847   ENTITY       : Load entity type 'Land_Mil_Barracks5'
+23:00:13.847    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+23:00:13.944   ENTITY       : Load entity type 'Land_Workshop2'
+23:00:13.944    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+23:00:13.962   ENTITY       : Load entity type 'Land_Wreck_S1023_Beige'
+23:00:13.962    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+23:00:14.10    ENTITY       : Load entity type 'Land_Wreck_S1023_Blue'
+23:00:14.10     ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+23:00:14.10    ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater_still.p3d)
+23:00:14.85    ENTITY       : Load entity type 'Land_CementWorks_Hall2_Brick'
+23:00:14.85     ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+23:00:14.99    ENTITY       : Load entity type 'Land_Workshop3'
+23:00:14.99     ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+23:00:14.99     ENTITY    (W): Door 'DoorsTwin2' is missing geometry components for selection 'DoorsTwin2', check model+config
+23:00:14.114   ENTITY       : Load entity type 'Land_Workshop4'
+23:00:14.115    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+23:00:14.147   ENTITY       : Load entity type 'Land_Workshop1'
+23:00:14.147    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+23:00:14.177   ENTITY       : Load entity type 'Land_Airfield_Small_Control'
+23:00:14.177    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+23:00:14.178    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+23:00:14.179    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+23:00:14.180    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+23:00:14.190   ENTITY    (W): Unknown object class 'pond' (dz\water_sakhal\ice_lake\sakhal_50x50_ice_lake_clear.p3d)
+23:00:14.240   ENTITY       : Load entity type 'Land_Office2'
+23:00:14.240    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+23:00:14.240    ENTITY    (W): Door 'DoorsTwin2' is missing geometry components for selection 'DoorsTwin2', check model+config
+23:00:14.240    ENTITY    (W): Door 'DoorsTwin3' is missing geometry components for selection 'DoorsTwin3', check model+config
+23:00:14.240    ENTITY    (W): Door 'DoorsTwin4' is missing geometry components for selection 'DoorsTwin4', check model+config
+23:00:14.240    ENTITY    (W): Door 'DoorsTwin5' is missing geometry components for selection 'DoorsTwin5', check model+config
+23:00:14.258   ENTITY       : Load entity type 'Land_City_Hospital'
+23:00:14.259    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+23:00:14.292   ENTITY       : Load entity type 'Land_Office1'
+23:00:14.292    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+23:00:14.292    ENTITY    (W): Door 'DoorsTwin2' is missing geometry components for selection 'DoorsTwin2', check model+config
+23:00:14.292    ENTITY    (W): Door 'DoorsTwin3' is missing geometry components for selection 'DoorsTwin3', check model+config
+23:00:14.292    ENTITY    (W): Door 'DoorsTwin4' is missing geometry components for selection 'DoorsTwin4', check model+config
+23:00:14.292    ENTITY    (W): Door 'DoorsTwin5' is missing geometry components for selection 'DoorsTwin5', check model+config
+23:00:14.292    ENTITY    (W): Door 'DoorsTwin6' is missing geometry components for selection 'DoorsTwin6', check model+config
+23:00:14.292    ENTITY    (W): Door 'DoorsTwin7' is missing geometry components for selection 'DoorsTwin7', check model+config
+23:00:14.315   ENTITY       : Load entity type 'Land_Container_1Moh'
+23:00:14.315    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+23:00:14.344   ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+23:00:14.400   ENTITY       : Load entity type 'Land_Garage_Row_Small'
+23:00:14.400    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+23:00:14.400    ENTITY    (W): Door 'DoorsTwin2' is missing geometry components for selection 'DoorsTwin2', check model+config
+23:00:14.400    ENTITY    (W): Door 'DoorsTwin3' is missing geometry components for selection 'DoorsTwin3', check model+config
+23:00:14.429   ENTITY       : Load entity type 'Land_City_Store_WithStairs'
+23:00:14.429    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+23:00:14.429    ENTITY    (W): Door 'DoorsTwin2' is missing geometry components for selection 'DoorsTwin2', check model+config
+23:00:14.429    ENTITY    (W): Door 'DoorsTwin3' is missing geometry components for selection 'DoorsTwin3', check model+config
+23:00:14.429    ENTITY    (W): Door 'DoorsTwin4' is missing geometry components for selection 'DoorsTwin4', check model+config
+23:00:14.429    ENTITY    (W): Door 'DoorsTwin5' is missing geometry components for selection 'DoorsTwin5', check model+config
+23:00:14.434   ENTITY       : Load entity type 'land_vor_apartment_high_2'
+23:00:14.434    ENTITY    (W): Door 'doorstwin1' is missing geometry components for selection 'doorstwin1', check model+config
+23:00:14.457   ENTITY       : Load entity type 'Land_Tenement_Small'
+23:00:14.457    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+23:00:14.457    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+23:00:14.457    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+23:00:14.458    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+23:00:14.458    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+23:00:14.458    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+23:00:14.458    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+23:00:14.534   ENTITY       : Load entity type 'Land_House_2W04'
+23:00:14.534    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+23:00:14.546   ENTITY       : Load entity type 'Land_House_1W08_Brown'
+23:00:14.546    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+23:00:14.546    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+23:00:14.546    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+23:00:14.609   ENTITY    (W): Unknown object class 'pond' (dz\water_sakhal\ice_lake\sakhal_50x50_ice_lake_clear.p3d)
+23:00:14.659   ENTITY       : Load entity type 'Land_Tenement_Big'
+23:00:14.659    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+23:00:14.659    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+23:00:14.660    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+23:00:14.660    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+23:00:14.660    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+23:00:14.660    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+23:00:14.661    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+23:00:14.661    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+23:00:14.661    ENTITY    (W): Unknown object class 'thing' (dz\structures\furniture\eletrical_appliances\washing_machine\washing_machine.p3d)
+23:00:17.11   SCRIPT    (W): @"HB_FlipVehicle/Scripts/5_Mission/missiongameplay.c,93": Missing ';' at the end of line
+23:00:17.33   SCRIPT    (W): @"HB_FlipVehicle/Scripts/5_Mission/missiongameplay.c,9": FIX-ME: Method argument can't be strong reference
+23:00:17.33   SCRIPT    (W): @"HB_FlipVehicle/Scripts/5_Mission/missiongameplay.c,9": FIX-ME: Method argument can't be strong reference
+23:00:17.33   SCRIPT    (W): @"HB_FlipVehicle/Scripts/5_Mission/missiongameplay.c,9": FIX-ME: Method argument can't be strong reference
+23:00:17.84   SCRIPT    (W): @"WindstrideClothing/scripts/5_Mission/windstride\namalsk\playercontainer.c,4": FIX-ME: Overriding function 'CheckSlotOfInterest' but not marked as 'override'
+23:00:18.579  SCRIPT    (W): scripts/3_Game/undergroundarealoader.c:138 | SpawnAllTriggerCarriers | [WARNING] :: [UndergroundAreaLoader GetData()] :: file not found in MISSION folder, your path is $mission:cfgundergroundtriggers.json Attempting DATA folder
+23:00:18.579  SCRIPT    (W): scripts/3_Game/undergroundarealoader.c:138 | SpawnAllTriggerCarriers | [WARNING] :: [UndergroundAreaLoader GetData()] ::file not found in DATA folder, your path is dz/worlds/namalsk/ce/cfgundergroundtriggers.json
+23:00:18.749 [CE][Hive] :: Initializing OFFLINE
+23:00:18.749 [StorageDirs] :: Selected storage directory: G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\
+23:00:18.749 [CE][Hive] :: Loading core data ... 
+23:00:18.750 [CE][CoreData] :: 8 root classes, 0 defaults, 0 updaters...
+23:00:18.759 [CE][offlineDB] :: Conversion of characters started.
+23:00:18.764 [CE][offlineDB] :: Processing 0 players.
+23:00:18.764 [CE][offlineDB] :: Conversion of characters successfully completed.
+23:00:18.862  ENTITY       : Load entity type 'Land_House_2W02'
+23:00:18.862   ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+23:00:18.887  ENTITY    (W): Unknown object class 'pond' (dz\water_sakhal\ice_lake\sakhal_50x50_ice_lake_clear.p3d)
+23:00:18.907 [CE][Hive] :: Loading map data ... 
+23:00:29.188 [CE][TypeSetup] :: 601 classes setuped...
+23:00:35.627 [CE][RegisterBind] :: 0 classes binded...
+23:00:35.627 [CE][RegisterConfig] :: 18958 config classes registered, 0 sub-counters...
+23:00:35.627 [CE][Hive] :: Loading map data ... 
+23:00:35.709 [CE][LoadPrototype] :: loaded 256 prototypes
+23:00:35.709   404 containers, 7415 points
+23:00:35.709   1 dispatches, 1 proxies
+23:00:35.709 !!! [CE][LoadPrototype] 1 groups have wrong points...
+23:00:35.709 [CE][LoadPrototype] :: last group name: land_frozen_person...
+23:00:35.713 [CE][LoadPrototype] :: loaded 0 prototypes
+23:00:35.713   38 containers, 66 points
+23:00:35.713   0 dispatches, 0 proxies
+23:00:35.713 [CE][LoadPrototype] :: last group name: StoneLoc38...
+23:00:35.750 [CE][LoadMap] "Group" :: loaded 1445 groups, groups failed: 0, largest group range: 36.4
+23:00:35.751 [CE][LoadMap] "Dirt" :: loaded 0 groups, groups failed: 0, largest group range: 36.4
+23:00:35.757 [CE][Links] found 472 total links between groups, of 1445
+23:00:35.757 [CE][LoadClusters] "Cluster" :: Loading files...
+23:00:35.768 [CE][LoadClusters] :: file: "mapgroupcluster.xml", 1 types, 2418 instances
+23:00:35.769 [CE][Storage] ver:0 stamp:0, valid:NO, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\types.bin"
+23:00:35.769 [CE][Storage] ver:0 stamp:0, valid:NO, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\types.001"
+23:00:35.770 [CE][Storage] ver:0 stamp:0, valid:NO, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\types.002"
+23:00:35.773 [CE][offlineDB] :: Loaded 23 dynamic events 177 total types.
+23:00:35.798 !!! [CE][offlineDB] :: Type 'ChristmasTree' will be ignored. (Not spawnable. (Scope is not public?))
+23:00:35.810 [CE][DE][SPAWNS] :: Total positions: 711
+23:00:35.810 [CE][DE][GROUPS] :: Total eventgroups defined: 0, Eventgroups in use: 0
+23:00:35.810 [CE][Storage] ver:0 stamp:0, valid:NO, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\events.bin"
+23:00:35.810 [CE][Storage] ver:0 stamp:0, valid:NO, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\events.001"
+23:00:35.811 [CE][Storage] ver:0 stamp:0, valid:NO, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\events.002"
+23:00:35.811 [CE][Storage] ver:0 stamp:0, valid:NO, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_000.bin"
+23:00:35.812 [CE][Storage] ver:0 stamp:0, valid:NO, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_000.001"
+23:00:35.813 [CE][Storage] ver:0 stamp:0, valid:NO, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_000.002"
+23:00:35.813 [CE][Storage] ver:0 stamp:0, valid:NO, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_001.bin"
+23:00:35.814 [CE][Storage] ver:0 stamp:0, valid:NO, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_001.001"
+23:00:35.814 [CE][Storage] ver:0 stamp:0, valid:NO, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_001.002"
+23:00:35.814 [CE][Storage] ver:0 stamp:0, valid:NO, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_002.bin"
+23:00:35.814 [CE][Storage] ver:0 stamp:0, valid:NO, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_002.001"
+23:00:35.814 [CE][Storage] ver:0 stamp:0, valid:NO, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_002.002"
+23:00:35.815 [CE][Storage] ver:0 stamp:0, valid:NO, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_003.bin"
+23:00:35.816 [CE][Storage] ver:0 stamp:0, valid:NO, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_003.001"
+23:00:35.817 [CE][Storage] ver:0 stamp:0, valid:NO, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_003.002"
+23:00:35.817 [CE][Storage] ver:0 stamp:0, valid:NO, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_004.bin"
+23:00:35.817 [CE][Storage] ver:0 stamp:0, valid:NO, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_004.001"
+23:00:35.818 [CE][Storage] ver:0 stamp:0, valid:NO, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_004.002"
+23:00:35.818 [CE][Storage] ver:0 stamp:0, valid:NO, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_005.bin"
+23:00:35.819 [CE][Storage] ver:0 stamp:0, valid:NO, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_005.001"
+23:00:35.819 [CE][Storage] ver:0 stamp:0, valid:NO, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_005.002"
+23:00:35.820 [CE][Storage] ver:0 stamp:0, valid:NO, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_006.bin"
+23:00:35.820 [CE][Storage] ver:0 stamp:0, valid:NO, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_006.001"
+23:00:35.820 [CE][Storage] ver:0 stamp:0, valid:NO, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_006.002"
+23:00:35.820 [CE][Storage] ver:0 stamp:0, valid:NO, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_007.bin"
+23:00:35.821 [CE][Storage] ver:0 stamp:0, valid:NO, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_007.001"
+23:00:35.821 [CE][Storage] ver:0 stamp:0, valid:NO, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_007.002"
+23:00:35.822 [CE][Storage] ver:0 stamp:0, valid:NO, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_008.bin"
+23:00:35.822 [CE][Storage] ver:0 stamp:0, valid:NO, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_008.001"
+23:00:35.822 [CE][Storage] ver:0 stamp:0, valid:NO, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_008.002"
+23:00:35.823 [CE][Storage] ver:0 stamp:0, valid:NO, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_009.bin"
+23:00:35.823 [CE][Storage] ver:0 stamp:0, valid:NO, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_009.001"
+23:00:35.824 [CE][Storage] ver:0 stamp:0, valid:NO, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_009.002"
+23:00:35.824 [CE][Storage] ver:0 stamp:0, valid:NO, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_010.bin"
+23:00:35.824 [CE][Storage] ver:0 stamp:0, valid:NO, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_010.001"
+23:00:35.824 [CE][Storage] ver:0 stamp:0, valid:NO, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_010.002"
+23:00:35.825 [CE][Storage] ver:0 stamp:0, valid:NO, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_011.bin"
+23:00:35.825 [CE][Storage] ver:0 stamp:0, valid:NO, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_011.001"
+23:00:35.826 [CE][Storage] ver:0 stamp:0, valid:NO, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\dynamic_011.002"
+23:00:35.827 [CE][Storage] ver:0 stamp:0, valid:NO, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\building.bin"
+23:00:35.827 [CE][Storage] ver:0 stamp:0, valid:NO, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\building.001"
+23:00:35.827 [CE][Storage] ver:0 stamp:0, valid:NO, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\building.002"
+23:00:35.828 [CE][Storage] ver:0 stamp:0, valid:NO, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\vehicles.bin"
+23:00:35.828 [CE][Storage] ver:0 stamp:0, valid:NO, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\vehicles.001"
+23:00:35.829 [CE][Storage] ver:0 stamp:0, valid:NO, name:"G:\SteamLibrary\steamapps\common\DayZServer\mpmissions\regular.namalsk\storage_4\data\vehicles.002"
+23:00:35.830 [CE][Hive] :: Empty storage folder, reinitializing ... 
+23:00:35.831 [CE][Hive] :: Initializing ... 
+23:00:35.834 [CE][InitializeMap] :: initialized: 0
+23:00:35.834 [CE][Hive] :: Initializing spawners ... 
+23:00:35.983  ENTITY    (W): Unknown object class 'pond' (dz\water_sakhal\ice_lake\sakhal_50x50_ice_lake_clear.p3d)
+23:00:36.01   ENTITY       : Load entity type 'Land_Ruin_HouseBig1_NoIvy_Half'
+23:00:36.01    ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+23:00:36.97   ENTITY    (W): Unknown object class 'pond' (dz\water_sakhal\ice_lake\sakhal_50x50_ice_lake_clear.p3d)
+23:00:36.117  ENTITY    (W): Unknown object class 'pond' (dz\water_sakhal\ice_lake\sakhal_50x50_ice_lake_clear.p3d)
+23:00:36.242  ENTITY       : Load entity type 'Land_Ruin_HouseBig1_NoIvy'
+23:00:36.242   ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+23:00:36.248  ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+23:00:36.249  ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+23:00:36.255  ENTITY    (W): Unknown object class 'pond' (dz\water_sakhal\ice_lake\sakhal_50x50_ice_lake_clear.p3d)
+23:00:36.319  WORLD        : Create entity type 'headtorch_grey'
+23:00:36.319   ENTITY    (E): Type 'Inventory_BaseType' must be inherited from class 'ClothingType'
+23:00:36.357  PHYSICS   (W): While attempting to remove proxy physics for the selection 'codelock', the corresponding bone could not be found in the shape 'dz\gear\camping\cartent.p3d'
+23:00:36.358  PHYSICS   (W): While attempting to remove proxy physics for the selection 'codelock', the corresponding bone could not be found in the shape 'dz\gear\camping\cartent.p3d'
+23:00:36.359  PHYSICS   (W): While attempting to remove proxy physics for the selection 'codelock', the corresponding bone could not be found in the shape 'dz\gear\camping\cartent.p3d'
+23:00:36.359  PHYSICS   (W): While attempting to remove proxy physics for the selection 'codelock', the corresponding bone could not be found in the shape 'dz\gear\camping\cartent.p3d'
+23:00:36.459  ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+23:00:36.571  ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+23:00:36.571  ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+23:00:36.572  ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+23:00:36.573  ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+23:00:36.651 [CE][LootRespawner] (PRIDummy) :: Item [0] is hard to place, performance drops: "GCGN_Vepr"
+23:00:36.672  ENTITY    (W): Unknown object class 'pond' (dz\water_sakhal\ice_lake\sakhal_50x50_ice_lake_clear.p3d)
+23:00:36.678 [CE][LootRespawner] (PRIDummy) :: Item [1] is hard to place, performance drops: "Spas12_Gun"
+23:00:36.686 [CE][LootRespawner] (PRIDummy) :: Item [2] is hard to place, performance drops: "SNAFUHoneyBadger_Tan"
+23:00:36.706 [CE][LootRespawner] (PRIDummy) :: Item [3] is hard to place, performance drops: "SNAFU_M1918A2"
+23:00:36.780 [CE][LootRespawner] (PRIDummy) :: Item [4] is hard to place, performance drops: "SNAFUAR15_SPR_Black_GUN"
+23:00:36.797 [CE][LootRespawner] (PRIDummy) :: Item [5] is hard to place, performance drops: "GCGN_M4A1"
+23:00:36.804 [CE][LootRespawner] (PRIDummy) :: Item [6] is hard to place, performance drops: "SNAFUT5000_Dkmcc_GUN"
+23:00:36.804 [CE][LootRespawner] (PRIDummy) :: Item [7] is hard to place, performance drops: "SNAFUT5000_Dkmcc_GUN"
+23:00:36.816 [CE][LootRespawner] (PRIDummy) :: Item [8] is hard to place, performance drops: "SNAFU_MK4710Gun"
+23:00:36.816 [CE][LootRespawner] (PRIDummy) :: Item [9] is hard to place, performance drops: "SNAFU_MK4710Gun"
+23:00:36.944 [CE][LootRespawner] (PRIDummy) :: Item [10] is hard to place, performance drops: "SNAFUThompsonMk2"
+23:00:36.951 !!! [CE][Point] Removing 5032.167480, 8197.083984 from land_wrecked_ural_onside
+23:00:37.80   ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+23:00:37.87   ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+23:00:37.102 [CE][LootRespawner] (PRIDummy) :: Item [11] is hard to place, performance drops: "SNAFUKH9"
+23:00:37.168 [CE][LootRespawner] (PRIDummy) :: Item [0] causing search overtime: "BloodBagEmpty"
+23:00:37.198 [CE][LootRespawner] (PRIDummy) :: Item [12] is hard to place, performance drops: "Snafu_PKP_Black_GUN"
+23:00:37.198 [CE][LootRespawner] (PRIDummy) :: Item [13] is hard to place, performance drops: "Snafu_PKP_Black_GUN"
+23:00:37.201 [CE][LootRespawner] (PRIDummy) :: Item [14] is hard to place, performance drops: "NavyUniformJacket"
+23:00:37.291 [CE][LootRespawner] (PRIDummy) :: Item [15] is hard to place, performance drops: "SNAFURSASS_Wood_GUN"
+23:00:37.304 [CE][LootRespawner] (PRIDummy) :: Item [16] is hard to place, performance drops: "SNAFU_AK19"
+23:00:37.327  ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+23:00:37.327  ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+23:00:37.327  ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+23:00:37.327  ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+23:00:37.357 [CE][LootRespawner] (PRIDummy) :: Item [17] is hard to place, performance drops: "SNAFUKivaari_Tan_GUN"
+23:00:37.368 [CE][LootRespawner] (PRIDummy) :: Item [18] is hard to place, performance drops: "NavyUniformPants"
+23:00:37.375 [CE][LootRespawner] (PRIDummy) :: Item [19] is hard to place, performance drops: "Sweater_Red"
+23:00:37.411 [CE][LootRespawner] (PRIDummy) :: Item [20] is hard to place, performance drops: "GorkaEJacket_Summer"
+23:00:37.452 [CE][LootRespawner] (PRIDummy) :: Item [1] causing search overtime: "SNAFU_Agram_32rnd_Mag"
+23:00:37.452 [CE][LootRespawner] (PRIDummy) :: Item [2] causing search overtime: "SNAFU_AKNightforce"
+23:00:37.454 [CE][LootRespawner] (PRIDummy) :: Item [21] is hard to place, performance drops: "Tripod"
+23:00:37.459 [CE][LootRespawner] (PRIDummy) :: Item [3] causing search overtime: "SNAFU_TP82S"
+23:00:37.459 [CE][LootRespawner] (PRIDummy) :: Item [4] causing search overtime: "SNAFU_LNormalized_Suppressor_Black"
+23:00:37.487 [CE][LootRespawner] (PRIDummy) :: Item [5] causing search overtime: "SNAFU_RPK16_Tan"
+23:00:37.491 [CE][LootRespawner] (PRIDummy) :: Item [6] causing search overtime: "SNAFUMk12_20rdMag"
+23:00:37.498 [CE][LootRespawner] (PRIDummy) :: Item [7] causing search overtime: "SNAFUThompsonMk2_30rdMag"
+23:00:37.524 [CE][LootRespawner] (PRIDummy) :: Item [8] causing search overtime: "SNAFU_GADAR"
+23:00:37.530 [CE][LootRespawner] (PRIDummy) :: Item [9] causing search overtime: "SNAFU_BMAG300_Black"
+23:00:37.546 [CE][LootRespawner] (PRIDummy) :: Item [10] causing search overtime: "SNAFU_AKTango6T_Tan"
+23:00:37.546 [CE][LootRespawner] (PRIDummy) :: Item [11] causing search overtime: "SNAFUM1A_Black"
+23:00:37.577 [CE][LootRespawner] (PRIDummy) :: Item [12] causing search overtime: "SNAFU_MTango6T_Tan"
+23:00:37.580  PHYSICS   (W): While attempting to remove proxy physics for the selection 'codelock', the corresponding bone could not be found in the shape 'dz\gear\camping\mediumtent.p3d'
+23:00:37.581  PHYSICS   (W): While attempting to remove proxy physics for the selection 'codelock', the corresponding bone could not be found in the shape 'dz\gear\camping\mediumtent.p3d'
+23:00:37.583  PHYSICS   (W): While attempting to remove proxy physics for the selection 'codelock', the corresponding bone could not be found in the shape 'dz\gear\camping\mediumtent.p3d'
+23:00:37.584  PHYSICS   (W): While attempting to remove proxy physics for the selection 'codelock', the corresponding bone could not be found in the shape 'dz\gear\camping\mediumtent.p3d'
+23:00:37.585  PHYSICS   (W): While attempting to remove proxy physics for the selection 'codelock', the corresponding bone could not be found in the shape 'dz\gear\camping\mediumtent.p3d'
+23:00:37.585 [CE][LootRespawner] (PRIDummy) :: Item [13] causing search overtime: "SNAFUM1A_20rdMag"
+23:00:37.585 [CE][LootRespawner] (PRIDummy) :: Item [14] causing search overtime: "SNAFUM98B_Mag"
+23:00:37.591 [CE][LootRespawner] (PRIDummy) :: Item [22] is hard to place, performance drops: "BomberJacket_SkyBlue"
+23:00:37.601 [CE][LootRespawner] (PRIDummy) :: Item [15] causing search overtime: "SNAFUMPX_Grip"
+23:00:37.601 [CE][LootRespawner] (PRIDummy) :: Item [16] causing search overtime: "SNAFU_Walther"
+23:00:37.611 [CE][LootRespawner] (PRIDummy) :: Item [17] causing search overtime: "SNAFU_Aimpoint_M5"
+23:00:37.613 [CE][LootRespawner] (PRIDummy) :: Item [23] is hard to place, performance drops: "BalaclavaMask_Beige"
+23:00:37.616 [CE][LootRespawner] (PRIDummy) :: Item [18] causing search overtime: "SNAFU_AK_AR_Stock"
+23:00:37.616 [CE][LootRespawner] (PRIDummy) :: Item [19] causing search overtime: "SNAFU_LStandardized_Suppressor_Green"
+23:00:37.617 [CE][LootRespawner] (PRIDummy) :: Item [24] is hard to place, performance drops: "Hoodie_Blue"
+23:00:37.649 [CE][LootRespawner] (PRIDummy) :: Item [20] causing search overtime: "SNAFU_MTango6T_Black"
+23:00:37.656 [CE][LootRespawner] (PRIDummy) :: Item [21] causing search overtime: "SNAFU_AKHuntingOptic"
+23:00:37.659 [CE][LootRespawner] (PRIDummy) :: Item [22] causing search overtime: "SNAFU_AKTrijicon"
+23:00:37.659 [CE][LootRespawner] (PRIDummy) :: Item [23] causing search overtime: "SNAFU_MKahles"
+23:00:37.664 [CE][LootRespawner] (PRIDummy) :: Item [24] causing search overtime: "SNAFU_FRF2"
+23:00:37.666 [CE][LootRespawner] (PRIDummy) :: Item [25] causing search overtime: "SNAFU_MAimpoint_M5"
+23:00:37.672 [CE][LootRespawner] (PRIDummy) :: Item [26] causing search overtime: "SN_Springfield_Mag"
+23:00:37.684 [CE][LootRespawner] (PRIDummy) :: Item [27] causing search overtime: "SNAFU_MP9_GUN"
+23:00:37.684 [CE][LootRespawner] (PRIDummy) :: Item [28] causing search overtime: "SNAFUASh12"
+23:00:37.686 [CE][LootRespawner] (PRIDummy) :: Item [25] is hard to place, performance drops: "HuntingJacket_Autumn"
+23:00:37.702 [CE][LootRespawner] (PRIDummy) :: Item [29] causing search overtime: "SNAFUVSSK"
+23:00:37.702 [CE][LootRespawner] (PRIDummy) :: Item [30] causing search overtime: "SNAFU_M200B_BK"
+23:00:37.735 [CE][LootRespawner] (PRIDummy) :: Item [31] causing search overtime: "SNAFU_U100_Mag"
+23:00:37.742 [CE][LootRespawner] (PRIDummy) :: Item [32] causing search overtime: "GCGN_HK416"
+23:00:37.742 [CE][LootRespawner] (PRIDummy) :: Item [33] causing search overtime: "SNAFU_HAimpoint_ACO"
+23:00:37.742 [CE][LootRespawner] (PRIDummy) :: Item [26] is hard to place, performance drops: "SlacksPants_Blue"
+23:00:37.742 [CE][LootRespawner] (PRIDummy) :: Item [27] is hard to place, performance drops: "SlacksPants_Blue"
+23:00:37.742 [CE][LootRespawner] (PRIDummy) :: Item [28] is hard to place, performance drops: "SlacksPants_Blue"
+23:00:37.743 [CE][LootRespawner] (PRIDummy) :: Item [29] is hard to place, performance drops: "SlacksPants_Blue"
+23:00:37.756 [CE][LootRespawner] (PRIDummy) :: Item [34] causing search overtime: "SNAFU_ScarH_100RND_Mag_Tan"
+23:00:37.756 [CE][LootRespawner] (PRIDummy) :: Item [35] causing search overtime: "SNAFU_AKLeupold_Mark8"
+23:00:37.756 [CE][LootRespawner] (PRIDummy) :: Item [36] causing search overtime: "SNHK417_Mag"
+23:00:37.766 !!! [CE][Point] Removing 7662.071289, 8789.262695 from land_hiluxT
+23:00:37.766 [CE][LootRespawner] (PRIDummy) :: Item [30] is hard to place, performance drops: "MetalWire"
+23:00:37.776 [CE][LootRespawner] (PRIDummy) :: Item [37] causing search overtime: "GCGN_MP7_40Rnd"
+23:00:37.776 [CE][LootRespawner] (PRIDummy) :: Item [38] causing search overtime: "SNAFU_M200S_Green"
+23:00:37.779 [CE][LootRespawner] (PRIDummy) :: Item [39] causing search overtime: "SNAFU_CZ805_Gun"
+23:00:37.789 [CE][LootRespawner] (PRIDummy) :: Item [40] causing search overtime: "SNAFU_SKS_10Rnd_Mag"
+23:00:37.797  WORLD        : Create entity type 'Megaphone'
+23:00:37.797   ENTITY    (E): Type 'Inventory_BaseType' must be inherited from class 'ItemMegaphoneType'
+23:00:37.806 [CE][LootRespawner] (PRIDummy) :: Item [41] causing search overtime: "SNAFU_PMAG556_OD"
+23:00:37.815 [CE][LootRespawner] (PRIDummy) :: Item [42] causing search overtime: "SNAFU_MEOTech_EXPS3"
+23:00:37.819 [CE][LootRespawner] (PRIDummy) :: Item [43] causing search overtime: "SN_Glock19"
+23:00:37.828 [CE][LootRespawner] (PRIDummy) :: Item [31] is hard to place, performance drops: "CargoPants_Grey"
+23:00:37.834 [CE][LootRespawner] (PRIDummy) :: Item [32] is hard to place, performance drops: "Bandana_RedPattern"
+23:00:37.836 [CE][LootRespawner] (PRIDummy) :: Item [44] causing search overtime: "SNAFUUzi_32rdMag"
+23:00:37.846 [CE][LootRespawner] (PRIDummy) :: Item [45] causing search overtime: "SNAFU_Fort12_GUN"
+23:00:37.846 [CE][LootRespawner] (PRIDummy) :: Item [46] causing search overtime: "GCGN_M82_Mag"
+23:00:37.848 [CE][LootRespawner] (PRIDummy) :: Item [47] causing search overtime: "SNAFU_M4556_Modular16_GUN"
+23:00:37.855  ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+23:00:37.856  ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+23:00:37.872  ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+23:00:37.873  ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+23:00:37.873  ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+23:00:37.876  ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+23:00:37.876  ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+23:00:37.878 [CE][LootRespawner] (PRIDummy) :: Item [48] causing search overtime: "SNAFU_Tango6T_Snow"
+23:00:37.878 [CE][LootRespawner] (PRIDummy) :: Item [49] causing search overtime: "SNAFUAR15_SPR_40RND_Mag"
+23:00:37.878 [CE][LootRespawner] (PRIDummy) :: Item [50] causing search overtime: "SNAFU_AR15_Modular16_GUN"
+23:00:37.882 [CE][LootRespawner] (PRIDummy) :: Item [51] causing search overtime: "SNAFU_AK_HG"
+23:00:37.887 [CE][LootRespawner] (PRIDummy) :: Item [52] causing search overtime: "SNAFU_MTrijicon"
+23:00:37.887 [CE][LootRespawner] (PRIDummy) :: Item [53] causing search overtime: "SA58_DrumMag"
+23:00:37.891 [CE][LootRespawner] (PRIDummy) :: Item [54] causing search overtime: "SNAFUGevar_Tan"
+23:00:37.898 [CE][LootRespawner] (PRIDummy) :: Item [55] causing search overtime: "Snafu_PKP_250RND_Mag"
+23:00:37.906 [CE][LootRespawner] (PRIDummy) :: Item [56] causing search overtime: "GCGN_VEPR_10rnd"
+23:00:37.908 [CE][LootRespawner] (PRIDummy) :: Item [57] causing search overtime: "SNAFUVECTOR_45acp_Mag"
+23:00:37.918 [CE][LootRespawner] (PRIDummy) :: Item [33] is hard to place, performance drops: "WoolCoat_Beige"
+23:00:37.921 [CE][LootRespawner] (PRIDummy) :: Item [58] causing search overtime: "SNAFU_CMAG30300_Tan"
+23:00:37.929 [CE][LootRespawner] (PRIDummy) :: Item [34] is hard to place, performance drops: "BalaclavaMask_Blue"
+23:00:37.931 [CE][LootRespawner] (PRIDummy) :: Item [35] is hard to place, performance drops: "BalaclavaMask_Blue"
+23:00:37.933 [CE][LootRespawner] (PRIDummy) :: Item [36] is hard to place, performance drops: "BalaclavaMask_Blue"
+23:00:37.933 [CE][LootRespawner] (PRIDummy) :: Item [37] is hard to place, performance drops: "BalaclavaMask_Blue"
+23:00:37.933 [CE][LootRespawner] (PRIDummy) :: Item [38] is hard to place, performance drops: "BalaclavaMask_Blue"
+23:00:37.935 [CE][LootRespawner] (PRIDummy) :: Item [59] causing search overtime: "SNAFU_AK12A"
+23:00:37.935 [CE][LootRespawner] (PRIDummy) :: Item [60] causing search overtime: "SNAFUKivaari_Grey_GUN"
+23:00:37.951 [CE][LootRespawner] (PRIDummy) :: Item [39] is hard to place, performance drops: "BaseballBat"
+23:00:37.954 [CE][LootRespawner] (PRIDummy) :: Item [61] causing search overtime: "SNAFU_HuntingOptic"
+23:00:37.956 [CE][LootRespawner] (PRIDummy) :: Item [40] is hard to place, performance drops: "FryingPan"
+23:00:37.956 [CE][LootRespawner] (PRIDummy) :: Item [41] is hard to place, performance drops: "FryingPan"
+23:00:37.959 [CE][LootRespawner] (PRIDummy) :: Item [42] is hard to place, performance drops: "FryingPan"
+23:00:37.963 [CE][LootRespawner] (PRIDummy) :: Item [62] causing search overtime: "SNAFUDSASA58_Stock"
+23:00:37.963 [CE][LootRespawner] (PRIDummy) :: Item [63] causing search overtime: "SNAFU_Shotgunchoke_Blue"
+23:00:37.968 [CE][LootRespawner] (PRIDummy) :: Item [64] causing search overtime: "SA58_30RND_BK"
+23:00:37.973 [CE][LootRespawner] (PRIDummy) :: Item [65] causing search overtime: "SNAFU_RPK16_Black"
+23:00:37.991 [CE][LootRespawner] (PRIDummy) :: Item [43] is hard to place, performance drops: "TaloonBag_Blue"
+23:00:37.991 [CE][LootRespawner] (PRIDummy) :: Item [44] is hard to place, performance drops: "TaloonBag_Blue"
+23:00:37.991 [CE][LootRespawner] (PRIDummy) :: Item [45] is hard to place, performance drops: "TaloonBag_Blue"
+23:00:38.13  [CE][LootRespawner] (PRIDummy) :: Item [66] causing search overtime: "SNAFUGevar_Black"
+23:00:38.22  [CE][LootRespawner] (PRIDummy) :: Item [67] causing search overtime: "SA58_30RND_WBK"
+23:00:38.27  [CE][LootRespawner] (PRIDummy) :: Item [68] causing search overtime: "M4_6933_Gun"
+23:00:38.35  [CE][LootRespawner] (PRIDummy) :: Item [69] causing search overtime: "SNAFU_M300Green"
+23:00:38.45  !!! [CE][Point] Removing 5765.984863, 8641.666016 from land_wrecked_ural
+23:00:38.45  [CE][LootRespawner] (PRIDummy) :: Item [46] is hard to place, performance drops: "NVGHeadstrap"
+23:00:38.49  [CE][LootRespawner] (PRIDummy) :: Item [70] causing search overtime: "GCGN_M110_Mag"
+23:00:38.63  [CE][LootRespawner] (PRIDummy) :: Item [71] causing search overtime: "SNAFU_AK308_Mag"
+23:00:38.69  [CE][LootRespawner] (PRIDummy) :: Item [72] causing search overtime: "SNAFU_LVOAHG"
+23:00:38.69  [CE][LootRespawner] (PRIDummy) :: Item [73] causing search overtime: "SA58_Stock"
+23:00:38.69  [CE][LootRespawner] (PRIDummy) :: Item [74] causing search overtime: "SNAFUKivaari_Black_GUN"
+23:00:38.69  [CE][LootRespawner] (PRIDummy) :: Item [75] causing search overtime: "SNAFUTAR21_Black"
+23:00:38.69  [CE][LootRespawner] (PRIDummy) :: Item [76] causing search overtime: "SNAFU_HLeupold_Mark8"
+23:00:38.70  [CE][LootRespawner] (PRIDummy) :: Item [47] is hard to place, performance drops: "Hoodie_Red"
+23:00:38.71  [CE][LootRespawner] (PRIDummy) :: Item [77] causing search overtime: "SNAFU_Normalized_Suppressor_Green"
+23:00:38.76  [CE][LootRespawner] (PRIDummy) :: Item [78] causing search overtime: "GCGN_M110_Tan"
+23:00:38.78  [CE][LootRespawner] (PRIDummy) :: Item [48] is hard to place, performance drops: "Sweater_Gray"
+23:00:38.78  [CE][LootRespawner] (PRIDummy) :: Item [49] is hard to place, performance drops: "Sweater_Gray"
+23:00:38.80  [CE][LootRespawner] (PRIDummy) :: Item [50] is hard to place, performance drops: "Sweater_Gray"
+23:00:38.80  [CE][LootRespawner] (PRIDummy) :: Item [51] is hard to place, performance drops: "Sweater_Gray"
+23:00:38.83  [CE][LootRespawner] (PRIDummy) :: Item [79] causing search overtime: "SNAFU_CALI_GUN"
+23:00:38.83  [CE][LootRespawner] (PRIDummy) :: Item [80] causing search overtime: "SNAFUUzi_72rdMag"
+23:00:38.84  [CE][LootRespawner] (PRIDummy) :: Item [81] causing search overtime: "SNAFU_AKTango6T_Wood"
+23:00:38.103 [CE][LootRespawner] (PRIDummy) :: Item [52] is hard to place, performance drops: "Spotlight"
+23:00:38.103 [CE][LootRespawner] (PRIDummy) :: Item [82] causing search overtime: "SNAFU_M200Green"
+23:00:38.103 [CE][LootRespawner] (PRIDummy) :: Item [53] is hard to place, performance drops: "Bandana_BlackPattern"
+23:00:38.111 [CE][LootRespawner] (PRIDummy) :: Item [83] causing search overtime: "SNAFU_AKKahles"
+23:00:38.122 [CE][LootRespawner] (PRIDummy) :: Item [84] causing search overtime: "SNAFU_CMAG30556_Black"
+23:00:38.123 [CE][LootRespawner] (PRIDummy) :: Item [85] causing search overtime: "SN_USP"
+23:00:38.124 [CE][LootRespawner] (PRIDummy) :: Item [86] causing search overtime: "SNAFU_M14"
+23:00:38.124 [CE][LootRespawner] (PRIDummy) :: Item [87] causing search overtime: "AA12_Gun"
+23:00:38.127 [CE][LootRespawner] (PRIDummy) :: Item [88] causing search overtime: "SNAFU_MK4716Gun"
+23:00:38.127 [CE][LootRespawner] (PRIDummy) :: Item [89] causing search overtime: "SG550_Gun"
+23:00:38.128 [CE][LootRespawner] (PRIDummy) :: Item [90] causing search overtime: "SNAFUAR15_SPR_100RND_Mag"
+23:00:38.129 [CE][LootRespawner] (PRIDummy) :: Item [91] causing search overtime: "SNAFU_M249Grip"
+23:00:38.133 [CE][LootRespawner] (PRIDummy) :: Item [92] causing search overtime: "SNAFU_M76"
+23:00:38.133 [CE][LootRespawner] (PRIDummy) :: Item [93] causing search overtime: "SN_M870"
+23:00:38.136 [CE][LootRespawner] (PRIDummy) :: Item [54] is hard to place, performance drops: "Shemag_Green"
+23:00:38.140 [CE][LootRespawner] (PRIDummy) :: Item [94] causing search overtime: "SNAFU_GIGripColtA2"
+23:00:38.143  ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+23:00:38.163  ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+23:00:38.163  ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+23:00:38.163  ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+23:00:38.163  ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+23:00:38.163 [CE][LootRespawner] (PRIDummy) :: Item [95] causing search overtime: "SNAFURPD"
+23:00:38.174 [CE][LootRespawner] (PRIDummy) :: Item [55] is hard to place, performance drops: "SledgeHammer"
+23:00:38.209 [CE][LootRespawner] (PRIDummy) :: Item [96] causing search overtime: "SNAFU_AK308"
+23:00:38.215 [CE][LootRespawner] (PRIDummy) :: Item [97] causing search overtime: "SNAFU_Tango6T_Wood"
+23:00:38.216 [CE][LootRespawner] (PRIDummy) :: Item [98] causing search overtime: "SNAFUDVL10M2"
+23:00:38.236 [CE][LootRespawner] (PRIDummy) :: Item [99] causing search overtime: "SNAFU_CMAG60300_Black"
+23:00:38.238 [CE][LootRespawner] (PRIDummy) :: Item [100] causing search overtime: "SNAFUVECTOR_9mm_Mag"
+23:00:38.244 [CE][LootRespawner] (PRIDummy) :: Item [101] causing search overtime: "SNAFU_ScarH_100RND_Mag_Black"
+23:00:38.256 [CE][LootRespawner] (PRIDummy) :: Item [56] is hard to place, performance drops: "Izh18"
+23:00:38.256 [CE][LootRespawner] (PRIDummy) :: Item [57] is hard to place, performance drops: "Izh18"
+23:00:38.257 [CE][LootRespawner] (PRIDummy) :: Item [58] is hard to place, performance drops: "Izh18"
+23:00:38.259 [CE][LootRespawner] (PRIDummy) :: Item [59] is hard to place, performance drops: "M65Jacket_Olive"
+23:00:38.265 [CE][LootRespawner] (PRIDummy) :: Item [102] causing search overtime: "SNAFU_FGKAC_Grip"
+23:00:38.265 [CE][LootRespawner] (PRIDummy) :: Item [103] causing search overtime: "SNAFU_MCMR07"
+23:00:38.266 [CE][LootRespawner] (PRIDummy) :: Item [104] causing search overtime: "SNAFU_MCMR08"
+23:00:38.266 [CE][LootRespawner] (PRIDummy) :: Item [105] causing search overtime: "SNAFU_MCMR09"
+23:00:38.269 [CE][LootRespawner] (PRIDummy) :: Item [60] is hard to place, performance drops: "PrisonUniformJacket"
+23:00:38.269 !!! [CE][Point] Removing 5608.094727, 11072.156250 from land_ala_warehouse_small
+23:00:38.269 [CE][LootRespawner] (PRIDummy) :: Item [61] is hard to place, performance drops: "PrisonUniformJacket"
+23:00:38.273 [CE][LootRespawner] (PRIDummy) :: Item [106] causing search overtime: "SNAFU_MCMR10"
+23:00:38.276 [CE][LootRespawner] (PRIDummy) :: Item [107] causing search overtime: "SNAFU_MCMR13"
+23:00:38.276 [CE][LootRespawner] (PRIDummy) :: Item [108] causing search overtime: "SNAFU_MCMR15"
+23:00:38.279 [CE][LootRespawner] (PRIDummy) :: Item [109] causing search overtime: "SNAFU_BMAG300_Tan"
+23:00:38.283 [CE][LootRespawner] (PRIDummy) :: Item [110] causing search overtime: "SNAFU_AS50_GUN"
+23:00:38.287 [CE][LootRespawner] (PRIDummy) :: Item [111] causing search overtime: "SNAFU_M300Mag"
+23:00:38.287 [CE][LootRespawner] (PRIDummy) :: Item [112] causing search overtime: "SNAFUM96_5rdMag"
+23:00:38.288 [CE][LootRespawner] (PRIDummy) :: Item [113] causing search overtime: "SNAFUAUG_BK"
+23:00:38.295 [CE][LootRespawner] (PRIDummy) :: Item [114] causing search overtime: "SNAFUHoneyBadger_Black"
+23:00:38.304 [CE][LootRespawner] (PRIDummy) :: Item [115] causing search overtime: "SNAFU_AKWalther"
+23:00:38.304 [CE][LootRespawner] (PRIDummy) :: Item [116] causing search overtime: "SNAFU_SKS_Bayonet"
+23:00:38.305 [CE][LootRespawner] (PRIDummy) :: Item [117] causing search overtime: "SR3_Vikhr_Gun"
+23:00:38.366 [CE][LootRespawner] (PRIDummy) :: Item [118] causing search overtime: "SNAFUTac21_5rdMag"
+23:00:38.366 [CE][LootRespawner] (PRIDummy) :: Item [119] causing search overtime: "SNAFU_M14_Mag"
+23:00:38.367  WORLD        : Create entity type 'headtorch_black'
+23:00:38.367   ENTITY    (E): Type 'Inventory_BaseType' must be inherited from class 'ClothingType'
+23:00:38.380 [CE][LootRespawner] (PRIDummy) :: Item [120] causing search overtime: "SNAFU_Agram_GUN"
+23:00:38.380 [CE][LootRespawner] (PRIDummy) :: Item [121] causing search overtime: "SNAFU_Ammo_45_70mm"
+23:00:38.380 [CE][LootRespawner] (PRIDummy) :: Item [122] causing search overtime: "SNAFU_M249HG"
+23:00:38.380 [CE][LootRespawner] (PRIDummy) :: Item [123] causing search overtime: "SNAFU_MK7"
+23:00:38.380 [CE][LootRespawner] (PRIDummy) :: Item [124] causing search overtime: "SNAFU_MK9"
+23:00:38.397 [CE][LootRespawner] (PRIDummy) :: Item [125] causing search overtime: "SNAFUAlligator"
+23:00:38.403 [CE][LootRespawner] (PRIDummy) :: Item [126] causing search overtime: "Snafu_ScarH_25RND_Mag_Snow"
+23:00:38.403 [CE][LootRespawner] (PRIDummy) :: Item [127] causing search overtime: "SNAFU_AKAimpoint_ACO"
+23:00:38.409 [CE][LootRespawner] (PRIDummy) :: Item [128] causing search overtime: "SNAFUM24_GUN"
+23:00:38.423 [CE][LootRespawner] (PRIDummy) :: Item [62] is hard to place, performance drops: "HuntingJacket_Spring"
+23:00:38.425 [CE][LootRespawner] (PRIDummy) :: Item [129] causing search overtime: "SNAFU_HKahles"
+23:00:38.426 [CE][LootRespawner] (PRIDummy) :: Item [130] causing search overtime: "SNAFUP90_50rdMag"
+23:00:38.426 [CE][LootRespawner] (PRIDummy) :: Item [131] causing search overtime: "SNAFUM98B_Ger_GUN"
+23:00:38.426 [CE][LootRespawner] (PRIDummy) :: Item [132] causing search overtime: "SNAFUPPSKN"
+23:00:38.429 [CE][LootRespawner] (PRIDummy) :: Item [133] causing search overtime: "Snafu_ScarH_25RND_Mag_BK"
+23:00:38.430 [CE][LootRespawner] (PRIDummy) :: Item [134] causing search overtime: "SNAFU_CMAG40300_Tan"
+23:00:38.433 [CE][LootRespawner] (PRIDummy) :: Item [135] causing search overtime: "Epinephrine"
+23:00:38.436 [CE][LootRespawner] (PRIDummy) :: Item [136] causing search overtime: "SalineBag"
+23:00:38.442 [CE][LootRespawner] (PRIDummy) :: Item [137] causing search overtime: "SNAFU_PDW_45ACP"
+23:00:38.443 [CE][LootRespawner] (PRIDummy) :: Item [138] causing search overtime: "SNAFU_MK47HG"
+23:00:38.443 [CE][LootRespawner] (PRIDummy) :: Item [63] is hard to place, performance drops: "WoolCoat_BrownCheck"
+23:00:38.446 [CE][LootRespawner] (PRIDummy) :: Item [64] is hard to place, performance drops: "WoolCoat_BrownCheck"
+23:00:38.446 [CE][LootRespawner] (PRIDummy) :: Item [139] causing search overtime: "SNAFUMarlin1895"
+23:00:38.452 [CE][LootRespawner] (PRIDummy) :: Item [140] causing search overtime: "SNAFUGevar_Suppressor_Tan"
+23:00:38.456 [CE][LootRespawner] (PRIDummy) :: Item [141] causing search overtime: "SNAFU_PDW_9mm_Mag"
+23:00:38.459 [CE][LootRespawner] (PRIDummy) :: Item [65] is hard to place, performance drops: "TrackSuitPants_LightBlue"
+23:00:38.459 [CE][LootRespawner] (PRIDummy) :: Item [66] is hard to place, performance drops: "TrackSuitPants_LightBlue"
+23:00:38.459 [CE][LootRespawner] (PRIDummy) :: Item [67] is hard to place, performance drops: "TrackSuitPants_LightBlue"
+23:00:38.465 [CE][LootRespawner] (PRIDummy) :: Item [142] causing search overtime: "Snafu_ScarH_25RND_Mag_OD"
+23:00:38.468 [CE][LootRespawner] (PRIDummy) :: Item [143] causing search overtime: "SNAFU_FRF2_Mag"
+23:00:38.468 [CE][LootRespawner] (PRIDummy) :: Item [144] causing search overtime: "SNAFU_Shotgunchoke_Purple"
+23:00:38.475 [CE][LootRespawner] (PRIDummy) :: Item [145] causing search overtime: "SNAFU_MP9_30rnd_Mag"
+23:00:38.476 [CE][LootRespawner] (PRIDummy) :: Item [146] causing search overtime: "SNAFUAPS_20rdMag"
+23:00:38.483 [CE][LootRespawner] (PRIDummy) :: Item [147] causing search overtime: "Snafu_ScarH_25RND_Mag_DKMC"
+23:00:38.483 [CE][LootRespawner] (PRIDummy) :: Item [148] causing search overtime: "Ammo_40mm_Explosive"
+23:00:38.483 [CE][LootRespawner] (PRIDummy) :: Item [149] causing search overtime: "Ammo_40mm_Explosive"
+23:00:38.490 [CE][LootRespawner] (PRIDummy) :: Item [150] causing search overtime: "SNAFU_CMAG60556_Tan"
+23:00:38.491 [CE][LootRespawner] (PRIDummy) :: Item [151] causing search overtime: "GCGN_M249_Mag"
+23:00:38.499 [CE][LootRespawner] (PRIDummy) :: Item [152] causing search overtime: "SNAFUM98B_Mc_GUN"
+23:00:38.500 [CE][LootRespawner] (PRIDummy) :: Item [153] causing search overtime: "SN_USP_Mag"
+23:00:38.502 [CE][LootRespawner] (PRIDummy) :: Item [68] is hard to place, performance drops: "DressShoes_Black"
+23:00:38.504 [CE][LootRespawner] (PRIDummy) :: Item [154] causing search overtime: "SNAFU_AKEOTech_EXPS3"
+23:00:38.504 [CE][LootRespawner] (PRIDummy) :: Item [155] causing search overtime: "SN_Auto_Shotgun"
+23:00:38.507 [CE][LootRespawner] (PRIDummy) :: Item [69] is hard to place, performance drops: "Balaclava3Holes_White"
+23:00:38.507 [CE][LootRespawner] (PRIDummy) :: Item [70] is hard to place, performance drops: "Balaclava3Holes_White"
+23:00:38.520  ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+23:00:38.520  ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+23:00:38.520  ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+23:00:38.527 [CE][LootRespawner] (PRIDummy) :: Item [156] causing search overtime: "SNAFUUniversalLight"
+23:00:38.536 [CE][LootRespawner] (PRIDummy) :: Item [157] causing search overtime: "SNAFU_FGCR_Grip"
+23:00:38.544 [CE][LootRespawner] (PRIDummy) :: Item [158] causing search overtime: "SN_M9"
+23:00:38.554 [CE][LootRespawner] (PRIDummy) :: Item [159] causing search overtime: "SN_Springfield"
+23:00:38.557 [CE][LootRespawner] (PRIDummy) :: Item [160] causing search overtime: "SNAFURSASS_Mag"
+23:00:38.561 [CE][LootRespawner] (PRIDummy) :: Item [161] causing search overtime: "SNAFU_SCQR_Stock"
+23:00:38.566 [CE][LootRespawner] (PRIDummy) :: Item [162] causing search overtime: "SN_Auto_Shotgun_Mag"
+23:00:38.571 [CE][LootRespawner] (PRIDummy) :: Item [163] causing search overtime: "SNAFU_AWM_Mag"
+23:00:38.579 [CE][LootRespawner] (PRIDummy) :: Item [71] is hard to place, performance drops: "DownJacket_Orange"
+23:00:38.581 [CE][LootRespawner] (PRIDummy) :: Item [164] causing search overtime: "SNAFUAR15_AFG"
+23:00:38.585 [CE][LootRespawner] (PRIDummy) :: Item [165] causing search overtime: "SNAFUGM6Lynx"
+23:00:38.589 [CE][LootRespawner] (PRIDummy) :: Item [72] is hard to place, performance drops: "TrackSuitJacket_Black"
+23:00:38.593 [CE][LootRespawner] (PRIDummy) :: Item [73] is hard to place, performance drops: "LeatherSewingKit"
+23:00:38.595 [CE][LootRespawner] (PRIDummy) :: Item [74] is hard to place, performance drops: "LeatherSewingKit"
+23:00:38.596 [CE][LootRespawner] (PRIDummy) :: Item [75] is hard to place, performance drops: "LeatherSewingKit"
+23:00:38.598 [CE][LootRespawner] (PRIDummy) :: Item [76] is hard to place, performance drops: "LeatherSewingKit"
+23:00:38.599 [CE][LootRespawner] (PRIDummy) :: Item [77] is hard to place, performance drops: "LeatherSewingKit"
+23:00:38.600 [CE][LootRespawner] (PRIDummy) :: Item [78] is hard to place, performance drops: "LeatherSewingKit"
+23:00:38.601 [CE][LootRespawner] (PRIDummy) :: Item [79] is hard to place, performance drops: "LeatherSewingKit"
+23:00:38.603 [CE][LootRespawner] (PRIDummy) :: Item [80] is hard to place, performance drops: "LeatherSewingKit"
+23:00:38.604 [CE][LootRespawner] (PRIDummy) :: Item [81] is hard to place, performance drops: "WomanSuit_Khaki"
+23:00:38.605 [CE][LootRespawner] (PRIDummy) :: Item [82] is hard to place, performance drops: "WomanSuit_Khaki"
+23:00:38.606 [CE][LootRespawner] (PRIDummy) :: Item [83] is hard to place, performance drops: "WomanSuit_Khaki"
+23:00:38.607 [CE][LootRespawner] (PRIDummy) :: Item [166] causing search overtime: "SNAFU_Shotgunchoke_Brown"
+23:00:38.613 [CE][LootRespawner] (PRIDummy) :: Item [167] causing search overtime: "SNAFU_BMAG556_Tan"
+23:00:38.620 [CE][LootRespawner] (PRIDummy) :: Item [84] is hard to place, performance drops: "HuntingVest"
+23:00:38.620 [CE][LootRespawner] (PRIDummy) :: Item [85] is hard to place, performance drops: "HuntingVest"
+23:00:38.620 [CE][LootRespawner] (PRIDummy) :: Item [86] is hard to place, performance drops: "HuntingVest"
+23:00:38.624 [CE][LootRespawner] (PRIDummy) :: Item [168] causing search overtime: "SNAFU_MD_Ammo_556x45mm_M855A1"
+23:00:38.627 [CE][LootRespawner] (PRIDummy) :: Item [169] causing search overtime: "SNAFU_Saint_Gun"
+23:00:38.637  ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+23:00:38.637  ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+23:00:38.667 [CE][LootRespawner] (PRIDummy) :: Item [170] causing search overtime: "SNAFUM1A_Tan"
+23:00:38.669 [CE][LootRespawner] (PRIDummy) :: Item [171] causing search overtime: "NVGoggles"
+23:00:38.669 [CE][LootRespawner] (PRIDummy) :: Item [172] causing search overtime: "NVGoggles"
+23:00:38.670 [CE][LootRespawner] (PRIDummy) :: Item [173] causing search overtime: "SNAFU_M200S_BK"
+23:00:38.671 [CE][LootRespawner] (PRIDummy) :: Item [87] is hard to place, performance drops: "Blouse_Blue"
+23:00:38.698 [CE][LootRespawner] (PRIDummy) :: Item [174] causing search overtime: "SNAFUM98B_Atac_GUN"
+23:00:38.699 [CE][LootRespawner] (PRIDummy) :: Item [175] causing search overtime: "SNAFUAX50_GUN"
+23:00:38.699 [CE][LootRespawner] (PRIDummy) :: Item [88] is hard to place, performance drops: "SkateHelmet_Black"
+23:00:38.700 [CE][LootRespawner] (PRIDummy) :: Item [176] causing search overtime: "SNAFU_M4SS_Stock"
+23:00:38.708 [CE][LootRespawner] (PRIDummy) :: Item [89] is hard to place, performance drops: "Hacksaw"
+23:00:38.716 [CE][LootRespawner] (PRIDummy) :: Item [177] causing search overtime: "SNAFU_Ammo_300ACC"
+23:00:38.743 [CE][LootRespawner] (PRIDummy) :: Item [90] is hard to place, performance drops: "Truck_01_Wheel"
+23:00:38.746 [CE][LootRespawner] (PRIDummy) :: Item [178] causing search overtime: "SA58_30RND_DT"
+23:00:38.746 [CE][LootRespawner] (PRIDummy) :: Item [179] causing search overtime: "SNAFU_AKTango6T_Black"
+23:00:38.749 [CE][LootRespawner] (PRIDummy) :: Item [180] causing search overtime: "SNAFU_Docter"
+23:00:38.750 [CE][LootRespawner] (PRIDummy) :: Item [91] is hard to place, performance drops: "WomanSuit_LightGrey"
+23:00:38.750 [CE][LootRespawner] (PRIDummy) :: Item [181] causing search overtime: "SNAFURSASS_dkmc_GUN"
+23:00:38.751 [CE][LootRespawner] (PRIDummy) :: Item [182] causing search overtime: "GCGN_HK416_Mag"
+23:00:38.752 [CE][LootRespawner] (PRIDummy) :: Item [183] causing search overtime: "SNAFU_M1918A2_Mag"
+23:00:38.757 [CE][LootRespawner] (PRIDummy) :: Item [184] causing search overtime: "ACR_Gun"
+23:00:38.760 [CE][LootRespawner] (PRIDummy) :: Item [185] causing search overtime: "SNAFU_HTrijicon"
+23:00:38.773 [CE][LootRespawner] (PRIDummy) :: Item [186] causing search overtime: "KazuarOptic"
+23:00:38.774 [CE][LootRespawner] (PRIDummy) :: Item [187] causing search overtime: "KazuarOptic"
+23:00:38.774 [CE][LootRespawner] (PRIDummy) :: Item [188] causing search overtime: "KazuarOptic"
+23:00:38.774 [CE][LootRespawner] (PRIDummy) :: Item [189] causing search overtime: "SNAFU_Kobra"
+23:00:38.779 [CE][LootRespawner] (PRIDummy) :: Item [190] causing search overtime: "SNAFU_ModBipod"
+23:00:38.798 [CE][LootRespawner] (PRIDummy) :: Item [191] causing search overtime: "SNAFU_SKS_30Rnd_Mag"
+23:00:38.799 [CE][LootRespawner] (PRIDummy) :: Item [192] causing search overtime: "SNAFU_CMAG40300_Black"
+23:00:38.802 [CE][LootRespawner] (PRIDummy) :: Item [193] causing search overtime: "SNAFU_SR3Vikhr_Mag"
+23:00:38.807 [CE][LootRespawner] (PRIDummy) :: Item [194] causing search overtime: "BloodTestKit"
+23:00:38.808 [CE][LootRespawner] (PRIDummy) :: Item [195] causing search overtime: "BloodTestKit"
+23:00:38.811 [CE][LootRespawner] (PRIDummy) :: Item [196] causing search overtime: "BloodTestKit"
+23:00:38.818 [CE][LootRespawner] (PRIDummy) :: Item [92] is hard to place, performance drops: "Iceaxe"
+23:00:38.818 [CE][LootRespawner] (PRIDummy) :: Item [93] is hard to place, performance drops: "Iceaxe"
+23:00:38.819 [CE][LootRespawner] (PRIDummy) :: Item [94] is hard to place, performance drops: "Iceaxe"
+23:00:38.819 [CE][LootRespawner] (PRIDummy) :: Item [95] is hard to place, performance drops: "Iceaxe"
+23:00:38.820 [CE][LootRespawner] (PRIDummy) :: Item [96] is hard to place, performance drops: "Iceaxe"
+23:00:38.821 [CE][LootRespawner] (PRIDummy) :: Item [97] is hard to place, performance drops: "Iceaxe"
+23:00:38.826 [CE][LootRespawner] (PRIDummy) :: Item [197] causing search overtime: "SNAFU_Ammo_5_7x28mm"
+23:00:38.835 [CE][LootRespawner] (PRIDummy) :: Item [198] causing search overtime: "SNAFUUzi"
+23:00:38.836 [CE][LootRespawner] (PRIDummy) :: Item [98] is hard to place, performance drops: "USMCPants_Woodland"
+23:00:38.876 [CE][LootRespawner] (PRIDummy) :: Item [99] is hard to place, performance drops: "HuntingVest_Winter"
+23:00:38.879 [CE][LootRespawner] (PRIDummy) :: Item [199] causing search overtime: "SNAFUAR15_SPR_60RND_Mag"
+23:00:38.893 [CE][LootRespawner] (PRIDummy) :: Item [200] causing search overtime: "SNAFU_MWalther"
+23:00:38.898 [CE][LootRespawner] (PRIDummy) :: Item [201] causing search overtime: "SNAFUM96"
+23:00:38.905 [CE][LootRespawner] (PRIDummy) :: Item [202] causing search overtime: "GCGN_M1Garand_Supp"
+23:00:38.907 [CE][LootRespawner] (PRIDummy) :: Item [203] causing search overtime: "SNAFU_TACGripColtA2_Tan"
+23:00:38.908 [CE][LootRespawner] (PRIDummy) :: Item [204] causing search overtime: "AA12_Mag"
+23:00:38.908 [CE][LootRespawner] (PRIDummy) :: Item [205] causing search overtime: "Snafu_ScarH_DKMC_GUN"
+23:00:38.908 [CE][LootRespawner] (PRIDummy) :: Item [206] causing search overtime: "SG550_Mag"
+23:00:38.916 [CE][LootRespawner] (PRIDummy) :: Item [207] causing search overtime: "SNAFU_M200SNOW"
+23:00:38.918 [CE][LootRespawner] (PRIDummy) :: Item [100] is hard to place, performance drops: "DirtBikeHelmet_Khaki"
+23:00:38.920 [CE][LootRespawner] (PRIDummy) :: Item [101] is hard to place, performance drops: "Hoodie_Green"
+23:00:38.921 [CE][LootRespawner] (PRIDummy) :: Item [102] is hard to place, performance drops: "Hoodie_Green"
+23:00:38.922 [CE][LootRespawner] (PRIDummy) :: Item [208] causing search overtime: "SNAFU_AK12_Mag"
+23:00:38.929 [CE][LootRespawner] (PRIDummy) :: Item [209] causing search overtime: "GCGN_M82_Barret"
+23:00:38.934 [CE][LootRespawner] (PRIDummy) :: Item [210] causing search overtime: "SNAFU_LNormalized_Suppressor_Green"
+23:00:38.937 [CE][LootRespawner] (PRIDummy) :: Item [103] is hard to place, performance drops: "Fabric"
+23:00:38.946 [CE][LootRespawner] (PRIDummy) :: Item [211] causing search overtime: "SNAFU_MTango6T_Snow"
+23:00:38.985 [CE][LootRespawner] (PRIDummy) :: Item [212] causing search overtime: "SNAFU_M200S_Snow"
+23:00:38.989 [CE][LootRespawner] (PRIDummy) :: Item [104] is hard to place, performance drops: "WomanSuit_Blue"
+23:00:38.990 [CE][LootRespawner] (PRIDummy) :: Item [213] causing search overtime: "SNAFUSRSA2_10rdMag"
+23:00:38.991 [CE][LootRespawner] (PRIDummy) :: Item [214] causing search overtime: "SNAFU_MNightforce"
+23:00:38.996 [CE][LootRespawner] (PRIDummy) :: Item [105] is hard to place, performance drops: "PoliceVest"
+23:00:38.998 [CE][LootRespawner] (PRIDummy) :: Item [215] causing search overtime: "SNAFU_Shotgunchoke_Black"
+23:00:39.10  [CE][LootRespawner] (PRIDummy) :: Item [216] causing search overtime: "GCGN_M200_Tan"
+23:00:39.15  [CE][LootRespawner] (PRIDummy) :: Item [217] causing search overtime: "SNAFUT5000_Snow_GUN"
+23:00:39.24  [CE][LootRespawner] (PRIDummy) :: Item [218] causing search overtime: "SNAFU_HElcan"
+23:00:39.25  [CE][LootRespawner] (PRIDummy) :: Item [219] causing search overtime: "Mag_FAL_20Rnd"
+23:00:39.25  [CE][LootRespawner] (PRIDummy) :: Item [220] causing search overtime: "Mag_FAL_20Rnd"
+23:00:39.25  [CE][LootRespawner] (PRIDummy) :: Item [221] causing search overtime: "Mag_FAL_20Rnd"
+23:00:39.26  [CE][LootRespawner] (PRIDummy) :: Item [222] causing search overtime: "SNAFUSten"
+23:00:39.35   ENTITY    (W): Unknown object class 'pond' (dz\water_sakhal\ice_lake\sakhal_50x50_ice_lake_clear.p3d)
+23:00:39.42  [CE][LootRespawner] (PRIDummy) :: Item [223] causing search overtime: "SNAFUGevar_10rdMag"
+23:00:39.44  [CE][LootRespawner] (PRIDummy) :: Item [106] is hard to place, performance drops: "Balaclava3Holes_Green"
+23:00:39.44  [CE][LootRespawner] (PRIDummy) :: Item [107] is hard to place, performance drops: "Balaclava3Holes_Green"
+23:00:39.49  [CE][LootRespawner] (PRIDummy) :: Item [224] causing search overtime: "SNAFU_Standardized_Suppressor_Black"
+23:00:39.56  [CE][LootRespawner] (PRIDummy) :: Item [225] causing search overtime: "SNAFU_U100"
+23:00:39.56  [CE][LootRespawner] (PRIDummy) :: Item [108] is hard to place, performance drops: "HikingBootsLow_Blue"
+23:00:39.63  [CE][LootRespawner] (PRIDummy) :: Item [226] causing search overtime: "SurgicalMask"
+23:00:39.63  [CE][LootRespawner] (PRIDummy) :: Item [227] causing search overtime: "SNAFUP90"
+23:00:39.63  [CE][LootRespawner] (PRIDummy) :: Item [228] causing search overtime: "GCGN_M1Garand"
+23:00:39.76  [CE][LootRespawner] (PRIDummy) :: Item [229] causing search overtime: "Mag_FAMAS_25Rnd"
+23:00:39.76  [CE][LootRespawner] (PRIDummy) :: Item [230] causing search overtime: "Mag_FAMAS_25Rnd"
+23:00:39.76  [CE][LootRespawner] (PRIDummy) :: Item [231] causing search overtime: "Mag_FAMAS_25Rnd"
+23:00:39.76  [CE][LootRespawner] (PRIDummy) :: Item [232] causing search overtime: "SNAFU_CMAG30300_Black"
+23:00:39.136 [CE][LootRespawner] (PRIDummy) :: Item [233] causing search overtime: "SNAFUHoneyBadger_30rdMag_Black"
+23:00:39.139 [CE][LootRespawner] (PRIDummy) :: Item [109] is hard to place, performance drops: "TShirt_Beige"
+23:00:39.142 [CE][LootRespawner] (PRIDummy) :: Item [234] causing search overtime: "SNAFUFAMAS"
+23:00:39.142 [CE][LootRespawner] (PRIDummy) :: Item [235] causing search overtime: "SR3_Vikhr_Mag"
+23:00:39.152 [CE][LootRespawner] (PRIDummy) :: Item [236] causing search overtime: "SNAFU_MPX_GUN"
+23:00:39.196 [CE][LootRespawner] (PRIDummy) :: Item [237] causing search overtime: "SNAFUSR3_Vikhr"
+23:00:39.197 [CE][LootRespawner] (PRIDummy) :: Item [238] causing search overtime: "dzn_detector"
+23:00:39.198 [CE][LootRespawner] (PRIDummy) :: Item [239] causing search overtime: "dzn_detector"
+23:00:39.209 [CE][LootRespawner] (PRIDummy) :: Item [240] causing search overtime: "ASVAL"
+23:00:39.257 [CE][LootRespawner] (PRIDummy) :: Item [241] causing search overtime: "GCGN_M700_Mag"
+23:00:39.257 [CE][LootRespawner] (PRIDummy) :: Item [242] causing search overtime: "SNAFU_AS50_Mag"
+23:00:39.259 [CE][LootRespawner] (PRIDummy) :: Item [110] is hard to place, performance drops: "Blouse_White"
+23:00:39.259 [CE][LootRespawner] (PRIDummy) :: Item [111] is hard to place, performance drops: "dzn_ghilliehoodtandark"
+23:00:39.260 [CE][LootRespawner] (PRIDummy) :: Item [243] causing search overtime: "SNAFU_Ammo_338"
+23:00:39.262 [CE][LootRespawner] (PRIDummy) :: Item [112] is hard to place, performance drops: "MotoHelmet_Blue"
+23:00:39.268 [CE][LootRespawner] (PRIDummy) :: Item [244] causing search overtime: "dzn_netanyas_log"
+23:00:39.287 [CE][LootRespawner] (PRIDummy) :: Item [245] causing search overtime: "SNAFU_M4300AC_16_GUN"
+23:00:39.287 [CE][LootRespawner] (PRIDummy) :: Item [246] causing search overtime: "SNAFUGevar_Suppressor_Green"
+23:00:39.316 [CE][LootRespawner] (PRIDummy) :: Item [113] is hard to place, performance drops: "CamoNet"
+23:00:39.321 [CE][LootRespawner] (PRIDummy) :: Item [114] is hard to place, performance drops: "CamoNet"
+23:00:39.324 [CE][LootRespawner] (PRIDummy) :: Item [247] causing search overtime: "SNAFU_Kahles"
+23:00:39.326 [CE][LootRespawner] (PRIDummy) :: Item [115] is hard to place, performance drops: "ConstructionHelmet_Yellow"
+23:00:39.330 [CE][LootRespawner] (PRIDummy) :: Item [248] causing search overtime: "SNAFU_MElcan"
+23:00:39.330 [CE][LootRespawner] (PRIDummy) :: Item [249] causing search overtime: "SNAFU_Leupold_Mark8"
+23:00:39.330 [CE][LootRespawner] (PRIDummy) :: Item [250] causing search overtime: "Mag_STANAG_30Rnd"
+23:00:39.330 [CE][LootRespawner] (PRIDummy) :: Item [251] causing search overtime: "Mag_STANAG_30Rnd"
+23:00:39.330 [CE][LootRespawner] (PRIDummy) :: Item [252] causing search overtime: "Mag_STANAG_30Rnd"
+23:00:39.330 [CE][LootRespawner] (PRIDummy) :: Item [253] causing search overtime: "Mag_STANAG_30Rnd"
+23:00:39.330 [CE][LootRespawner] (PRIDummy) :: Item [254] causing search overtime: "VR80_Magazine_5rd"
+23:00:39.330 [CE][LootRespawner] (PRIDummy) :: Item [255] causing search overtime: "SNAFU_Trijicon_Docter"
+23:00:39.333 [CE][LootRespawner] (PRIDummy) :: Item [256] causing search overtime: "SNAFU_SKS"
+23:00:39.333 [CE][LootRespawner] (PRIDummy) :: Item [257] causing search overtime: "SN_M9_Mag"
+23:00:39.343 [CE][LootRespawner] (PRIDummy) :: Item [258] causing search overtime: "SNAFU_HTrijicon_Docter"
+23:00:39.344 [CE][LootRespawner] (PRIDummy) :: Item [259] causing search overtime: "SNAFU_NPKPBIPOD"
+23:00:39.345  PHYSICS   (W): While attempting to remove proxy physics for the selection 'codelock', the corresponding bone could not be found in the shape 'dz\gear\camping\mediumtent.p3d'
+23:00:39.346  PHYSICS   (W): While attempting to remove proxy physics for the selection 'codelock', the corresponding bone could not be found in the shape 'dz\gear\camping\mediumtent.p3d'
+23:00:39.347  PHYSICS   (W): While attempting to remove proxy physics for the selection 'codelock', the corresponding bone could not be found in the shape 'dz\gear\camping\mediumtent.p3d'
+23:00:39.348  PHYSICS   (W): While attempting to remove proxy physics for the selection 'codelock', the corresponding bone could not be found in the shape 'dz\gear\camping\mediumtent.p3d'
+23:00:39.349  PHYSICS   (W): While attempting to remove proxy physics for the selection 'codelock', the corresponding bone could not be found in the shape 'dz\gear\camping\mediumtent.p3d'
+23:00:39.359 [CE][LootRespawner] (PRIDummy) :: Item [260] causing search overtime: "SNAFU_HG625"
+23:00:39.367 [CE][LootRespawner] (PRIDummy) :: Item [116] is hard to place, performance drops: "Hatchback_02_Wheel"
+23:00:39.373 [CE][LootRespawner] (PRIDummy) :: Item [261] causing search overtime: "SNAFU_MK10"
+23:00:39.373 [CE][LootRespawner] (PRIDummy) :: Item [262] causing search overtime: "SNAFU_MK13"
+23:00:39.373 [CE][LootRespawner] (PRIDummy) :: Item [263] causing search overtime: "SNAFU_MK15"
+23:00:39.379 [CE][LootRespawner] (PRIDummy) :: Item [264] causing search overtime: "SNAFU_HWalther"
+23:00:39.380 [CE][LootRespawner] (PRIDummy) :: Item [265] causing search overtime: "SNAFU_Tango6T_Tan"
+23:00:39.380 [CE][LootRespawner] (PRIDummy) :: Item [266] causing search overtime: "SNAFU_AR15SPRBK"
+23:00:39.380 [CE][LootRespawner] (PRIDummy) :: Item [117] is hard to place, performance drops: "BalaclavaMask_Black"
+23:00:39.381 [CE][LootRespawner] (PRIDummy) :: Item [118] is hard to place, performance drops: "BalaclavaMask_Black"
+23:00:39.384 [CE][LootRespawner] (PRIDummy) :: Item [119] is hard to place, performance drops: "BalaclavaMask_Black"
+23:00:39.384 [CE][LootRespawner] (PRIDummy) :: Item [267] causing search overtime: "SNAFU_Ammo_145Cal"
+23:00:39.385 [CE][LootRespawner] (PRIDummy) :: Item [268] causing search overtime: "SNAFU_MHuntingOptic"
+23:00:39.385 [CE][LootRespawner] (PRIDummy) :: Item [269] causing search overtime: "SNAFU_AEK545_Gun"
+23:00:39.385 [CE][LootRespawner] (PRIDummy) :: Item [270] causing search overtime: "SNAFU_TACGripColtA2_BK"
+23:00:39.388 [CE][LootRespawner] (PRIDummy) :: Item [271] causing search overtime: "SNAFU_PEQ1_Laser"
+23:00:39.388 [CE][LootRespawner] (PRIDummy) :: Item [272] causing search overtime: "GCGN_Ammo_408Chey"
+23:00:39.388 [CE][LootRespawner] (PRIDummy) :: Item [273] causing search overtime: "SNAFU_M300TAN"
+23:00:39.390 [CE][LootRespawner] (PRIDummy) :: Item [274] causing search overtime: "GCGN_Vityaz"
+23:00:39.396 [CE][LootRespawner] (PRIDummy) :: Item [275] causing search overtime: "SNAFUM98B_Wood_GUN"
+23:00:39.398 [CE][LootRespawner] (PRIDummy) :: Item [276] causing search overtime: "SNAFU_Ammo_762x25"
+23:00:39.402 [CE][LootRespawner] (PRIDummy) :: Item [277] causing search overtime: "IA2_Gun"
+23:00:39.405 [CE][LootRespawner] (PRIDummy) :: Item [278] causing search overtime: "TetracyclineAntibiotics"
+23:00:39.407 [CE][LootRespawner] (PRIDummy) :: Item [279] causing search overtime: "TetracyclineAntibiotics"
+23:00:39.409 [CE][LootRespawner] (PRIDummy) :: Item [280] causing search overtime: "SNAFUSRSA2"
+23:00:39.409 [CE][LootRespawner] (PRIDummy) :: Item [281] causing search overtime: "SNAFU_WSR3Stock"
+23:00:39.422 [CE][LootRespawner] (PRIDummy) :: Item [120] is hard to place, performance drops: "ManSuit_LightGrey"
+23:00:39.423 [CE][LootRespawner] (PRIDummy) :: Item [282] causing search overtime: "SNAFU_TACGripColtA2_OD"
+23:00:39.428 [CE][LootRespawner] (PRIDummy) :: Item [283] causing search overtime: "Modified_SA58_30RND_WBK"
+23:00:39.439 [CE][LootRespawner] (PRIDummy) :: Item [284] causing search overtime: "SNAFU_MOE_Stock"
+23:00:39.439 [CE][LootRespawner] (PRIDummy) :: Item [285] causing search overtime: "SNAFU_MK47_Stock"
+23:00:39.439 [CE][LootRespawner] (PRIDummy) :: Item [286] causing search overtime: "SNAFUAPS"
+23:00:39.439 [CE][LootRespawner] (PRIDummy) :: Item [287] causing search overtime: "M4A1"
+23:00:39.440 [CE][LootRespawner] (PRIDummy) :: Item [288] causing search overtime: "Snafu_ScarH_OD_GUN"
+23:00:39.440 [CE][LootRespawner] (PRIDummy) :: Item [289] causing search overtime: "SNAFU_Trijicon"
+23:00:39.440 [CE][LootRespawner] (PRIDummy) :: Item [290] causing search overtime: "SNAFUAR15_SPR_SIL"
+23:00:39.443 [CE][LootRespawner] (PRIDummy) :: Item [291] causing search overtime: "SNAFUAUG"
+23:00:39.447 [CE][LootRespawner] (PRIDummy) :: Item [292] causing search overtime: "SNAFU_M4300AC_10_GUN"
+23:00:39.452 [CE][LootRespawner] (PRIDummy) :: Item [293] causing search overtime: "SNAFU_AKElcan"
+23:00:39.453 [CE][LootRespawner] (PRIDummy) :: Item [121] is hard to place, performance drops: "ConstructionHelmet_Blue"
+23:00:39.454 [CE][LootRespawner] (PRIDummy) :: Item [294] causing search overtime: "SNAFU_RPK16_Green"
+23:00:39.459 [CE][LootRespawner] (PRIDummy) :: Item [295] causing search overtime: "SNAFUAUG_30rdMag"
+23:00:39.460 [CE][LootRespawner] (PRIDummy) :: Item [296] causing search overtime: "SNAFU_EOTech_EXPS3"
+23:00:39.462 [CE][LootRespawner] (PRIDummy) :: Item [297] causing search overtime: "Mag_Vikhr_30Rnd"
+23:00:39.462 [CE][LootRespawner] (PRIDummy) :: Item [298] causing search overtime: "Mag_Vikhr_30Rnd"
+23:00:39.462 [CE][LootRespawner] (PRIDummy) :: Item [299] causing search overtime: "SNAFU_CMAG60300_Tan"
+23:00:39.462 [CE][LootRespawner] (PRIDummy) :: Item [300] causing search overtime: "SNAFUM98B_Snow_GUN"
+23:00:39.462 [CE][LootRespawner] (PRIDummy) :: Item [301] causing search overtime: "SNAFUGevar_Green"
+23:00:39.462 [CE][LootRespawner] (PRIDummy) :: Item [302] causing search overtime: "SNAFUSten_32rdMag"
+23:00:39.463 [CE][LootRespawner] (PRIDummy) :: Item [303] causing search overtime: "SNAFU_PL14HQP_Mag"
+23:00:39.463 [CE][LootRespawner] (PRIDummy) :: Item [304] causing search overtime: "SNAFU_Saint_Mag"
+23:00:39.466 [CE][LootRespawner] (PRIDummy) :: Item [305] causing search overtime: "ChickenFeather"
+23:00:39.468 [CE][LootRespawner] (PRIDummy) :: Item [306] causing search overtime: "ChickenFeather"
+23:00:39.469 [CE][LootRespawner] (PRIDummy) :: Item [307] causing search overtime: "ChickenFeather"
+23:00:39.470 [CE][LootRespawner] (PRIDummy) :: Item [308] causing search overtime: "ChickenFeather"
+23:00:39.471 [CE][LootRespawner] (PRIDummy) :: Item [309] causing search overtime: "ChickenFeather"
+23:00:39.472 [CE][LootRespawner] (PRIDummy) :: Item [310] causing search overtime: "ChickenFeather"
+23:00:39.472 [CE][LootRespawner] (PRIDummy) :: Item [311] causing search overtime: "ChickenFeather"
+23:00:39.472 [CE][LootRespawner] (PRIDummy) :: Item [312] causing search overtime: "ChickenFeather"
+23:00:39.472 [CE][LootRespawner] (PRIDummy) :: Item [313] causing search overtime: "ChickenFeather"
+23:00:39.472 [CE][LootRespawner] (PRIDummy) :: Item [314] causing search overtime: "ChickenFeather"
+23:00:39.472 [CE][LootRespawner] (PRIDummy) :: Item [315] causing search overtime: "ChickenFeather"
+23:00:39.472 [CE][LootRespawner] (PRIDummy) :: Item [316] causing search overtime: "ChickenFeather"
+23:00:39.473 [CE][LootRespawner] (PRIDummy) :: Item [317] causing search overtime: "ChickenFeather"
+23:00:39.473 [CE][LootRespawner] (PRIDummy) :: Item [318] causing search overtime: "ChickenFeather"
+23:00:39.473 [CE][LootRespawner] (PRIDummy) :: Item [319] causing search overtime: "ChickenFeather"
+23:00:39.473 [CE][LootRespawner] (PRIDummy) :: Item [320] causing search overtime: "ChickenFeather"
+23:00:39.473 [CE][LootRespawner] (PRIDummy) :: Item [321] causing search overtime: "ChickenFeather"
+23:00:39.473 [CE][LootRespawner] (PRIDummy) :: Item [322] causing search overtime: "ChickenFeather"
+23:00:39.473 [CE][LootRespawner] (PRIDummy) :: Item [323] causing search overtime: "ChickenFeather"
+23:00:39.473 [CE][LootRespawner] (PRIDummy) :: Item [324] causing search overtime: "ChickenFeather"
+23:00:39.473 [CE][LootRespawner] (PRIDummy) :: Item [325] causing search overtime: "ChickenFeather"
+23:00:39.473 [CE][LootRespawner] (PRIDummy) :: Item [326] causing search overtime: "ChickenFeather"
+23:00:39.473 [CE][LootRespawner] (PRIDummy) :: Item [327] causing search overtime: "ChickenFeather"
+23:00:39.473 [CE][LootRespawner] (PRIDummy) :: Item [328] causing search overtime: "ChickenFeather"
+23:00:39.473 [CE][LootRespawner] (PRIDummy) :: Item [329] causing search overtime: "ChickenFeather"
+23:00:39.473 [CE][LootRespawner] (PRIDummy) :: Item [330] causing search overtime: "ChickenFeather"
+23:00:39.474 [CE][LootRespawner] (PRIDummy) :: Item [331] causing search overtime: "ChickenFeather"
+23:00:39.474 [CE][LootRespawner] (PRIDummy) :: Item [332] causing search overtime: "ChickenFeather"
+23:00:39.475 [CE][LootRespawner] (PRIDummy) :: Item [333] causing search overtime: "ChickenFeather"
+23:00:39.475 [CE][LootRespawner] (PRIDummy) :: Item [334] causing search overtime: "ChickenFeather"
+23:00:39.489 [CE][LootRespawner] (PRIDummy) :: Item [122] is hard to place, performance drops: "Balaclava3Holes_Black"
+23:00:39.490 [CE][LootRespawner] (PRIDummy) :: Item [123] is hard to place, performance drops: "Balaclava3Holes_Black"
+23:00:39.490 [CE][LootRespawner] (PRIDummy) :: Item [124] is hard to place, performance drops: "WoolCoat_Blue"
+23:00:39.494 [CE][LootRespawner] (PRIDummy) :: Item [335] causing search overtime: "SNAFU_HeramuzzelF"
+23:00:39.494  WORLD        : Create entity type 'BaseRadio'
+23:00:39.494   ENTITY    (E): Type 'Inventory_BaseType' must be inherited from class 'ItemTransmitterType'
+23:00:39.506 [CE][LootRespawner] (PRIDummy) :: Item [336] causing search overtime: "SNAFUAX50_Mag"
+23:00:39.507 [CE][LootRespawner] (PRIDummy) :: Item [337] causing search overtime: "SNSA58_Gun"
+23:00:39.529 [CE][LootRespawner] (PRIDummy) :: Item [338] causing search overtime: "SNAFUPPSh_71rdMag"
+23:00:39.536 [CE][LootRespawner] (PRIDummy) :: Item [125] is hard to place, performance drops: "WorkingGloves_Black"
+23:00:39.536 [CE][LootRespawner] (PRIDummy) :: Item [126] is hard to place, performance drops: "WorkingGloves_Black"
+23:00:39.541 [CE][LootRespawner] (PRIDummy) :: Item [339] causing search overtime: "SNAFU_Agram_Suppressor_Black"
+23:00:39.543 [CE][LootRespawner] (PRIDummy) :: Item [340] causing search overtime: "SNAFUKivaari_Snow_GUN"
+23:00:39.543 [CE][LootRespawner] (PRIDummy) :: Item [341] causing search overtime: "SNAFURSASS_od_GUN"
+23:00:39.544 [CE][LootRespawner] (PRIDummy) :: Item [342] causing search overtime: "SNAFU_AR15SPRTAN"
+23:00:39.544 [CE][LootRespawner] (PRIDummy) :: Item [343] causing search overtime: "SNAFU_Ammo_46x30"
+23:00:39.548 [CE][LootRespawner] (PRIDummy) :: Item [344] causing search overtime: "SNAFU_ADAR_Modular16_GUN"
+23:00:39.548 [CE][LootRespawner] (PRIDummy) :: Item [345] causing search overtime: "SNAFUAlligator_5rdMag"
+23:00:39.550 [CE][LootRespawner] (PRIDummy) :: Item [346] causing search overtime: "SNAFUT5000_Mag"
+23:00:39.550 [CE][LootRespawner] (PRIDummy) :: Item [347] causing search overtime: "SNAFU_Elcan"
+23:00:39.556 [CE][LootRespawner] (PRIDummy) :: Item [348] causing search overtime: "SNAFU_PistolGripColtA2"
+23:00:39.579  PHYSICS   (W): While attempting to remove proxy physics for the selection 'codelock', the corresponding bone could not be found in the shape 'dz\gear\camping\largetent.p3d'
+23:00:39.583  PHYSICS   (W): While attempting to remove proxy physics for the selection 'codelock', the corresponding bone could not be found in the shape 'dz\gear\camping\largetent.p3d'
+23:00:39.586  PHYSICS   (W): While attempting to remove proxy physics for the selection 'codelock', the corresponding bone could not be found in the shape 'dz\gear\camping\largetent.p3d'
+23:00:39.587  PHYSICS   (W): While attempting to remove proxy physics for the selection 'codelock', the corresponding bone could not be found in the shape 'dz\gear\camping\largetent.p3d'
+23:00:39.589  PHYSICS   (W): While attempting to remove proxy physics for the selection 'codelock', the corresponding bone could not be found in the shape 'dz\gear\camping\largetent.p3d'
+23:00:39.592  PHYSICS   (W): While attempting to remove proxy physics for the selection 'codelock', the corresponding bone could not be found in the shape 'dz\gear\camping\largetent.p3d'
+23:00:39.594 [CE][LootRespawner] (PRIDummy) :: Item [349] causing search overtime: "SNAFU_SR3HG"
+23:00:39.596 [CE][LootRespawner] (PRIDummy) :: Item [350] causing search overtime: "HK416_Gun"
+23:00:39.599 [CE][LootRespawner] (PRIDummy) :: Item [351] causing search overtime: "SNAFU_MK47Muzzel"
+23:00:39.599 [CE][LootRespawner] (PRIDummy) :: Item [352] causing search overtime: "SNAFUSA80"
+23:00:39.599 [CE][LootRespawner] (PRIDummy) :: Item [353] causing search overtime: "GCGN_M84_Optic"
+23:00:39.599 [CE][LootRespawner] (PRIDummy) :: Item [354] causing search overtime: "SNAFUM1A_Green"
+23:00:39.603 [CE][LootRespawner] (PRIDummy) :: Item [355] causing search overtime: "SNAFU_Kabar"
+23:00:39.612 [CE][LootRespawner] (PRIDummy) :: Item [356] causing search overtime: "Tec9_Gun"
+23:00:39.613 [CE][LootRespawner] (PRIDummy) :: Item [357] causing search overtime: "SNAFU_Shotgunchoke_Yellow"
+23:00:39.617 [CE][LootRespawner] (PRIDummy) :: Item [127] is hard to place, performance drops: "BearTrap"
+23:00:39.618 [CE][LootRespawner] (PRIDummy) :: Item [128] is hard to place, performance drops: "BearTrap"
+23:00:39.618 [CE][LootRespawner] (PRIDummy) :: Item [129] is hard to place, performance drops: "BearTrap"
+23:00:39.618 [CE][LootRespawner] (PRIDummy) :: Item [358] causing search overtime: "BearTrap"
+23:00:39.618 [CE][LootRespawner] (PRIDummy) :: Item [130] is hard to place, performance drops: "BearTrap"
+23:00:39.618 [CE][LootRespawner] (PRIDummy) :: Item [131] is hard to place, performance drops: "BearTrap"
+23:00:39.618 [CE][LootRespawner] (PRIDummy) :: Item [132] is hard to place, performance drops: "BearTrap"
+23:00:39.618 [CE][LootRespawner] (PRIDummy) :: Item [359] causing search overtime: "BearTrap"
+23:00:39.618 [CE][LootRespawner] (PRIDummy) :: Item [133] is hard to place, performance drops: "BearTrap"
+23:00:39.618 [CE][LootRespawner] (PRIDummy) :: Item [134] is hard to place, performance drops: "BearTrap"
+23:00:39.618 [CE][LootRespawner] (PRIDummy) :: Item [135] is hard to place, performance drops: "BearTrap"
+23:00:39.618 [CE][LootRespawner] (PRIDummy) :: Item [360] causing search overtime: "BearTrap"
+23:00:39.618 [CE][LootRespawner] (PRIDummy) :: Item [136] is hard to place, performance drops: "BearTrap"
+23:00:39.618 [CE][LootRespawner] (PRIDummy) :: Item [137] is hard to place, performance drops: "BearTrap"
+23:00:39.619 [CE][LootRespawner] (PRIDummy) :: Item [138] is hard to place, performance drops: "BearTrap"
+23:00:39.619 [CE][LootRespawner] (PRIDummy) :: Item [361] causing search overtime: "BearTrap"
+23:00:39.619 [CE][LootRespawner] (PRIDummy) :: Item [139] is hard to place, performance drops: "BearTrap"
+23:00:39.619 [CE][LootRespawner] (PRIDummy) :: Item [140] is hard to place, performance drops: "BearTrap"
+23:00:39.619 [CE][LootRespawner] (PRIDummy) :: Item [141] is hard to place, performance drops: "BearTrap"
+23:00:39.619 [CE][LootRespawner] (PRIDummy) :: Item [362] causing search overtime: "BearTrap"
+23:00:39.619 [CE][LootRespawner] (PRIDummy) :: Item [142] is hard to place, performance drops: "BearTrap"
+23:00:39.619 [CE][LootRespawner] (PRIDummy) :: Item [143] is hard to place, performance drops: "BearTrap"
+23:00:39.619 [CE][LootRespawner] (PRIDummy) :: Item [144] is hard to place, performance drops: "BearTrap"
+23:00:39.619 [CE][LootRespawner] (PRIDummy) :: Item [363] causing search overtime: "BearTrap"
+23:00:39.619 [CE][LootRespawner] (PRIDummy) :: Item [145] is hard to place, performance drops: "BearTrap"
+23:00:39.620 [CE][LootRespawner] (PRIDummy) :: Item [146] is hard to place, performance drops: "BearTrap"
+23:00:39.621 [CE][LootRespawner] (PRIDummy) :: Item [147] is hard to place, performance drops: "BearTrap"
+23:00:39.621 [CE][LootRespawner] (PRIDummy) :: Item [364] causing search overtime: "BearTrap"
+23:00:39.622 [CE][LootRespawner] (PRIDummy) :: Item [148] is hard to place, performance drops: "BearTrap"
+23:00:39.623 [CE][LootRespawner] (PRIDummy) :: Item [149] is hard to place, performance drops: "BearTrap"
+23:00:39.623 [CE][LootRespawner] (PRIDummy) :: Item [150] is hard to place, performance drops: "BearTrap"
+23:00:39.623 [CE][LootRespawner] (PRIDummy) :: Item [365] causing search overtime: "BearTrap"
+23:00:39.623 [CE][LootRespawner] (PRIDummy) :: Item [151] is hard to place, performance drops: "BearTrap"
+23:00:39.624 [CE][LootRespawner] (PRIDummy) :: Item [152] is hard to place, performance drops: "BearTrap"
+23:00:39.624 [CE][LootRespawner] (PRIDummy) :: Item [153] is hard to place, performance drops: "BearTrap"
+23:00:39.624 [CE][LootRespawner] (PRIDummy) :: Item [366] causing search overtime: "BearTrap"
+23:00:39.624 [CE][LootRespawner] (PRIDummy) :: Item [154] is hard to place, performance drops: "BearTrap"
+23:00:39.624 [CE][LootRespawner] (PRIDummy) :: Item [155] is hard to place, performance drops: "BearTrap"
+23:00:39.625 [CE][LootRespawner] (PRIDummy) :: Item [156] is hard to place, performance drops: "BearTrap"
+23:00:39.625 [CE][LootRespawner] (PRIDummy) :: Item [367] causing search overtime: "BearTrap"
+23:00:39.625 [CE][LootRespawner] (PRIDummy) :: Item [157] is hard to place, performance drops: "BearTrap"
+23:00:39.626 [CE][LootRespawner] (PRIDummy) :: Item [158] is hard to place, performance drops: "BearTrap"
+23:00:39.626 [CE][LootRespawner] (PRIDummy) :: Item [159] is hard to place, performance drops: "BearTrap"
+23:00:39.626 [CE][LootRespawner] (PRIDummy) :: Item [368] causing search overtime: "BearTrap"
+23:00:39.626 [CE][LootRespawner] (PRIDummy) :: Item [160] is hard to place, performance drops: "BearTrap"
+23:00:39.627 [CE][LootRespawner] (PRIDummy) :: Item [161] is hard to place, performance drops: "BearTrap"
+23:00:39.627 [CE][LootRespawner] (PRIDummy) :: Item [162] is hard to place, performance drops: "BearTrap"
+23:00:39.627 [CE][LootRespawner] (PRIDummy) :: Item [369] causing search overtime: "BearTrap"
+23:00:39.627 [CE][LootRespawner] (PRIDummy) :: Item [370] causing search overtime: "GCGN_Ammo_762x51"
+23:00:39.627 [CE][LootRespawner] (PRIDummy) :: Item [371] causing search overtime: "SNAFU_AFG_02_Tan"
+23:00:39.629 [CE][LootRespawner] (PRIDummy) :: Item [372] causing search overtime: "SNAFU_VSSKbipod"
+23:00:39.630 [CE][LootRespawner] (PRIDummy) :: Item [373] causing search overtime: "SNAFUKivaari_25rdMag"
+23:00:39.636 [CE][LootRespawner] (PRIDummy) :: Item [374] causing search overtime: "dzn_platecarriervest_nac"
+23:00:39.636 [CE][LootRespawner] (PRIDummy) :: Item [375] causing search overtime: "SNAFUAR15_SPR_SQSIL"
+23:00:39.637 [CE][LootRespawner] (PRIDummy) :: Item [376] causing search overtime: "SNAFU_LStandardized_Suppressor_Black"
+23:00:39.637 [CE][LootRespawner] (PRIDummy) :: Item [163] is hard to place, performance drops: "TShirt_Grey"
+23:00:39.648 [CE][LootRespawner] (PRIDummy) :: Item [377] causing search overtime: "SNAFU_HAimpoint_M5"
+23:00:39.652 [CE][LootRespawner] (PRIDummy) :: Item [378] causing search overtime: "SNAFU_Shotgunchoke_Red"
+23:00:39.652 [CE][LootRespawner] (PRIDummy) :: Item [379] causing search overtime: "SNAFU_Saint556_Gun"
+23:00:39.661 [CE][LootRespawner] (PRIDummy) :: Item [380] causing search overtime: "SNAFU_Tango6T_Black"
+23:00:39.662 [CE][LootRespawner] (PRIDummy) :: Item [381] causing search overtime: "VR80_Gun"
+23:00:39.677 [CE][LootRespawner] (PRIDummy) :: Item [382] causing search overtime: "dzn_platecarrierholster_nac"
+23:00:39.677 [CE][LootRespawner] (PRIDummy) :: Item [383] causing search overtime: "SNAFU_AWM_GUN"
+23:00:39.679 [CE][LootRespawner] (PRIDummy) :: Item [164] is hard to place, performance drops: "Hammer"
+23:00:39.679 [CE][LootRespawner] (PRIDummy) :: Item [165] is hard to place, performance drops: "Hammer"
+23:00:39.745 [CE][LootRespawner] (PRIDummy) :: Item [384] causing search overtime: "GCGN_Mag_FAL_50Rnd"
+23:00:39.745 [CE][LootRespawner] (PRIDummy) :: Item [385] causing search overtime: "FarmingHoe"
+23:00:39.745 [CE][LootRespawner] (PRIDummy) :: Item [386] causing search overtime: "FarmingHoe"
+23:00:39.745 [CE][LootRespawner] (PRIDummy) :: Item [387] causing search overtime: "FarmingHoe"
+23:00:39.745 [CE][LootRespawner] (PRIDummy) :: Item [388] causing search overtime: "FarmingHoe"
+23:00:39.746 [CE][LootRespawner] (PRIDummy) :: Item [389] causing search overtime: "FarmingHoe"
+23:00:39.746 [CE][LootRespawner] (PRIDummy) :: Item [390] causing search overtime: "FarmingHoe"
+23:00:39.746 [CE][LootRespawner] (PRIDummy) :: Item [391] causing search overtime: "FarmingHoe"
+23:00:39.746 [CE][LootRespawner] (PRIDummy) :: Item [392] causing search overtime: "FarmingHoe"
+23:00:39.746 [CE][LootRespawner] (PRIDummy) :: Item [393] causing search overtime: "GCGN_Ammo_50Cal"
+23:00:39.747 [CE][LootRespawner] (PRIDummy) :: Item [394] causing search overtime: "SNAFU_PL14HQP"
+23:00:39.747 [CE][LootRespawner] (PRIDummy) :: Item [395] causing search overtime: "SNAFU_MTrijicon_Docter"
+23:00:39.749 [CE][LootRespawner] (PRIDummy) :: Item [396] causing search overtime: "MK18_Gun"
+23:00:39.749 [CE][LootRespawner] (PRIDummy) :: Item [397] causing search overtime: "SNAFU_AK19_Stock"
+23:00:39.753 [CE][LootRespawner] (PRIDummy) :: Item [398] causing search overtime: "Mag_SVD_10Rnd"
+23:00:39.753 [CE][LootRespawner] (PRIDummy) :: Item [399] causing search overtime: "Mag_SVD_10Rnd"
+23:00:39.754 [CE][LootRespawner] (PRIDummy) :: Item [400] causing search overtime: "Mag_SVD_10Rnd"
+23:00:39.755 [CE][LootRespawner] (PRIDummy) :: Item [401] causing search overtime: "Mag_SVD_10Rnd"
+23:00:39.758 [CE][LootRespawner] (PRIDummy) :: Item [402] causing search overtime: "dzn_blueprint_lehs"
+23:00:39.759 [CE][LootRespawner] (PRIDummy) :: Item [166] is hard to place, performance drops: "MountainBag_Orange"
+23:00:39.776 [CE][LootRespawner] (PRIDummy) :: Item [403] causing search overtime: "SNAFU_MTango6T_Wood"
+23:00:39.776 [CE][LootRespawner] (PRIDummy) :: Item [404] causing search overtime: "SNAFU_SR3Vikhr_Supp"
+23:00:39.780 [CE][LootRespawner] (PRIDummy) :: Item [167] is hard to place, performance drops: "CarRadiator"
+23:00:39.792 [CE][LootRespawner] (PRIDummy) :: Item [405] causing search overtime: "SNAFU_AFG_02_Black"
+23:00:39.794 [CE][LootRespawner] (PRIDummy) :: Item [406] causing search overtime: "SNAFU_SR25_Mag"
+23:00:39.809 [CE][LootRespawner] (PRIDummy) :: Item [168] is hard to place, performance drops: "GorkaEJacket_PautRev"
+23:00:39.812 [CE][LootRespawner] (PRIDummy) :: Item [169] is hard to place, performance drops: "GorkaEJacket_PautRev"
+23:00:39.821 [CE][LootRespawner] (PRIDummy) :: Item [407] causing search overtime: "dzn_athena_planning"
+23:00:39.822 [CE][LootRespawner] (PRIDummy) :: Item [408] causing search overtime: "SNAFU_Aimpoint_ACO"
+23:00:39.848 [CE][LootRespawner] (PRIDummy) :: Item [409] causing search overtime: "SNAFUPPSh"
+23:00:39.848 [CE][LootRespawner] (PRIDummy) :: Item [410] causing search overtime: "dzn_athena3_october"
+23:00:39.854 [CE][LootRespawner] (PRIDummy) :: Item [170] is hard to place, performance drops: "PowerGenerator"
+23:00:39.856 [CE][LootRespawner] (PRIDummy) :: Item [171] is hard to place, performance drops: "PowerGenerator"
+23:00:39.858 [CE][LootRespawner] (PRIDummy) :: Item [411] causing search overtime: "SNAFUAR15_SPR_Tan_GUN"
+23:00:39.863 [CE][LootRespawner] (PRIDummy) :: Item [412] causing search overtime: "Mag_Aug_30Rnd"
+23:00:39.863 [CE][LootRespawner] (PRIDummy) :: Item [413] causing search overtime: "Mag_Aug_30Rnd"
+23:00:39.863 [CE][LootRespawner] (PRIDummy) :: Item [414] causing search overtime: "Mag_Aug_30Rnd"
+23:00:39.863 [CE][LootRespawner] (PRIDummy) :: Item [415] causing search overtime: "SA58_FGrip"
+23:00:39.866 [CE][LootRespawner] (PRIDummy) :: Item [416] causing search overtime: "SNAFU_PRSGen3_Stock"
+23:00:39.876 [CE][LootRespawner] (PRIDummy) :: Item [172] is hard to place, performance drops: "WorkingGloves_Yellow"
+23:00:39.876 [CE][LootRespawner] (PRIDummy) :: Item [417] causing search overtime: "SNAFU_Trenchgun"
+23:00:39.886 [CE][LootRespawner] (PRIDummy) :: Item [418] causing search overtime: "SNAFU_M249Bipod"
+23:00:39.893 [CE][LootRespawner] (PRIDummy) :: Item [419] causing search overtime: "SNAFU_AK103_Mag"
+23:00:39.902 [CE][LootRespawner] (PRIDummy) :: Item [420] causing search overtime: "SNAFUPPSKN_30rdMag"
+23:00:39.902 [CE][LootRespawner] (PRIDummy) :: Item [421] causing search overtime: "SNAFUHoneyBadger_30rdMag_Tan"
+23:00:39.905 [CE][LootRespawner] (PRIDummy) :: Item [422] causing search overtime: "SNAFU_M4300AC_14DV_GUN"
+23:00:39.905 [CE][LootRespawner] (PRIDummy) :: Item [423] causing search overtime: "SNAFUTAR21_Tan"
+23:00:39.905 [CE][LootRespawner] (PRIDummy) :: Item [424] causing search overtime: "SNAFU_HGGS"
+23:00:39.906 [CE][LootRespawner] (PRIDummy) :: Item [425] causing search overtime: "SNAFUKivaari_338_Supp"
+23:00:39.907 [CE][LootRespawner] (PRIDummy) :: Item [426] causing search overtime: "Mag_Saiga_Drum20Rnd"
+23:00:39.907 [CE][LootRespawner] (PRIDummy) :: Item [427] causing search overtime: "Mag_Saiga_Drum20Rnd"
+23:00:39.918 [CE][LootRespawner] (PRIDummy) :: Item [428] causing search overtime: "SNAFUGevar_Grey"
+23:00:39.919 [CE][LootRespawner] (PRIDummy) :: Item [429] causing search overtime: "SNAFU_SADAR_Stock"
+23:00:39.919 [CE][LootRespawner] (PRIDummy) :: Item [430] causing search overtime: "SNAFUVSSK_5rdMag"
+23:00:39.939 [CE][LootRespawner] (PRIDummy) :: Item [431] causing search overtime: "dzn_module_card"
+23:00:39.963 [CE][LootRespawner] (PRIDummy) :: Item [432] causing search overtime: "SNAFU_AK19Muzzel"
+23:00:39.965 [CE][LootRespawner] (PRIDummy) :: Item [173] is hard to place, performance drops: "Sweater_Green"
+23:00:39.966 [CE][LootRespawner] (PRIDummy) :: Item [174] is hard to place, performance drops: "Sweater_Green"
+23:00:39.990 [CE][LootRespawner] (PRIDummy) :: Item [433] causing search overtime: "GCGN_M200_Mag"
+23:00:39.993 [CE][LootRespawner] (PRIDummy) :: Item [434] causing search overtime: "SNAFU_SBA_Stock"
+23:00:39.995 [CE][LootRespawner] (PRIDummy) :: Item [435] causing search overtime: "SNAFU_Normalized_Suppressor_Black"
+23:00:39.997 [CE][LootRespawner] (PRIDummy) :: Item [436] causing search overtime: "SNAFU_Ammo_500_SW"
+23:00:39.997 [CE][LootRespawner] (PRIDummy) :: Item [437] causing search overtime: "SNAFUGM6Lynx_5rdMag"
+23:00:40.11  [CE][LootRespawner] (PRIDummy) :: Item [438] causing search overtime: "SNAFU_M4556_Modular14_GUN"
+23:00:40.23  [CE][LootRespawner] (PRIDummy) :: Item [175] is hard to place, performance drops: "WoodAxe"
+23:00:40.23  [CE][LootRespawner] (PRIDummy) :: Item [176] is hard to place, performance drops: "WoodAxe"
+23:00:40.26  [CE][LootRespawner] (PRIDummy) :: Item [177] is hard to place, performance drops: "WoodAxe"
+23:00:40.27  [CE][LootRespawner] (PRIDummy) :: Item [178] is hard to place, performance drops: "WoodAxe"
+23:00:40.31  [CE][LootRespawner] (PRIDummy) :: Item [179] is hard to place, performance drops: "HipPack_Black"
+23:00:40.38  [CE][LootRespawner] (PRIDummy) :: Item [439] causing search overtime: "SNAFURPD_100rdMag"
+23:00:40.39  [CE][LootRespawner] (PRIDummy) :: Item [440] causing search overtime: "FirefightersHelmet_White"
+23:00:40.41  [CE][LootRespawner] (PRIDummy) :: Item [441] causing search overtime: "SNAFUM98B_Digi_GUN"
+23:00:40.45  [CE][LootRespawner] (PRIDummy) :: Item [442] causing search overtime: "SNAFU_KAC_Gun"
+23:00:40.46  [CE][LootRespawner] (PRIDummy) :: Item [443] causing search overtime: "SNAFUTac21"
+23:00:40.46  [CE][LootRespawner] (PRIDummy) :: Item [180] is hard to place, performance drops: "PetushokHat_Yellow"
+23:00:40.48  [CE][LootRespawner] (PRIDummy) :: Item [444] causing search overtime: "SNAFU_Shotgunchoke_Tur"
+23:00:40.56  [CE][LootRespawner] (PRIDummy) :: Item [181] is hard to place, performance drops: "BomberJacket_Grey"
+23:00:40.60  [CE][LootRespawner] (PRIDummy) :: Item [445] causing search overtime: "SNAFU_PMAG556_Grey"
+23:00:40.77  [CE][LootRespawner] (PRIDummy) :: Item [446] causing search overtime: "SNAFU_CMAG40556_Black"
+23:00:40.78  [CE][LootRespawner] (PRIDummy) :: Item [447] causing search overtime: "Snafu_ScarH_Black_GUN"
+23:00:40.78  [CE][LootRespawner] (PRIDummy) :: Item [448] causing search overtime: "MountainBag_Blue"
+23:00:40.78  [CE][LootRespawner] (PRIDummy) :: Item [449] causing search overtime: "SNAFU_BMAG556_Black"
+23:00:40.79  [CE][LootRespawner] (PRIDummy) :: Item [450] causing search overtime: "Snafu_ScarH_Snow_GUN"
+23:00:40.81  [CE][LootRespawner] (PRIDummy) :: Item [451] causing search overtime: "SNAFU_MAimpoint_ACO"
+23:00:40.82  [CE][LootRespawner] (PRIDummy) :: Item [452] causing search overtime: "SNAFU_HEOTech_EXPS3"
+23:00:40.86  [CE][LootRespawner] (PRIDummy) :: Item [182] is hard to place, performance drops: "NBCBootsGray"
+23:00:40.87  [CE][LootRespawner] (PRIDummy) :: Item [183] is hard to place, performance drops: "NBCBootsGray"
+23:00:40.88  [CE][LootRespawner] (PRIDummy) :: Item [453] causing search overtime: "SNAFUMk12"
+23:00:40.103 [CE][LootRespawner] (PRIDummy) :: Item [184] is hard to place, performance drops: "ChestHolster"
+23:00:40.115 [CE][LootRespawner] (PRIDummy) :: Item [454] causing search overtime: "FirefighterJacket_Beige"
+23:00:40.115 [CE][LootRespawner] (PRIDummy) :: Item [185] is hard to place, performance drops: "dzn_sumrak_up_coldw"
+23:00:40.126 [CE][LootRespawner] (PRIDummy) :: Item [186] is hard to place, performance drops: "Wellies_Brown"
+23:00:40.129 [CE][LootRespawner] (PRIDummy) :: Item [455] causing search overtime: "Snafu_ScarH_Tan_GUN"
+23:00:40.163 [CE][LootRespawner] (PRIDummy) :: Item [456] causing search overtime: "BandageDressing"
+23:00:40.165 [CE][LootRespawner] (PRIDummy) :: Item [457] causing search overtime: "BandageDressing"
+23:00:40.167 [CE][LootRespawner] (PRIDummy) :: Item [458] causing search overtime: "BandageDressing"
+23:00:40.176 [CE][LootRespawner] (PRIDummy) :: Item [459] causing search overtime: "GCGN_Ammo_3006"
+23:00:40.176 [CE][LootRespawner] (PRIDummy) :: Item [460] causing search overtime: "SNAFUScar_AFG_BK"
+23:00:40.181 [CE][LootRespawner] (PRIDummy) :: Item [187] is hard to place, performance drops: "WeldingMask"
+23:00:40.183 [CE][LootRespawner] (PRIDummy) :: Item [188] is hard to place, performance drops: "WeldingMask"
+23:00:40.188 [CE][LootRespawner] (PRIDummy) :: Item [461] causing search overtime: "SNAFUVECTOR_9mm_GUN"
+23:00:40.189  PHYSICS   (W): While attempting to remove proxy physics for the selection 'codelock', the corresponding bone could not be found in the shape 'dz\gear\camping\mediumtent.p3d'
+23:00:40.189  PHYSICS   (W): While attempting to remove proxy physics for the selection 'codelock', the corresponding bone could not be found in the shape 'dz\gear\camping\mediumtent.p3d'
+23:00:40.191  PHYSICS   (W): While attempting to remove proxy physics for the selection 'codelock', the corresponding bone could not be found in the shape 'dz\gear\camping\mediumtent.p3d'
+23:00:40.192  PHYSICS   (W): While attempting to remove proxy physics for the selection 'codelock', the corresponding bone could not be found in the shape 'dz\gear\camping\mediumtent.p3d'
+23:00:40.193  PHYSICS   (W): While attempting to remove proxy physics for the selection 'codelock', the corresponding bone could not be found in the shape 'dz\gear\camping\mediumtent.p3d'
+23:00:40.193 [CE][LootRespawner] (PRIDummy) :: Item [462] causing search overtime: "SNAFU_Fort12_12rnd_Mag"
+23:00:40.200 [CE][LootRespawner] (PRIDummy) :: Item [463] causing search overtime: "SNAFU_SR25_Gun"
+23:00:40.202 [CE][LootRespawner] (PRIDummy) :: Item [464] causing search overtime: "SNAFU_AK103A"
+23:00:40.237 [CE][LootRespawner] (PRIDummy) :: Item [465] causing search overtime: "SNAFU_408_Suppressor_T"
+23:00:40.242 [CE][LootRespawner] (PRIDummy) :: Item [189] is hard to place, performance drops: "Rope"
+23:00:40.245 [CE][LootRespawner] (PRIDummy) :: Item [190] is hard to place, performance drops: "Rope"
+23:00:40.246 [CE][LootRespawner] (PRIDummy) :: Item [191] is hard to place, performance drops: "Rope"
+23:00:40.249 [CE][LootRespawner] (PRIDummy) :: Item [192] is hard to place, performance drops: "Rope"
+23:00:40.252 [CE][LootRespawner] (PRIDummy) :: Item [466] causing search overtime: "SNAFU_AFG_02_OD"
+23:00:40.253 [CE][LootRespawner] (PRIDummy) :: Item [467] causing search overtime: "SNAFU_MLeupold_Mark8"
+23:00:40.262 [CE][LootRespawner] (PRIDummy) :: Item [193] is hard to place, performance drops: "WorkingGloves_Beige"
+23:00:40.263 [CE][LootRespawner] (PRIDummy) :: Item [194] is hard to place, performance drops: "WorkingGloves_Beige"
+23:00:40.266 [CE][LootRespawner] (PRIDummy) :: Item [195] is hard to place, performance drops: "WorkingGloves_Beige"
+23:00:40.266 [CE][LootRespawner] (PRIDummy) :: Item [196] is hard to place, performance drops: "WorkingGloves_Beige"
+23:00:40.269 [CE][LootRespawner] (PRIDummy) :: Item [468] causing search overtime: "SNAFU_Hunting_Mount_Base"
+23:00:40.270 [CE][LootRespawner] (PRIDummy) :: Item [197] is hard to place, performance drops: "dzn_gorka_up_winter"
+23:00:40.271 [CE][LootRespawner] (PRIDummy) :: Item [198] is hard to place, performance drops: "dzn_gorka_up_winter"
+23:00:40.280 [CE][LootRespawner] (PRIDummy) :: Item [469] causing search overtime: "SNAFU_PDW_9mm"
+23:00:40.282 [CE][LootRespawner] (PRIDummy) :: Item [199] is hard to place, performance drops: "BatteryCharger"
+23:00:40.283 [CE][LootRespawner] (PRIDummy) :: Item [200] is hard to place, performance drops: "BatteryCharger"
+23:00:40.285 [CE][LootRespawner] (PRIDummy) :: Item [201] is hard to place, performance drops: "BatteryCharger"
+23:00:40.285 [CE][LootRespawner] (PRIDummy) :: Item [202] is hard to place, performance drops: "BatteryCharger"
+23:00:40.286 [CE][LootRespawner] (PRIDummy) :: Item [203] is hard to place, performance drops: "BatteryCharger"
+23:00:40.287 [CE][LootRespawner] (PRIDummy) :: Item [204] is hard to place, performance drops: "BatteryCharger"
+23:00:40.289 [CE][LootRespawner] (PRIDummy) :: Item [205] is hard to place, performance drops: "BatteryCharger"
+23:00:40.289 [CE][LootRespawner] (PRIDummy) :: Item [470] causing search overtime: "SNAFU_M200S_Tan"
+23:00:40.308 [CE][LootRespawner] (PRIDummy) :: Item [206] is hard to place, performance drops: "MetalPlate"
+23:00:40.309 [CE][LootRespawner] (PRIDummy) :: Item [207] is hard to place, performance drops: "MetalPlate"
+23:00:40.311 [CE][LootRespawner] (PRIDummy) :: Item [208] is hard to place, performance drops: "MetalPlate"
+23:00:40.312 [CE][LootRespawner] (PRIDummy) :: Item [209] is hard to place, performance drops: "MetalPlate"
+23:00:40.313 [CE][LootRespawner] (PRIDummy) :: Item [210] is hard to place, performance drops: "MetalPlate"
+23:00:40.313 [CE][LootRespawner] (PRIDummy) :: Item [211] is hard to place, performance drops: "MetalPlate"
+23:00:40.315 [CE][LootRespawner] (PRIDummy) :: Item [212] is hard to place, performance drops: "MetalPlate"
+23:00:40.315 [CE][LootRespawner] (PRIDummy) :: Item [213] is hard to place, performance drops: "MetalPlate"
+23:00:40.315 [CE][LootRespawner] (PRIDummy) :: Item [214] is hard to place, performance drops: "MetalPlate"
+23:00:40.317 [CE][LootRespawner] (PRIDummy) :: Item [215] is hard to place, performance drops: "MetalPlate"
+23:00:40.317 [CE][LootRespawner] (PRIDummy) :: Item [216] is hard to place, performance drops: "MetalPlate"
+23:00:40.318 [CE][LootRespawner] (PRIDummy) :: Item [217] is hard to place, performance drops: "MetalPlate"
+23:00:40.319 [CE][LootRespawner] (PRIDummy) :: Item [218] is hard to place, performance drops: "MetalPlate"
+23:00:40.319 [CE][LootRespawner] (PRIDummy) :: Item [219] is hard to place, performance drops: "MetalPlate"
+23:00:40.319 [CE][LootRespawner] (PRIDummy) :: Item [220] is hard to place, performance drops: "MetalPlate"
+23:00:40.323 [CE][LootRespawner] (PRIDummy) :: Item [471] causing search overtime: "MetalPlate"
+23:00:40.323 [CE][LootRespawner] (PRIDummy) :: Item [221] is hard to place, performance drops: "MetalPlate"
+23:00:40.323 [CE][LootRespawner] (PRIDummy) :: Item [222] is hard to place, performance drops: "MetalPlate"
+23:00:40.324 [CE][LootRespawner] (PRIDummy) :: Item [223] is hard to place, performance drops: "MetalPlate"
+23:00:40.324 [CE][LootRespawner] (PRIDummy) :: Item [224] is hard to place, performance drops: "MetalPlate"
+23:00:40.325 [CE][LootRespawner] (PRIDummy) :: Item [225] is hard to place, performance drops: "MetalPlate"
+23:00:40.325 [CE][LootRespawner] (PRIDummy) :: Item [226] is hard to place, performance drops: "MetalPlate"
+23:00:40.325 [CE][LootRespawner] (PRIDummy) :: Item [227] is hard to place, performance drops: "MetalPlate"
+23:00:40.326 [CE][LootRespawner] (PRIDummy) :: Item [228] is hard to place, performance drops: "MetalPlate"
+23:00:40.328 [CE][LootRespawner] (PRIDummy) :: Item [229] is hard to place, performance drops: "MetalPlate"
+23:00:40.328 [CE][LootRespawner] (PRIDummy) :: Item [230] is hard to place, performance drops: "MetalPlate"
+23:00:40.328 [CE][LootRespawner] (PRIDummy) :: Item [231] is hard to place, performance drops: "MetalPlate"
+23:00:40.331 [CE][LootRespawner] (PRIDummy) :: Item [232] is hard to place, performance drops: "MetalPlate"
+23:00:40.331 [CE][LootRespawner] (PRIDummy) :: Item [233] is hard to place, performance drops: "MetalPlate"
+23:00:40.331 [CE][LootRespawner] (PRIDummy) :: Item [234] is hard to place, performance drops: "MetalPlate"
+23:00:40.333 [CE][LootRespawner] (PRIDummy) :: Item [235] is hard to place, performance drops: "MetalPlate"
+23:00:40.335 [CE][LootRespawner] (PRIDummy) :: Item [236] is hard to place, performance drops: "MetalPlate"
+23:00:40.335 [CE][LootRespawner] (PRIDummy) :: Item [237] is hard to place, performance drops: "MetalPlate"
+23:00:40.336 [CE][LootRespawner] (PRIDummy) :: Item [238] is hard to place, performance drops: "MetalPlate"
+23:00:40.337 [CE][LootRespawner] (PRIDummy) :: Item [239] is hard to place, performance drops: "MetalPlate"
+23:00:40.338 [CE][LootRespawner] (PRIDummy) :: Item [240] is hard to place, performance drops: "MetalPlate"
+23:00:40.338 [CE][LootRespawner] (PRIDummy) :: Item [241] is hard to place, performance drops: "MetalPlate"
+23:00:40.339 [CE][LootRespawner] (PRIDummy) :: Item [242] is hard to place, performance drops: "MetalPlate"
+23:00:40.339 [CE][LootRespawner] (PRIDummy) :: Item [243] is hard to place, performance drops: "MetalPlate"
+23:00:40.339 [CE][LootRespawner] (PRIDummy) :: Item [244] is hard to place, performance drops: "MetalPlate"
+23:00:40.339 [CE][LootRespawner] (PRIDummy) :: Item [472] causing search overtime: "MetalPlate"
+23:00:40.339 [CE][LootRespawner] (PRIDummy) :: Item [245] is hard to place, performance drops: "MetalPlate"
+23:00:40.339 [CE][LootRespawner] (PRIDummy) :: Item [246] is hard to place, performance drops: "MetalPlate"
+23:00:40.339 [CE][LootRespawner] (PRIDummy) :: Item [247] is hard to place, performance drops: "MetalPlate"
+23:00:40.340 [CE][LootRespawner] (PRIDummy) :: Item [248] is hard to place, performance drops: "MetalPlate"
+23:00:40.341 [CE][LootRespawner] (PRIDummy) :: Item [249] is hard to place, performance drops: "MetalPlate"
+23:00:40.341 [CE][LootRespawner] (PRIDummy) :: Item [250] is hard to place, performance drops: "MetalPlate"
+23:00:40.341 [CE][LootRespawner] (PRIDummy) :: Item [251] is hard to place, performance drops: "MetalPlate"
+23:00:40.350 [CE][LootRespawner] (PRIDummy) :: Item [473] causing search overtime: "GCGN_M200"
+23:00:40.351 [CE][LootRespawner] (PRIDummy) :: Initially (re)spawned:6459, Nominal:6884, Total in Map: 6492 at 4 (sec)
+23:00:40.351   tests:6724, repeats:13 fails:252, overtime:474
+23:00:40.354 [CE][Links] found 0 total links between groups, of 1
+23:00:40.354 [CE][SpawnRandomLoot] (StaticMedDrop) :: Type: Misc_cargo_cont_net1, lootmin: 4, lootmax: 6, wanted: 5, deloot: 2, containermaxsum: 6
+23:00:40.358 [CE][Links] found 0 total links between groups, of 2
+23:00:40.358 [CE][SpawnRandomLoot] (StaticMedDrop) :: Type: Misc_cargo_cont_net1, lootmin: 4, lootmax: 6, wanted: 5, deloot: 2, containermaxsum: 6
+23:00:40.363 [CE][Links] found 0 total links between groups, of 3
+23:00:40.363 [CE][SpawnRandomLoot] (StaticMedDrop) :: Type: Misc_cargo_cont_net1, lootmin: 4, lootmax: 6, wanted: 5, deloot: 2, containermaxsum: 6
+23:00:40.365 [CE][Links] found 0 total links between groups, of 4
+23:00:40.365 [CE][SpawnRandomLoot] (StaticMedDrop) :: Type: Misc_cargo_cont_net1, lootmin: 4, lootmax: 6, wanted: 5, deloot: 2, containermaxsum: 6
+23:00:40.368 [CE][Links] found 0 total links between groups, of 5
+23:00:40.368 [CE][SpawnRandomLoot] (StaticMedDrop) :: Type: Misc_cargo_cont_net1, lootmin: 4, lootmax: 6, wanted: 5, deloot: 2, containermaxsum: 6
+23:00:40.370 [CE][Links] found 0 total links between groups, of 6
+23:00:40.370 [CE][SpawnRandomLoot] (StaticMedDrop) :: Type: Misc_cargo_cont_net1, lootmin: 4, lootmax: 6, wanted: 5, deloot: 2, containermaxsum: 6
+23:00:40.376 [CE][Links] found 0 total links between groups, of 7
+23:00:40.376 [CE][SpawnRandomLoot] (StaticLifeboat) :: Type: sea_oilrig_lifeboat, lootmin: 2, lootmax: 5, wanted: 4, deloot: 2, containermaxsum: 5
+23:00:40.377 [CE][SpawnRandomLoot] (StaticLifeboat) :: No item found to spawn for DE! Spawned: 2 / 4 (enable log_ce_dynamicevent to see item lists for event)
+23:00:40.449  WORLD        : Create entity type 'ZmbM_ruSoldier_normal_Woodland1'
+23:00:40.449   MATERIAL  (E): Object dz/characters/zombies/z_hermit_m.xob - cannot load material Material_1.emat
+23:00:40.829  WORLD        : Create entity type 'Animal_CapraHircusF'
+23:00:40.830   ENTITY    (E): Type 'ManType' must be inherited from class 'DayZAnimalType'
+23:00:40.837  WORLD        : Create entity type 'Animal_OvisAries'
+23:00:40.837   ENTITY    (E): Type 'ManType' must be inherited from class 'DayZAnimalType'
+23:00:40.839  WORLD        : Create entity type 'Animal_RangiferTarandus'
+23:00:40.839   ENTITY    (E): Type 'ManType' must be inherited from class 'DayZAnimalType'
+23:00:40.842  WORLD        : Create entity type 'Animal_RangiferTarandusF'
+23:00:40.842   ENTITY    (E): Type 'ManType' must be inherited from class 'DayZAnimalType'
+23:00:40.844  WORLD        : Create entity type 'Animal_SusScrofa'
+23:00:40.844   ENTITY    (E): Type 'ManType' must be inherited from class 'DayZAnimalType'
+23:00:40.849  WORLD        : Create entity type 'Animal_CanisLupus_Grey'
+23:00:40.849   ENTITY    (E): Type 'ManType' must be inherited from class 'DayZAnimalType'
+23:00:40.854  WORLD        : Create entity type 'Animal_CanisLupus_White'
+23:00:40.854   ENTITY    (E): Type 'ManType' must be inherited from class 'DayZAnimalType'
+23:00:40.860  WORLD        : Create entity type 'Animal_UrsusArctos'
+23:00:40.860   ENTITY    (E): Type 'ManType' must be inherited from class 'DayZAnimalType'
+23:00:40.869  WORLD        : Create entity type 'Animal_UrsusMaritimus'
+23:00:40.869   ENTITY    (E): Type 'ManType' must be inherited from class 'DayZAnimalType'
+23:00:40.993  ENTITY       : Load entity type 'Land_Rail_Warehouse_Small'
+23:00:40.993   ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+23:00:40.994   ENTITY    (W): Door 'DoorsTwin2' is missing geometry components for selection 'DoorsTwin2', check model+config
+23:00:41.11   ENTITY    (W): Unknown object class 'pond' (dz\water_sakhal\ice_lake\sakhal_50x50_ice_lake_clear.p3d)
+23:00:41.62  [CE][DynEvent] :: 23 types
+23:00:41.62  [00] Loot
+23:00:41.62    Primary Spawner: "Loot", active: yes, repeat: 2
+23:00:41.62  [01] StaticMedDrop
+23:00:41.62    Primary Spawner: "Static", active: yes, repeat: 1
+23:00:41.62  [02] StaticLifeboat
+23:00:41.62    Primary Spawner: "Static", active: yes, repeat: 1
+23:00:41.62  [03] ItemWoodenPlanks
+23:00:41.62    Primary Spawner: "Item", active: yes, repeat: 1
+23:00:41.62  [04] TrajectoryStones
+23:00:41.62    Primary Spawner: "Trajectory", active: yes, repeat: 1
+23:00:41.62  [05] InfectedSanta
+23:00:41.62    Primary Spawner: "Infected", active: yes, repeat: 1
+23:00:41.62  [06] InfectedArmy
+23:00:41.62    Primary Spawner: "Infected", active: yes, repeat: 1
+23:00:41.62  [07] InfectedIndustrial
+23:00:41.62    Primary Spawner: "Infected", active: yes, repeat: 1
+23:00:41.62  [08] InfectedCivil
+23:00:41.62    Primary Spawner: "Infected", active: yes, repeat: 1
+23:00:41.62  [09] InfectedMedic
+23:00:41.62    Primary Spawner: "Infected", active: yes, repeat: 1
+23:00:41.62  [10] AnimalGoat
+23:00:41.62    Primary Spawner: "Animal", active: yes, repeat: 1
+23:00:41.62  [11] AnimalSheep
+23:00:41.62    Primary Spawner: "Animal", active: yes, repeat: 1
+23:00:41.62  [12] AnimalReindeer
+23:00:41.62    Primary Spawner: "Animal", active: yes, repeat: 1
+23:00:41.62  [13] AnimalWildBoar
+23:00:41.62    Primary Spawner: "Animal", active: yes, repeat: 1
+23:00:41.62  [14] AnimalWolf
+23:00:41.62    Primary Spawner: "Animal", active: yes, repeat: 1
+23:00:41.62  [15] AnimalBrownBear
+23:00:41.62    Primary Spawner: "Animal", active: yes, repeat: 1
+23:00:41.62  [16] AnimalPolarBear
+23:00:41.62    Primary Spawner: "Animal", active: yes, repeat: 1
+23:00:41.62  [17] AmbientFox
+23:00:41.62    Primary Spawner: "Ambient", active: yes, repeat: 1
+23:00:41.62  [18] AmbientHare
+23:00:41.62    Primary Spawner: "Ambient", active: yes, repeat: 1
+23:00:41.62  [19] VehicleRubberBoats
+23:00:41.62    Primary Spawner: "Vehicle", active: yes, repeat: 1
+23:00:41.62  [20] VehicleCivilianCars
+23:00:41.62    Primary Spawner: "Vehicle", active: yes, repeat: 1
+23:00:41.62  [21] VehicleTrucks
+23:00:41.62    Primary Spawner: "Vehicle", active: yes, repeat: 1
+23:00:41.62  [22] VehicleMilitary
+23:00:41.62    Primary Spawner: "Vehicle", active: yes, repeat: 1
+23:00:41.62  [CE][Hive] :: Initializing of spawners done.
+23:00:41.65  [CE][Hive] :: Init sequence finished.
+23:00:41.65  Player connect enabled
+23:00:41.229 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+23:00:41.230 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+23:00:41.230 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+23:00:41.230 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+23:00:41.231 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+23:00:41.231 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+23:00:41.231 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+23:00:41.232 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+23:00:41.232 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+23:00:41.233 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+23:00:41.233 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+23:00:41.233 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+23:00:41.240 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+23:00:41.240 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+23:00:41.241 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+23:00:41.647 [IdleMode] Entering IN - save processed
+23:00:41.654 ENTITY    (W): Unknown object class 'pond' (dz\water_sakhal\ice_lake\sakhal_50x50_ice_lake_clear.p3d)
+23:00:41.655 ENTITY    (W): Unknown object class 'pond' (dz\water_sakhal\ice_lake\sakhal_50x50_ice_lake_clear.p3d)
+23:00:41.659 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+23:00:41.659 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+23:00:41.659 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+23:00:41.659 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+23:00:41.660 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+23:00:41.660 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+23:00:41.660 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+23:00:41.660 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+23:00:41.661 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+23:00:41.661 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+23:00:41.661 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+23:00:41.661 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+23:00:41.662 ENTITY    (W): Unknown object class 'pond' (dz\water_sakhal\ice_lake\sakhal_50x50_ice_lake_clear.p3d)
+23:00:41.662 ENTITY    (W): Unknown object class 'pond' (dz\water_sakhal\ice_lake\sakhal_50x50_ice_lake_clear.p3d)
+23:00:41.680 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+23:00:41.725 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+23:00:41.783 ENTITY       : Load entity type 'land_seb_near_fac7'
+23:00:41.783  ENTITY    (W): Door 'doorstwin1' is missing geometry components for selection 'doorstwin1', check model+config
+23:00:41.787 ENTITY    (W): Unknown object class 'pond' (dz\water_sakhal\ice_lake\sakhal_50x50_ice_lake_clear.p3d)
+23:00:41.797 ENTITY    (W): Unknown object class 'pond' (dz\water_sakhal\ice_lake\sakhal_50x50_ice_lake_clear.p3d)
+23:00:41.979 ENTITY       : Load entity type 'Land_City_School'
+23:00:41.979  ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+23:00:41.979  ENTITY    (W): Door 'DoorsTwin3' is missing geometry components for selection 'DoorsTwin3', check model+config
+23:00:41.979  ENTITY    (W): Door 'DoorsTwin4' is missing geometry components for selection 'DoorsTwin4', check model+config
+23:00:41.979  ENTITY    (W): Door 'DoorsTwin5' is missing geometry components for selection 'DoorsTwin5', check model+config
+23:00:41.979  ENTITY    (W): Door 'DoorsTwin6' is missing geometry components for selection 'DoorsTwin6', check model+config
+23:00:41.979  ENTITY    (W): Door 'DoorsTwin7' is missing geometry components for selection 'DoorsTwin7', check model+config
+23:00:41.983  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+23:00:41.983  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+23:00:41.983  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+23:00:41.983  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+23:00:41.983  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+23:00:41.983  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+23:00:41.983  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+23:00:41.983  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+23:00:41.983  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+23:00:41.983  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+23:00:41.983  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+23:00:41.983  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+23:00:41.983  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+23:00:41.983  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+23:00:41.983  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+23:00:41.983  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+23:00:41.983  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+23:00:41.983  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+23:00:41.983  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+23:00:41.983  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+23:00:41.983  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+23:00:41.983  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+23:00:41.983  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+23:00:41.983  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+23:00:41.983  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+23:00:41.983  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+23:00:41.983  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+23:00:41.983  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+23:00:41.983  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+23:00:41.983  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+23:00:41.983  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+23:00:41.983  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+23:00:41.983  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+23:00:41.983  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+23:00:41.983  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+23:00:41.983  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+23:00:41.984  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+23:00:41.984  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+23:00:41.984  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+23:00:41.984  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+23:00:41.984  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+23:00:41.984  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+23:00:41.984  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+23:00:41.984  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+23:00:41.984  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+23:00:41.984  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+23:00:41.984  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+23:00:41.984  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+23:00:41.984  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+23:00:41.984  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+23:00:41.984  ENTITY    (W): Unknown object class 'thing' (dz\structures\proxy_buildingparts\lightningcond\lightningconductormiddle\lightningconductormiddle.p3d)
+23:00:42.35  ENTITY    (W): Unknown object class 'pond' (dz\water_sakhal\ice_lake\sakhal_50x50_ice_lake_clear.p3d)
+23:00:42.54  ENTITY       : Load entity type 'Land_Boathouse'
+23:00:42.54   ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+23:00:42.167 ENTITY       : Load entity type 'Land_Ruin_HouseBig3_NoIvy'
+23:00:42.167  ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+23:00:42.170 ENTITY       : Load entity type 'Land_Ruin_HouseBig2_NoIvy'
+23:00:42.170  ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+23:00:42.170  ENTITY    (W): Door 'DoorsTwin2' is missing geometry components for selection 'DoorsTwin2', check model+config
+23:00:42.214 ENTITY    (W): Unknown object class 'pond' (dz\water_sakhal\ice_lake\sakhal_50x50_ice_lake_clear.p3d)
+23:00:56.31  ENTITY    (W): Unknown object class 'pond' (dz\water_sakhal\ice_lake\sakhal_50x50_ice_lake_clear.p3d)
+23:00:57.748 ENTITY    (W): Unknown object class 'pond' (dz\water_sakhal\ice_lake\sakhal_50x50_ice_lake_clear.p3d)
+23:01:03.248 ENTITY    (W): Unknown object class 'pond' (dz\water_sakhal\ice_lake\sakhal_50x50_ice_lake_clear.p3d)
+23:01:03.248 ENTITY    (W): Unknown object class 'pond' (dz\water_sakhal\ice_lake\sakhal_50x50_ice_lake_clear.p3d)
+23:01:08.803 ENTITY       : Load entity type 'Land_Garage_Row_Big'
+23:01:08.803  ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+23:01:08.803  ENTITY    (W): Door 'DoorsTwin2' is missing geometry components for selection 'DoorsTwin2', check model+config
+23:01:08.803  ENTITY    (W): Door 'DoorsTwin3' is missing geometry components for selection 'DoorsTwin3', check model+config
+23:01:08.803  ENTITY    (W): Door 'DoorsTwin4' is missing geometry components for selection 'DoorsTwin4', check model+config
+23:01:10.20  ENTITY    (W): Unknown object class 'pond' (dz\water_sakhal\ice_lake\sakhal_50x50_ice_lake_clear.p3d)
+23:01:10.397 ENTITY    (W): Unknown object class 'pond' (dz\water_sakhal\ice_lake\sakhal_50x50_ice_lake_clear.p3d)
+23:01:11.899 ENTITY       : Load entity type 'Land_Ruin_HouseBig3_NoIvy_Half'
+23:01:11.899  ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'DoorsTwin1', check model+config
+23:01:20.746 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+23:01:20.746 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+23:01:20.746 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+23:01:20.792 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+23:01:20.792 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+23:01:20.792 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+23:01:20.793 ENTITY    (W): Unknown object class 'pond' (nst\ns\water\lakewater.p3d)
+23:01:28.82  ENTITY    (W): Unknown object class 'pond' (dz\water_sakhal\ice_lake\sakhal_50x50_ice_lake_clear.p3d)
+23:01:30.268 ENTITY    (W): Unknown object class 'pond' (dz\water_sakhal\ice_lake\sakhal_50x50_ice_lake_clear.p3d)
+23:02:15.429 [Login]: Adding player Survivor (745779507) to login queue at position 0
+23:02:15.429 [LoginMachine]: Add player Survivor (745779507 192.168.0.103:51129)
+23:02:15.429 [StateMachine]: Player Survivor (dpnid 745779507 uid ) Entering AuthPlayerLoginState
+23:02:15.431 [StateMachine]: Player Survivor (dpnid 745779507 uid ) Entering WaitAuthPlayerLoginState
+23:02:16.613 [IdleMode] Leaving OUT
+23:02:18.181 Игрок Survivor соединяется.
+23:02:18.238 [StateMachine]: Player Survivor (dpnid 745779507 uid ) Entering WaitPlayerAssignedLoginState
+23:02:18.379 [StateMachine]: Player Survivor (dpnid 745779507 uid ) Entering PlayerAssignedLoginState
+23:02:18.379 [StateMachine]: Player Survivor (dpnid 745779507 uid x_MJ2w6DZznhQeYHMWeX7_S9NuAxgYSiQqpLVIMNfrA=) Entering DBGetLoginTimeLoginState
+23:02:18.431 [StateMachine]: Player Survivor (dpnid 745779507 uid x_MJ2w6DZznhQeYHMWeX7_S9NuAxgYSiQqpLVIMNfrA=) Entering DBWaitLoginTimeLoginState
+23:02:33.432 [StateMachine]: Player Survivor (dpnid 745779507 uid x_MJ2w6DZznhQeYHMWeX7_S9NuAxgYSiQqpLVIMNfrA=) Entering DBGetCharacterLoginState
+23:02:33.433 [StateMachine]: Player Survivor (dpnid 745779507 uid x_MJ2w6DZznhQeYHMWeX7_S9NuAxgYSiQqpLVIMNfrA=) Entering CreateNetObjectsLoginState
+23:02:33.433 [CE][PlayerSpawnPoints][GRP_DBG] :: Selected: { no group } | idx: 0 (ut: 190609 | lt: 0 | ctr: 0)
+23:02:33.433 [CE][PlayerSpawnPoints][GRP_DBG] :: Current: { no group } | idx: 0 (ct: 190609 | ut: 190609 | lt: 0 | ctr: 0)
+23:02:33.433 [CE][PlayerSpawnPoints][GRP_DBG] :: Current: { no group } index: 0 (lt: 0 | ctr: 0)
+23:02:33.433 [CE][PlayerSpawnPoints][GRP_DBG] :: Selected: { no group } | idx: 0 (ut: 190609 | lt: 0 | ctr: 0)
+23:02:33.437 [StateMachine]: Player Survivor (dpnid 745779507 uid x_MJ2w6DZznhQeYHMWeX7_S9NuAxgYSiQqpLVIMNfrA=) Entering PreloadCamLoginState
+23:02:33.437 [StateMachine]: Player Survivor (dpnid 745779507 uid x_MJ2w6DZznhQeYHMWeX7_S9NuAxgYSiQqpLVIMNfrA=) Entering WaitPreloadCamLoginState
+23:02:38.639 [CE][LootRespawner] (PRIDummy) :: Item [474] causing search overtime: "FarmingHoe"
+23:02:38.739 [CE][LootRespawner] (PRIDummy) :: Item [475] causing search overtime: "KazuarOptic"
+23:02:38.839 [CE][LootRespawner] (PRIDummy) :: Item [476] causing search overtime: "ChickenFeather"
+23:02:38.938 [CE][LootRespawner] (PRIDummy) :: Item [477] causing search overtime: "dzn_netanyas_log"
+23:02:39.38  [CE][LootRespawner] (PRIDummy) :: Item [478] causing search overtime: "dzn_athena_planning"
+23:02:39.138 [CE][LootRespawner] (PRIDummy) :: Item [479] causing search overtime: "dzn_athena3_october"
+23:02:39.238 [CE][LootRespawner] (PRIDummy) :: Item [480] causing search overtime: "MountainBag_Blue"
+23:02:41.321 [StateMachine]: Player Survivor (dpnid 745779507 uid x_MJ2w6DZznhQeYHMWeX7_S9NuAxgYSiQqpLVIMNfrA=) Entering GetNewCharLoginState
+23:02:41.360 NETWORK      : Network simulation
+23:02:41.360  WORLD        : Create entity type 'SurvivorF_Maria'
+23:02:41.360   MATERIAL  (E): Object dz/characters/bodies/player_testing.xob - cannot load material cross_red.emat
+23:02:41.467   RESOURCES (E): Failed to open object @"dz/anims/anm/player/ik/vehicles/hatchback/hatchback_Doors_Hood.anm"
+23:02:41.468   RESOURCES (E): Failed to open object @"dz/anims/anm/player/ik/vehicles/v3s/hatchback_02_door_driver.anm"
+23:02:41.468   RESOURCES (E): Failed to open object @"dz/anims/anm/player/ik/vehicles/v3s/hatchback_02_door_codriver.anm"
+23:02:41.468   RESOURCES (E): Failed to open object @"dz/anims/anm/player/ik/vehicles/v3s/hatchback_02_door_driver.anm"
+23:02:41.468   RESOURCES (E): Failed to open object @"dz/anims/anm/player/ik/vehicles/v3s/hatchback_02_door_codriver.anm"
+23:02:41.468   RESOURCES (E): Failed to open object @"dz/anims/anm/player/ik/vehicles/v3s/hatchback_02_door_driver.anm"
+23:02:41.468   RESOURCES (E): Failed to open object @"dz/anims/anm/player/ik/vehicles/v3s/hatchback_02_door_codriver.anm"
+23:02:41.468   RESOURCES (E): Failed to open object @"dz/anims/anm/player/ik/vehicles/v3s/hatchback_02_door_driver.anm"
+23:02:41.468   RESOURCES (E): Failed to open object @"dz/anims/anm/player/ik/vehicles/v3s/hatchback_02_door_codriver.anm"
+23:02:41.469   RESOURCES (E): Failed to open object @"dz/anims/anm/player/ik/vehicles/hatchback/sedan_trunk.anm"
+23:02:43.321   ANIMATION    : AnimSetInstance load @"{73CE583BF4026B87}SNAFU_Scripts/Animations/GCGN_M1Garand.asi"
+23:02:43.321    RESOURCES (E): Failed to open object @"GCGN_Guns/Data/M1Garand/Anims/M1Garand.anm"
+23:02:44.414  ENTITY       : Load entity type 'SurvivorF_Maria'
+23:02:44.414   RESOURCES (E): Failed to open object @"dz/anims/anm/player/ik/vehicles/hatchback/hatchback_Doors_Hood.anm"
+23:02:44.414   RESOURCES (E): Failed to open object @"dz/anims/anm/player/ik/vehicles/v3s/hatchback_02_door_driver.anm"
+23:02:44.414   RESOURCES (E): Failed to open object @"dz/anims/anm/player/ik/vehicles/v3s/hatchback_02_door_codriver.anm"
+23:02:44.414   RESOURCES (E): Failed to open object @"dz/anims/anm/player/ik/vehicles/v3s/hatchback_02_door_driver.anm"
+23:02:44.414   RESOURCES (E): Failed to open object @"dz/anims/anm/player/ik/vehicles/v3s/hatchback_02_door_codriver.anm"
+23:02:44.414   RESOURCES (E): Failed to open object @"dz/anims/anm/player/ik/vehicles/v3s/hatchback_02_door_driver.anm"
+23:02:44.414   RESOURCES (E): Failed to open object @"dz/anims/anm/player/ik/vehicles/v3s/hatchback_02_door_codriver.anm"
+23:02:44.414   RESOURCES (E): Failed to open object @"dz/anims/anm/player/ik/vehicles/v3s/hatchback_02_door_driver.anm"
+23:02:44.414   RESOURCES (E): Failed to open object @"dz/anims/anm/player/ik/vehicles/v3s/hatchback_02_door_codriver.anm"
+23:02:44.415   RESOURCES (E): Failed to open object @"dz/anims/anm/player/ik/vehicles/hatchback/sedan_trunk.anm"
+23:02:44.443 Подключился игрок Survivor (id=x_MJ2w6DZznhQeYHMWeX7_S9NuAxgYSiQqpLVIMNfrA=).
+23:02:44.443 Player "Survivor" (steamID=76561199587900842 pos=<9107.5, 10213.7, 6.8>) is connected
+23:02:44.458 <CREATE NEW CHAR>:
+    charID 1
+    playerID 1
+    dpnid 745779507
+    uid x_MJ2w6DZznhQeYHMWeX7_S9NuAxgYSiQqpLVIMNfrA=
+23:03:08.662 [CE][LootRespawner] (PRIDummy) :: Item [481] causing search overtime: "FarmingHoe"
+23:03:08.761 [CE][LootRespawner] (PRIDummy) :: Item [482] causing search overtime: "KazuarOptic"
+23:03:08.861 [CE][LootRespawner] (PRIDummy) :: Item [483] causing search overtime: "ChickenFeather"
+23:03:08.961 [CE][LootRespawner] (PRIDummy) :: Item [484] causing search overtime: "dzn_netanyas_log"
+23:03:09.61  [CE][LootRespawner] (PRIDummy) :: Item [485] causing search overtime: "dzn_athena_planning"
+23:03:09.161 [CE][LootRespawner] (PRIDummy) :: Item [486] causing search overtime: "dzn_athena3_october"
+23:03:09.261 [CE][LootRespawner] (PRIDummy) :: Item [487] causing search overtime: "MountainBag_Blue"
+23:03:11.84  Player Survivor (745779507) kicked from server: 240 ( (Game restart required))
+23:03:11.87  [Disconnect]: Client 745779507 early disconnect
+23:03:11.87  [Disconnect]: Start script disconnect 745779507 (dbCharacterId 1 dbPlayerId 1) logoutTime 15
+23:03:11.458 [Disconnect]: Remove player info 745779507
+23:03:11.459 [Disconnect]: Player destroy 745779507 
+23:03:26.88  [Disconnect]: Finish script disconnect -1 (x_MJ2w6DZznhQeYHMWeX7_S9NuAxgYSiQqpLVIMNfrA=)
+23:03:35.561 [CE][LootRespawner] (PRIDummy) :: Item [488] causing search overtime: "FarmingHoe"
+23:03:35.661 [CE][LootRespawner] (PRIDummy) :: Item [489] causing search overtime: "KazuarOptic"
+23:03:35.761 [CE][LootRespawner] (PRIDummy) :: Item [490] causing search overtime: "ChickenFeather"
+23:03:35.860 [CE][LootRespawner] (PRIDummy) :: Item [491] causing search overtime: "dzn_netanyas_log"
+23:03:35.961 [CE][LootRespawner] (PRIDummy) :: Item [492] causing search overtime: "dzn_athena_planning"
+23:03:36.62  [CE][LootRespawner] (PRIDummy) :: Item [493] causing search overtime: "dzn_athena3_october"
+23:03:36.161 [CE][LootRespawner] (PRIDummy) :: Item [494] causing search overtime: "MountainBag_Blue"
+23:03:42.748  --- Termination successfully completed --- 
